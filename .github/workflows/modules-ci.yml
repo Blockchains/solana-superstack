@@ -1,0 +1,22 @@
+name: modules-ci
+on:
+  push: {paths: ["modules/**", ".github/workflows/modules-ci.yml"]}
+  pull_request:
+  workflow_dispatch:
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: {module: [valhalla, kryptpay, sca, predix, poe, gree]}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@1.85.0
+      - uses: Swatinem/rust-cache@v2
+        with: {workspaces: "modules/${{ matrix.module }}"}
+      - name: Build (host, locked deps)
+        working-directory: modules/${{ matrix.module }}
+        run: cargo build --locked
+      - name: Rust tests
+        working-directory: modules/${{ matrix.module }}
+        run: cargo test --locked 2>&1 | tee /tmp/t.log; grep "test result" /tmp/t.log >> $GITHUB_STEP_SUMMARY

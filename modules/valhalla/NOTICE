@@ -1,0 +1,4 @@
+This module contains code from https://github.com/restacked-dev/valhalla (commit 7aa9ddfb149f6f8b97efc5d523ca03a8b76aebf6, path anchor),
+via the fork https://github.com/Blockchains/valhalla.
+Copyright the original authors. Licensed under MIT; see the LICENSE file in this directory.
+Category: DeFi (LP/token locker). Modifications: build artifacts, node_modules and frontend removed; no source changes.

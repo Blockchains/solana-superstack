@@ -1,0 +1,4 @@
+This module contains code from https://github.com/asimnecip/gree (commit 7ef8c89e9b317f2f7f664588b1c58aaac7b816dd, path anchor),
+via the fork https://github.com/Blockchains/gree.
+Copyright the original authors. Licensed under MIT; see the LICENSE file in this directory.
+Category: Infra/Legal (agreements). Modifications: build artifacts, node_modules and frontend removed; no source changes.

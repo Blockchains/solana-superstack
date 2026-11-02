@@ -1,0 +1,4 @@
+This module contains code from https://github.com/ymbozkurt/Predix (commit 6f577914bb63f29b17892d70ff465d908a46782f, path Predix),
+via the fork https://github.com/Blockchains/Predix.
+Copyright the original authors. Licensed under Apache-2.0; see the LICENSE file in this directory.
+Category: DeFi (prediction market). Modifications: build artifacts, node_modules and frontend removed; no source changes.

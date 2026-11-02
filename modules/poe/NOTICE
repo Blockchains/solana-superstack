@@ -1,0 +1,4 @@
+This module contains code from https://github.com/ProofOfEstimate/poe-solana (commit 29a7c77667bc68d4bdf2b1cc7a98056af7f8437d, path poe-solana),
+via the fork https://github.com/Blockchains/poe-solana.
+Copyright the original authors. Licensed under MIT; see the LICENSE file in this directory.
+Category: DAO/Social (proof of estimate). Modifications: build artifacts, node_modules and frontend removed; no source changes.

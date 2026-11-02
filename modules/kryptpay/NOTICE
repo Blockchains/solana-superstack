@@ -1,0 +1,4 @@
+This module contains code from https://github.com/KryptPay/kryptpay-solana-contract (commit a528c517cd7dc23fff528a6b876297624d482b3e, path kryptpay-solana-contract),
+via the fork https://github.com/Blockchains/kryptpay-solana-contract.
+Copyright the original authors. Licensed under MIT; see the LICENSE file in this directory.
+Category: Payments (payments + reward token). Modifications: build artifacts, node_modules and frontend removed; no source changes.

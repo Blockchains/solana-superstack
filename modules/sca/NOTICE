@@ -1,0 +1,4 @@
+This module contains code from https://github.com/Sergio-Flores-Torres/sca (commit 699122f3f3d117d763ed286227ed026b9031d3c2, path program/sca),
+via the fork https://github.com/Blockchains/sca.
+Copyright the original authors. Licensed under MIT; see the LICENSE file in this directory.
+Category: Payments/Commerce (native). Modifications: build artifacts, node_modules and frontend removed; no source changes.
