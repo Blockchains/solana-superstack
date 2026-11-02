@@ -12,7 +12,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch forker state (private repo)
         env: {GH_TOKEN: "${{ secrets.CATALOG_TOKEN }}"}
-        run: gh api repos/Blockchains/colosseum-forker/contents/state.json -H "Accept: application/vnd.github.raw" > /tmp/state.json
+        run: |
+          gh api repos/Blockchains/colosseum-forker/contents/state.json -H "Accept: application/vnd.github.raw" > /tmp/state.json
       - name: Refresh catalog (incremental)
         env: {GH_TOKEN: "${{ secrets.CATALOG_TOKEN }}"}
         run: python3 scripts/catalog.py /tmp/state.json
