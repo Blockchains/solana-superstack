@@ -1,26 +1,26 @@
 {
- "generated": "2026-11-11T10:16:24Z",
- "count": 3976,
+ "generated": "2026-11-12T10:41:12Z",
+ "count": 4103,
  "by_category": {
-  "Consumer": 1755,
-  "Infra/Tooling": 1606,
-  "DeFi": 1400,
-  "Other": 1050,
-  "Payments": 756,
-  "AI agents": 666,
-  "Social": 565,
-  "Identity/Privacy": 486,
-  "NFTs": 461,
-  "Gaming": 285,
-  "DAO/Governance": 244,
-  "DePIN": 205
+  "Consumer": 1804,
+  "Infra/Tooling": 1662,
+  "DeFi": 1467,
+  "Other": 1075,
+  "Payments": 789,
+  "AI agents": 692,
+  "Social": 585,
+  "Identity/Privacy": 499,
+  "NFTs": 469,
+  "Gaming": 288,
+  "DAO/Governance": 253,
+  "DePIN": 210
  },
  "by_framework": {
-  "none detected": 1799,
-  "Anchor": 1459,
-  "Client-only (web3.js/kit)": 1280,
-  "Native (solana-program)": 256,
-  "Pinocchio": 32,
+  "none detected": 1854,
+  "Anchor": 1503,
+  "Client-only (web3.js/kit)": 1326,
+  "Native (solana-program)": 263,
+  "Pinocchio": 33,
   "Poseidon": 19,
   "Bolt (MagicBlock)": 5,
   "Steel": 1,
@@ -128880,6 +128880,4190 @@
    "files": 0,
    "builds": "unverified",
    "fork_pushed_at": "2025-10-24T12:17:32Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jaguar",
+   "fork_url": "https://github.com/Blockchains/jaguar",
+   "source": "Pavilion-devs/jaguar",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2026-06-04T12:12:24Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 140,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-04T12:12:27Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jal",
+   "fork_url": "https://github.com/Blockchains/jal",
+   "source": "NVN404/jal",
+   "description": "An on-chain protocol for tokenizing and trading water credits as Real World Assets (RWAs) on the Solana blockchain.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "Nix",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "2JPwx2GbU6QQ8hvmxgziyaSU86G77fqQbrM1u9FjiASn"
+   ],
+   "categories": [
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2026-07-02T17:16:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 1,
+   "has_package_json": false,
+   "files": 113,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-07-02T17:16:23Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jankenDegen-contract",
+   "fork_url": "https://github.com/Blockchains/jankenDegen-contract",
+   "source": "jankenDegen/contract",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust"
+   ],
+   "frameworks": [
+    "Native (solana-program)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-14T17:11:53Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 1,
+   "has_package_json": false,
+   "files": 20,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-14T17:11:54Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/janus",
+   "fork_url": "https://github.com/Blockchains/janus",
+   "source": "raphaelwkago-sketch/janus",
+   "description": "Trustless SOL<->ETH bridge: no signers, Alpenglow certificates + SP1 proofs",
+   "language": null,
+   "languages": [
+    "Solidity",
+    "Rust",
+    "Python",
+    "Shell"
+   ],
+   "frameworks": [
+    "Native (solana-program)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2026-10-11T10:39:18Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 6,
+   "has_package_json": false,
+   "files": 89,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-11T10:39:24Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/janusapp",
+   "fork_url": "https://github.com/Blockchains/janusapp",
+   "source": "vickman787/janusapp",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Solidity",
+    "TypeScript",
+    "Python",
+    "CSS",
+    "JavaScript",
+    "PLpgSQL"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-10T22:30:53Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 176,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-10T22:31:21Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jarfi",
+   "fork_url": "https://github.com/Blockchains/jarfi",
+   "source": "jarfixyz/jarfi",
+   "description": "Project for Colosseum hackathon ",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "GBqqB8ZfNDPRyUZczbUxkmU3UopQ1BFMPu4sXGd115yF"
+   ],
+   "categories": [
+    "Other"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-06-02T13:10:10Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 273,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-02T13:10:12Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jarsol-web4-automaton",
+   "fork_url": "https://github.com/Blockchains/jarsol-web4-automaton",
+   "source": "elon00/jarsol-web4-automaton",
+   "description": "Experimental Solana dashboard with network-checked wallet reads, cryptography demonstrations and testnet deployment references. Local setup and explicit service availability are documented in README.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Rust",
+    "CSS",
+    "HTML",
+    "Batchfile"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-22T01:16:50Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 1,
+   "has_package_json": true,
+   "files": 223,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-03T18:50:50Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jarvis_mcp_server",
+   "fork_url": "https://github.com/Blockchains/jarvis_mcp_server",
+   "source": "jarvis-fun/jarvis_mcp_server",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2025-05-15T11:31:03Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 29,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-15T11:31:10Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jashan-786-solrent",
+   "fork_url": "https://github.com/Blockchains/jashan-786-solrent",
+   "source": "jashan-786/solrent",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-05-12T04:59:52Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 233,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T04:59:53Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/javin-ai",
+   "fork_url": "https://github.com/Blockchains/javin-ai",
+   "source": "LVModelAI/javin-ai",
+   "description": "A focused, no-nonsense AI search engine for crypto and blockchain.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling",
+    "Social"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-08-25T08:28:43Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 291,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-08-25T08:37:48Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jawkjiang-solana",
+   "fork_url": "https://github.com/Blockchains/jawkjiang-solana",
+   "source": "jawkjiang/solana",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Rust",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "672VeCnpAxhkd9TueCo8653hiYXP8kJRXbhPzi3YWZor"
+   ],
+   "categories": [
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2024-04-09T08:30:56Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 59,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-09T08:31:06Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jaystokk",
+   "fork_url": "https://github.com/Blockchains/jaystokk",
+   "source": "Ahjifaith01/jaystokk",
+   "description": "jaystokk",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-01-26T01:48:37Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 26,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-01-30T03:29:36Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jbl",
+   "fork_url": "https://github.com/Blockchains/jbl",
+   "source": "calma-labs/calma",
+   "description": " Powered by Solana. Built by lenders. Institutional-grade lending infrastructure for capital that doesn't sit idle. ",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "zTXtKnfRov21zv9VzywG9p3vNFTF1445wCch5oqqBBZ"
+   ],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T01:18:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 221,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-09T09:37:23Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jeex",
+   "fork_url": "https://github.com/Blockchains/jeex",
+   "source": "itechmeat/jeex",
+   "description": null,
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-09-04T21:56:47Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 6,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-09-04T21:56:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jetson",
+   "fork_url": "https://github.com/Blockchains/jetson",
+   "source": "chappie1998/jetson",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "AqFGP1Fs3nJ3Ue2Nc7RVZ1AUAad5AsEr4VBRJB2mEnk3"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-05-09T04:48:28Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 59,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-09T04:48:33Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jev-risk-check-provider",
+   "fork_url": "https://github.com/Blockchains/jev-risk-check-provider",
+   "source": "caiovicentino/jev-risk-check-provider",
+   "description": "x402 risk-check provider: signed pre-payment verdicts \u2014 OFAC, phishing feeds, transaction simulation, drainer-kit code, and our own EIP-7702 kit watch (poisoners, sweepers). $0.001 per check with prepaid credits; per call via x402 from $0.0035.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "JavaScript",
+    "Shell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "AI agents",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-11-03T12:55:29Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 427,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-03T12:55:31Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/joelvarghese6-sovereign",
+   "fork_url": "https://github.com/Blockchains/joelvarghese6-sovereign",
+   "source": "joelvarghese6/sovereign",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T04:51:21Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 30,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T04:51:26Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jointventure-colosseum",
+   "fork_url": "https://github.com/Blockchains/jointventure-colosseum",
+   "source": "DadoCSK/jointventure-colosseum",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "Rust"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "Ezssvc6b1pDYT387dBUn95Lac429GQsSz7FHNEHqBcwJ"
+   ],
+   "categories": [
+    "DeFi",
+    "DePIN",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-12T00:37:56Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 128,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T00:37:57Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/josepha-mayo-sealed",
+   "fork_url": "https://github.com/Blockchains/josepha-mayo-sealed",
+   "source": "josepha-mayo/sealed",
+   "description": "Sealed - privacy-preserving benchmark oracle + prediction markets on Solana + Arcium MPC",
+   "language": null,
+   "languages": [
+    "HTML",
+    "TypeScript",
+    "Python",
+    "Rust",
+    "JavaScript",
+    "Shell"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "281J8gc1GqoTMeV5zwZBxoFdMmMZ3RmkxovmxczbQxcB",
+    "2KFNdYwANwaJpNRfCN1AXNF34p9tZ4rWKn7aKHrBSUAr",
+    "2koaNRgmuzpXJTeCiBgZstaqDe6Kb9JuC26mS6d1ztZ4",
+    "2vLuSPhiqYkRF8WRuuwYTuh7QibDx2ov88M4QRsRDccW",
+    "3SEpaz7RqhN6DXz5dSBdJ57tYHnV2mQEFYowbcU8TX2x",
+    "3Yqx7apnpzdpD7LRY83qRTZmXpVE9M14UmAmSDtmbRRE",
+    "3tsJrtDuPWSFHZRadiKwXdGZgq3Jr3pXvHjBFLRKqcFq",
+    "3vfRP44p2LXNNF3osLgWi8PeqYGcjvGNVXRYmTpMJhEY",
+    "4Jcw5RrtuoYDM63g1vvKpy8QgPWdg3Jtzfmev71xk4fJ",
+    "4RUW4pDm38PEoVAfGe61vCbQLEJdbA9t5Je6kswmyhDc",
+    "4SbxnK9mVFFFZdrM7KXuLEoWftyMkgrFF6TTdjQXuQEv",
+    "4w7MuShSgRHRHs8doYeoPR3PY7Bu2KFAtMz6hL3qTvRh",
+    "5KNcY1eU4qhcuzpcBoz7Dq2uepNSKouWTahBo5z7qHVt",
+    "5Y4Z2tmCB35jBkFn2YrqQHjQdfQTM43QRdPn5RSozeMq",
+    "5pHBaBHorXTy8irCE3tKYkgC5nKWs9f6YkKWnsnnc9vZ",
+    "6Bek4uPzgR1sjUViYAbWV1gV3TadC7zr5DNZARnB7p7x",
+    "6Q7GvQaKP186QdgMAQPQqREpJ88oMtxAJVa16K5qtX6f",
+    "6vNwQe3fiU1u4JxTM2XkvPou9uH7EZNrskLZJrRYM8WJ",
+    "746QvizAwW2dSagSCny8SK8rudkCXPeYGY2Rg6FCpZD1",
+    "75jsDFcdvNZML7yDTZmidmFdnCsSjDbf152EsdLGuUd5",
+    "7EbMUTLo5DjdzbN7s8BXeZwXzEwNQb1hScfRvWg8a6ot",
+    "7e2RbVEc8KzXB8peh2mNBgF8vXfhEPvff7QR5c2iM1L",
+    "85PhbXfc4WRRAzSCJBxxyV1UmVRXTwLaBw8BhK8yijk8",
+    "8Lgr7f8wnVFvjEk3SMjMAoycqAVRmy8KigUWUH8KnZN6",
+    "8UQoK7ZacCR7biQrt8Q5izXTw13TRD5rrGv6trNt8Qbw",
+    "8VSHkhNLN3q3yBUhYmTjgKSCMA55VFzfLPXcgp4Z91vN",
+    "8hczTA6q4wzsLEQPmUdKw5KSd6dJXYJpTTkzFG8BYGHM",
+    "8v5uyJd2kxgXrFReHpxpmtBira2Q1VsyjhkVRuHBwYRd",
+    "8w3e6v8uo3DvV7soB6y6LAxCUJYh3pkAgh1XLMTPwDh",
+    "9EDLm5KDKc1Pf8m587kdxPMvQBNETNahcCfHLNcQ1M8W",
+    "9FYDqwLy6MVNdPUCEijs3VNHJeDd6drZpeRChiNXpCAj",
+    "9Lw7MyrpcvShoWFgeY6yYRnVf1bxHqu6aa9qRXY4gfmy",
+    "9NRedXWBKM6cwwV7CJXfBQTtfWxc8TD1biuynt6ex1w1",
+    "9j3wzzFcc3xUNiM6PBpFn5eEbJWBHcXKgJxDbbRYHpLX",
+    "9rUSnh5VrMtRUrJrgAUwcyWvL9NYkscAsDFS5RjPW6Da",
+    "A1N143n3x4iF7wfvqiqFXtbQxnyNaHBySnPcaYmi9Xak",
+    "ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs",
+    "AXXmwcw9J4h91HPpNkm4ShA5Ct9hKJG7Ad8KiVaEEzm4",
+    "AfNjAByhnrzARB8FRewQ8H9KUEZAJKxFJ2rNGNWPXuAe",
+    "ArcStnN9zZZVB5WjgPhLHjYpY7Gb29mzb96ySsb1kxgq",
+    "Arcj82pX7HxYKLR92qvgZUAd7vGS1k4hQvAFcPATFdEQ",
+    "Az69JWgQxgujN6LApNhtNcxH3B4UfzciCzpQTwRP7kxY",
+    "B3zCRhAW4NVBXGTyJoc2Y4uf58FyS6aL2UUTdXCQCgc6",
+    "BApmXKW1qMRYCmtxtD6LWUiWq8HMaFAsCNgw83fuTEcQ",
+    "BKCFM21bTa75X2FMahRkXpPg9e97HLiAwjd4JDAZmTba",
+    "BN2JMGUM5PL4b7hf9YUJSTN4e8TMwpZMgZXu8X1qmuZz",
+    "BoDX3JsBReRtiWtoVT4MsULjEdpzXLWnS4Myi82GudNV",
+    "BonDszcgVDnJCtMgKK42thmxVJ6mfRdFPRK2scaiLjPB",
+    "CbZwN7j8bu67Xyq3oDCZovwdKCzXtqJh8QguymWSr1Mz",
+    "CuTp9LKzoY9hy77TkrickLpVTUFgvnRfQHB9tnhG2ypt",
+    "D4gfA15fUu63YToHrfYfdkUonsv8RQgQoP5DgBQv53t2",
+    "DAMqQL5qNTE3gosJXFDrFedpHNXtw1SZZyCaUdjgBowS",
+    "DBenKVkZmRU1vcyDiQijT4P1yehW2bCepCywLjCd6Wcc",
+    "DDywQsxcDENjhfDMGw7jkfs5Cy5pb9vHfwY5bAz3GemC",
+    "DGVbEXbjCn2hB21AiRoYrFfgo2md7HXsLKWFw5UoKysc",
+    "DQPNSrJrmwtsueu2GMJ1yJGL2KbgvBBS2bFFiARb7Bdy",
+    "E2sRNCFrKjR8x5yZGcU46kMoHJDAaFwSCsV3Zrbq8gaV",
+    "ENbZeYfNcP3oNJWLziQBQVZqNFaoMKCkotUscc52GBgo",
+    "ENqp3hExZF9QVTmXKnbEciabnGJS2psSp36r5yrEd9XG",
+    "EnKocULGr5342kJgDRC8APSEicRVbafHjUYB38HUhavw",
+    "Eq2YrR5d7QMWgWAnkHLfBvT4h8hxBQEXQjdYHmTZReEC",
+    "Er1d39aoDXC2Vv8UCZTbkhGS2C5sV6buiuuK2Ah9UhhK",
+    "ExmvQgDaS4rVK88SzYR76SdDxHrw9LMDunyVN5vo5XQm",
+    "EyorPjMQ8N6birKVJN1JkzZse53t1ZVj3ftTub3Xea6g",
+    "F8Yf9N2YQoS1ogERn2fe62FrnAn9snRcTD2v9SPPpSVG",
+    "FGVuEoWpDGTqBBuR9e26t2t5mDngXgbrAj5CtuLKXLUZ",
+    "FM9u4i2buYyRGzR6Jy4NvSGr8fzzZvZeCpNKAV9jEswg",
+    "FZ1ucTdeHJhFL3X7NYECB8KJcgX8xroZEYegjJWFSL1z",
+    "FcRwCmFSMta28GPt1Fs6GoGRvyjcqd7Ygas8cNLrTjmf",
+    "FdPcMbRKG8xRzKFeagzWDpJ18zXSYfi4buGH1MV69oXi",
+    "Femd2q19wFyyY7gEgraRR22pBpWqg6Y7KDKzCcCGYwjy",
+    "FwB8ULUZt5p54pm34YwWgwnB8ThTNgpaypQpJSvUpZY3",
+    "G2sRWJvi3xoyh5k2gY49eG9L8YhAEWQPtNb1zb1GXTtC",
+    "GVFMWRZMid8y9yLWFdYRjCCRtctUKLS8R9faaE9ZWKUj",
+    "Gmnrbr6guqxHW7aHmn39y3cezKFjTpWQx7R37isAAbUZ",
+    "GnC4ARTybmetL8RYsXFDxNii7TEDdkurDnyKXAsxg6b7",
+    "GqZCpPXHgqXMLrdm6xSijLZv3Nk5tMzNSVdLB5NA88T5",
+    "HD9MZcMtkAPJG7L9NyYBzn85tsgLRXBjUdzoemcWn82L",
+    "HREuLCsYSYqdSgAwMQKX2mRrvhbDzzaU4LFcUuBQzHxS",
+    "J1q1U23hEDuxyvNfRxRjprX3Xc9yMuArnZFPqpZpo5zX",
+    "J8gQK9TADBGdmQ1AQwxQsJYnY2giQJGTnH7FUd9m62ty",
+    "J9RhUNkT9i3j41mhcWEDdWxLhQb7RSU2q8qVTTcWbGnN",
+    "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+    "frHdcxxgw3QxviyQpPTZh4XNrGs2YKWvmFa3P7ZJL3F",
+    "fxik6igZtjp6FB5pMEJsNpvPjfj41sNb5TzZZ8sWXcL",
+    "wTyg74f9Bsd3UFE84PeuAmfRste6hYVR2ZoMTuMt5hW"
+   ],
+   "categories": [
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-12T15:49:08Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 4,
+   "has_package_json": true,
+   "files": 717,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T15:49:14Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jpay",
+   "fork_url": "https://github.com/Blockchains/jpay",
+   "source": "jashandeep31/jpay",
+   "description": "JPay is a fast, low-fee payment platform that lets anyone\u2014freelancers, businesses, and individuals\u2014send, receive, and manage stablecoin payments with ease.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "Dockerfile",
+    "PLpgSQL",
+    "Handlebars"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments"
+   ],
+   "license": null,
+   "last_commit": "2025-05-17T05:30:03Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 297,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-17T05:30:07Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/js-",
+   "fork_url": "https://github.com/Blockchains/js-",
+   "source": "TriumphTega/js-",
+   "description": null,
+   "language": null,
+   "languages": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-10-21T08:56:29Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 50,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-21T08:56:39Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jukebox",
+   "fork_url": "https://github.com/Blockchains/jukebox",
+   "source": "atlasmarsaren/jukebox",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML",
+    "CSS"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "DAO/Governance",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2024-03-10T10:37:58Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 29,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-03-10T10:38:48Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/julit",
+   "fork_url": "https://github.com/Blockchains/julit",
+   "source": "YagLab0/julit",
+   "description": "B2B directory + USDC payment escrow for lithium carbonate lots on Solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "PLpgSQL",
+    "Rust",
+    "HTML",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "BntbtLZdHcHTai65uyXpKZyHaqX9kV68ZcfyyLBtXtky"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "NFTs",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-10-15T14:21:17Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 245,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-15T14:21:20Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jumpa",
+   "fork_url": "https://github.com/Blockchains/jumpa",
+   "source": "official-jumpa/jumpa",
+   "description": "The official source code for the jumpa trading bot",
+   "language": null,
+   "languages": [
+    "TypeScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-09-03T17:44:32Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 103,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-03T17:44:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/juno",
+   "fork_url": "https://github.com/Blockchains/juno",
+   "source": "JunoNode/juno",
+   "description": "An AI-native crypto assistant for Solana, built with clarity, purpose, and presence.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2025-09-18T12:28:36Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 146,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-09-18T12:28:36Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jup-alpha-trigger",
+   "fork_url": "https://github.com/Blockchains/jup-alpha-trigger",
+   "source": "Ra9mirez11/jup-alpha-trigger",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-05-01T15:35:58Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 22,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-01T15:36:00Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jup-lend-rebalancer",
+   "fork_url": "https://github.com/Blockchains/jup-lend-rebalancer",
+   "source": "GeekLad/jup-lend-rebalancer",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-06-22T19:33:46Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 101,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-22T19:33:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jupiter-market-pulse-scout",
+   "fork_url": "https://github.com/Blockchains/jupiter-market-pulse-scout",
+   "source": "scosemicolon/jupiter-market-pulse-scout",
+   "description": "Read-only Jupiter Price API scout prototype for Superteam Earn",
+   "language": null,
+   "languages": [
+    "Python",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-10T15:31:30Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 16,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-10T15:31:31Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jupiter-signal-forge",
+   "fork_url": "https://github.com/Blockchains/jupiter-signal-forge",
+   "source": "EmergentKnowledgeGroup/jupiter-signal-forge",
+   "description": "Agent-built Jupiter API signal lab for route pressure and product ideas",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T12:16:17Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 31,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T12:16:19Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jupiter-signal-lab",
+   "fork_url": "https://github.com/Blockchains/jupiter-signal-lab",
+   "source": "katoka646-alt/jupiter-signal-lab",
+   "description": "Read-only Jupiter API signal ranking prototype for Frontier bounty",
+   "language": null,
+   "languages": [
+    "Python"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-08T20:07:20Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 16,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-08T20:07:25Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jupiter-signal-scout",
+   "fork_url": "https://github.com/Blockchains/jupiter-signal-scout",
+   "source": "joshpi-1345/jupiter-signal-scout",
+   "description": "Route-vs-price scout for Jupiter Tokens V2, Price V3, and Swap V2 order quotes.",
+   "language": null,
+   "languages": [
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T03:13:53Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 11,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T03:13:54Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jupiter-token-radar",
+   "fork_url": "https://github.com/Blockchains/jupiter-token-radar",
+   "source": "wangyushiyi/jupiter-token-radar",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Python"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents"
+   ],
+   "license": null,
+   "last_commit": "2026-04-30T00:17:25Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 5,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-30T00:17:28Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/just-api",
+   "fork_url": "https://github.com/Blockchains/just-api",
+   "source": "MosesJCoker/just-api",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-04-08T21:41:34Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 6,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-08T21:42:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/just-gem",
+   "fork_url": "https://github.com/Blockchains/just-gem",
+   "source": "MosesJCoker/just-gem",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-04-08T21:05:41Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 39,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-08T21:38:19Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/justice_4_all",
+   "fork_url": "https://github.com/Blockchains/justice_4_all",
+   "source": "TommyBangs/justice_4_all",
+   "description": "JUSTICE-4-ALL Application",
+   "language": null,
+   "languages": [
+    "Dart",
+    "C++",
+    "CMake",
+    "Swift",
+    "C",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-09-23T12:55:50Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 151,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-09-23T12:56:07Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/justra-client-v2",
+   "fork_url": "https://github.com/Blockchains/justra-client-v2",
+   "source": "pro123908/justra-client-v2",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-05-10T10:54:28Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 109,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-08-23T13:50:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/jxieterminal",
+   "fork_url": "https://github.com/Blockchains/jxieterminal",
+   "source": "jxiexyz/jxieterminal",
+   "description": "terminal by jxie",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-04-11T12:58:57Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 6,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-11T12:59:01Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/k1-protocol",
+   "fork_url": "https://github.com/Blockchains/k1-protocol",
+   "source": "peacefulprogress25/k1-protocol",
+   "description": "k1.money",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-03-31T12:35:50Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 24,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-21T08:53:33Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kaboom-doc",
+   "fork_url": "https://github.com/Blockchains/kaboom-doc",
+   "source": "cross-space-official/kaboom-doc",
+   "description": null,
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2024-10-07T09:18:27Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 2,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-10-07T09:18:32Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kadence",
+   "fork_url": "https://github.com/Blockchains/kadence",
+   "source": "nathanauthiersrny-lgtm/kadence",
+   "description": "Move to earn social running app build on Solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "DEZbB6Lzz6nrbeZW9EtA5XNbu1SfAKcgEALfmKLpMECK"
+   ],
+   "categories": [
+    "DeFi",
+    "NFTs",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-05-11T16:06:56Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 121,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T16:06:58Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kadex",
+   "fork_url": "https://github.com/Blockchains/kadex",
+   "source": "kadex-protocol/kadex",
+   "description": "Perpetual futures on an index of tokenized graded trading cards, on Solana.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "CSS",
+    "Shell"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "3XZkAqLeQDoNXD6Bb9YoGSEdnvqk9r7UMgrKsN5x3L9v",
+    "5288ShBXsFxqXiGm22FZi1ZrMnmet4i1ZR3bccyAguqp",
+    "AUPEWRMXpNvN42nCA6ovZRt4eYcaySyRhewxnTa6ygJi",
+    "BcVwJ91Jd1k7xUNcGYzRygq2ubaCYn7p5MeUZzy1EyLR",
+    "J8Tef8N4YSfVwAxpBemCZrz3qCxehTeb2cd1jTwoBczW"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T05:00:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 9,
+   "has_package_json": true,
+   "files": 257,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-14T18:11:52Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kagiboy",
+   "fork_url": "https://github.com/Blockchains/kagiboy",
+   "source": "hazy2go/kagiboy",
+   "description": "A hardware wallet that lives in a Game Boy cartridge. Real ROM, Solana + EVM, every signature approved on the Game Boy's own screen.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "ANTLR",
+    "Python",
+    "Rust",
+    "C",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Gaming",
+    "DePIN",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-16T03:50:56Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 3,
+   "has_package_json": false,
+   "files": 693,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-16T03:50:58Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kaido",
+   "fork_url": "https://github.com/Blockchains/kaido",
+   "source": "anshul-ab17/kaido",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "Dockerfile",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-07-16T16:38:05Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 1,
+   "has_package_json": true,
+   "files": 147,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-07-16T16:38:06Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kairo",
+   "fork_url": "https://github.com/Blockchains/kairo",
+   "source": "0Xsolcreator/kairo",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Python",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-18T09:02:03Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 62,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-18T09:02:04Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kaiwu-sol",
+   "fork_url": "https://github.com/Blockchains/kaiwu-sol",
+   "source": "KaiwuMarket/kaiwu-sol",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2025-10-31T04:54:41Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 133,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-31T04:54:41Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kalo-web",
+   "fork_url": "https://github.com/Blockchains/kalo-web",
+   "source": "Kalo-Bet/kalo-web",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-09-11T16:41:54Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 91,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-09-11T16:41:54Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kalo.org",
+   "fork_url": "https://github.com/Blockchains/kalo.org",
+   "source": "olika-ashley/kalo.org",
+   "description": "Web 3 betting platform built on solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": "MIT",
+   "last_commit": "2024-04-08T23:49:38Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 62,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-08T23:49:46Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kalyna-wallet-server",
+   "fork_url": "https://github.com/Blockchains/kalyna-wallet-server",
+   "source": "vetsinen/kalyna-wallet-server",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Python",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-07-09T10:12:59Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 10,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-07-09T10:13:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kamai",
+   "fork_url": "https://github.com/Blockchains/kamai",
+   "source": "nasir17086/kamai",
+   "description": "Escrow invoices for Pakistani freelancers on Solana (USDC, milestones, Urdu)",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Rust",
+    "Shell",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments"
+   ],
+   "license": null,
+   "last_commit": "2026-10-09T13:18:50Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 57,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-09T13:18:52Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kamalbuilds-pulse",
+   "fork_url": "https://github.com/Blockchains/kamalbuilds-pulse",
+   "source": "kamalbuilds/pulse",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "11111111111111111111111111111112",
+    "6crfTQztShryQeMRaPG5H5Uf7Zd69wyPRRF4AFBndh9F"
+   ],
+   "categories": [
+    "Infra/Tooling",
+    "Social",
+    "DAO/Governance",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-10-31T03:30:58Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 93,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-31T03:31:01Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kami",
+   "fork_url": "https://github.com/Blockchains/kami",
+   "source": "RECTOR-LABS/kami",
+   "description": "AI co-pilot for Kamino DeFi on Solana \u2014 chat-driven lending, yield, and health-factor assistant. Built for the Eitherway Track, Frontier Hackathon 2026.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Shell",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-07-14T22:36:41Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 145,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-07-14T22:36:46Z",
+   "readme_injection_flag": true
+  },
+  {
+   "fork": "Blockchains/kampit",
+   "fork_url": "https://github.com/Blockchains/kampit",
+   "source": "tleubayev/kampit",
+   "description": "Telegram group SOL/USD quick battle game and Mini App",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "Dockerfile",
+    "Shell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Gaming",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-12T20:18:45Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 40,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T20:19:08Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kampuspay",
+   "fork_url": "https://github.com/Blockchains/kampuspay",
+   "source": "ZackyMrf/kampuspay",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-05-13T06:02:35Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 92,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-13T06:02:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kamui",
+   "fork_url": "https://github.com/Blockchains/kamui",
+   "source": "mangekyou-labs/kamui",
+   "description": "Efficient Elliptic Curve VRF on Solana. ",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "Solidity",
+    "Shell",
+    "Move"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)",
+    "Native (solana-program)"
+   ],
+   "program_ids": [
+    "2Pd6R21gGNJgrfxHQPegcXgwmSd5MY1uHBYrNAtYgPbE",
+    "4qqRVYJAeBynm2yTydBkTJ9wVay3CrUfZ7gf9chtWS5Y",
+    "4zxDQnSVK6XPTERb8kY8b7EQsHWbwrRFfaDunF9Ryjg1",
+    "5gSZAw9aDQYGJABr6guQqPRFzyX656BSoiEdhHaUzyh6",
+    "6k1Lmt37b5QQAhPz5YXbTPoHCSCDbSEeNAC96nWZn85a",
+    "8xBh8yMwNJG42fcmj1MvZRrSV3w8NwH3J9c3xPjF5Vgd",
+    "DH3mVRXoyCUmmDmcf9a7AkEU99UEomvg2jq4X2boga6e"
+   ],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2026-05-03T05:15:25Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 9,
+   "has_package_json": true,
+   "files": 2804,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-03T05:15:25Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kana",
+   "fork_url": "https://github.com/Blockchains/kana",
+   "source": "gastaosf/kana",
+   "description": "Maximize yield with one click",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2025-11-23T00:41:56Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 55,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-23T00:41:56Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kani",
+   "fork_url": "https://github.com/Blockchains/kani",
+   "source": "starci-lab/kani",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Dockerfile",
+    "JavaScript",
+    "PowerShell",
+    "Shell",
+    "Pug"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-03-20T05:51:28Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 2044,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-03-20T05:51:35Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kanpai-spot",
+   "fork_url": "https://github.com/Blockchains/kanpai-spot",
+   "source": "takafuture/kanpai-spot",
+   "description": "\u52c9\u5f37\u4f1a\u306e\u5e30\u308a\u306b\u3001\u4ef2\u9593\u3068\u4eca\u3059\u3050\u5165\u308c\u308b\u98f2\u307f\u5c4b\u3092\u5730\u56f3\u3067\u898b\u3064\u3051\u3066\u300c\u3053\u3053\u306b\u6c7a\u5b9a\uff01\u300d\u3067\u304d\u308b",
+   "language": null,
+   "languages": [
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-10T06:26:21Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 6,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-10T06:26:22Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kapture",
+   "fork_url": "https://github.com/Blockchains/kapture",
+   "source": "stElmitchay/kapture",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Python",
+    "TypeScript",
+    "Rust",
+    "Shell"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "5BzzMPy2vJx6Spgcy6hsepQsdBdWAe9SmGvTqpssrk2D"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2025-11-03T09:09:52Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 79,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-03T09:12:33Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/karat67",
+   "fork_url": "https://github.com/Blockchains/karat67",
+   "source": "SGDlab67/karat67",
+   "description": "Integrity checks for Solana indexers: verify indexed data is correct, not just flowing.",
+   "language": null,
+   "languages": [
+    "Rust",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Python"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "AI agents",
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-25T06:21:59Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 46,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-25T06:22:00Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/karlo292-solana-token-creator",
+   "fork_url": "https://github.com/Blockchains/karlo292-solana-token-creator",
+   "source": "karlo292/solana-token-creator",
+   "description": null,
+   "language": null,
+   "languages": [
+    "EJS",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2024-10-04T15:32:28Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 30,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-10-04T15:32:32Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/karmacall-website",
+   "fork_url": "https://github.com/Blockchains/karmacall-website",
+   "source": "fyncom/karmacall-website",
+   "description": "location where KarmaCall website assets will be held. ",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "MDX",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": "0BSD",
+   "last_commit": "2026-07-03T09:40:32Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 362,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-07-03T09:40:37Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kasa-money",
+   "fork_url": "https://github.com/Blockchains/kasa-money",
+   "source": "BenjaminL04/kasa-money",
+   "description": "Stablecoin remittances for Africa",
+   "language": null,
+   "languages": [
+    "Dart",
+    "C++",
+    "C",
+    "Python",
+    "CMake",
+    "Ruby"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": "MIT",
+   "last_commit": "2025-10-30T14:35:52Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 526,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-30T14:36:02Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kase-bond-engine",
+   "fork_url": "https://github.com/Blockchains/kase-bond-engine",
+   "source": "Noire-X1/kase-bond-engine",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript",
+    "CSS",
+    "Shell",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "59hoGMNeum386CpHQpbsUStq51vfXS9iYxPkq5apthNg",
+    "D4Zh5HNxQwuzqFJFsw5BFNBfkAGtW7Efk5VRTnFNwEqg",
+    "GsYLz1ieJSo267DW3oga1k4hAmVoqTHgKaEw2K5HxJPT"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "DAO/Governance"
+   ],
+   "license": null,
+   "last_commit": "2026-10-11T11:51:12Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 4,
+   "has_package_json": false,
+   "files": 83,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-11T11:51:12Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kase-corporate-actions",
+   "fork_url": "https://github.com/Blockchains/kase-corporate-actions",
+   "source": "Timur27041988Adaibaev/kase-corporate-actions",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML",
+    "Python",
+    "CSS",
+    "TypeScript",
+    "Rust"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "5sbnpE6Q3kXTKTbvBoxHL94H82qSxKaZ3F9WhpwsHCiz"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "DAO/Governance"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T09:30:05Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 32,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-19T14:16:09Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kaspermotion2",
+   "fork_url": "https://github.com/Blockchains/kaspermotion2",
+   "source": "kasperwtrcolor/kaspermotion2",
+   "description": "kaspermotion but better",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-08-24T16:04:03Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 76,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-08-24T16:04:04Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kasy-flow-solver",
+   "fork_url": "https://github.com/Blockchains/kasy-flow-solver",
+   "source": "abjR265/kasy-flow-solver",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents"
+   ],
+   "license": null,
+   "last_commit": "2025-10-30T18:27:38Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 133,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-30T18:27:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/katha",
+   "fork_url": "https://github.com/Blockchains/katha",
+   "source": "kathadotfun/katha",
+   "description": "Solana-powered RWAs to preserve Nepali art and culture through verified provenance and digital ownership.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Rust",
+    "PLpgSQL",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "B7q1HFwusCjndtLaTd75wUCSTPtrYw88ABAonLw4b8Lq",
+    "Gy1weme3YxEYuuMbJ2MnmLXerPqoSW9X3CAQ86wyZAtr"
+   ],
+   "categories": [
+    "DeFi",
+    "NFTs",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-18T16:40:45Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 729,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-18T16:40:49Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kawi-remesas-public",
+   "fork_url": "https://github.com/Blockchains/kawi-remesas-public",
+   "source": "MrWiki15/kawi-remesas-public",
+   "description": "Remesas a Cuba",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-04-30T13:39:27Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 165,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-30T13:40:35Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kazisafe",
+   "fork_url": "https://github.com/Blockchains/kazisafe",
+   "source": "eddyndumia/kazisafe",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "HTML",
+    "Shell"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "G48xcsU1JTUtWhsg23Z3E94v3cUZDjg7S7wxH4NpYg4M"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T04:14:22Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 59,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T04:14:26Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/keepyours",
+   "fork_url": "https://github.com/Blockchains/keepyours",
+   "source": "mrcentimetre/keepyours",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-04T18:11:41Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 159,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-04T18:11:44Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kelayjuice-my-project",
+   "fork_url": "https://github.com/Blockchains/kelayjuice-my-project",
+   "source": "kelayjuice/my-project",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Rust",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "2ciNbfQjvhwPtEorJXeW8azcg2uw3ckrcezBxzKDeamj"
+   ],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T01:56:15Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 20,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T01:56:33Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kelox-fe",
+   "fork_url": "https://github.com/Blockchains/kelox-fe",
+   "source": "keloxmedical/kelox-fe",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-11-27T00:26:39Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 38,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-27T00:52:37Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kelvara-platform",
+   "fork_url": "https://github.com/Blockchains/kelvara-platform",
+   "source": "kelvara-labs/kelvara-platform",
+   "description": "Kelvara protocol risk monitoring and protection platform",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML",
+    "TypeScript",
+    "Python",
+    "Dockerfile",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "DAO/Governance",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T23:53:26Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 360,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T23:53:29Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kenotaf-colosseum",
+   "fork_url": "https://github.com/Blockchains/kenotaf-colosseum",
+   "source": "kuatovadilzan504-source/kenotaf-colosseum",
+   "description": "KENOTAF - a diesel-punk metroidvania where Solana is the Council ledger: wallet sign-in, an on-chain sealed Book, Metaplex Core modules mailed between players. Built on iDos Games.",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "TypeScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Gaming",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-08T10:29:49Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 239,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-08T10:32:29Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kept-seeker",
+   "fork_url": "https://github.com/Blockchains/kept-seeker",
+   "source": "lazydevpro/kept-seeker",
+   "description": "KEPT for Solana Mobile and Seeker: a private social investing habit. Promises compound.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Python",
+    "Kotlin"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Social",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-09T18:36:10Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 418,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-09T18:36:13Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kerdos-markets",
+   "fork_url": "https://github.com/Blockchains/kerdos-markets",
+   "source": "The-Kerdos-Co/kerdos-markets",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "DjcqZWPwPaB6EwnMXNdcgxkFk26ub6t6FXdSDE7aK3Sb"
+   ],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2025-12-08T06:25:13Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 1,
+   "has_package_json": true,
+   "files": 131,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-12-08T06:25:56Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kernapp",
+   "fork_url": "https://github.com/Blockchains/kernapp",
+   "source": "yrooo/kernapp",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "2onzhLcvsyuSp5jdTpP13DLUxTRpx3LNyCmcwhrQPnrU",
+    "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T05:21:19Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 76,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-17T20:04:42Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/ketchup_republic_solana",
+   "fork_url": "https://github.com/Blockchains/ketchup_republic_solana",
+   "source": "ketchuplab/ketchup_republic_solana",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust"
+   ],
+   "frameworks": [
+    "Native (solana-program)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DePIN"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2024-04-07T10:08:42Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 1,
+   "has_package_json": false,
+   "files": 15,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-07T10:13:45Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kethyr-pay",
+   "fork_url": "https://github.com/Blockchains/kethyr-pay",
+   "source": "MoseStudio/kethyr-pay",
+   "description": "KethyrPay \u2014 Streaming Payroll & Treasury on Solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "Shell",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "Afm1YLnn7WBqbGgBvtxt8GMdV4LbogNqkhbtErXouP4v"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-12T11:07:34Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 98,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T11:08:07Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/keyholder",
+   "fork_url": "https://github.com/Blockchains/keyholder",
+   "source": "hemjay07/keyholder",
+   "description": "Who can move the money in every Solana protocol: control graph, alerts, an on-chain check, KeyBench",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "Rust",
+    "JavaScript",
+    "Python"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "3FX57MQmZH8dkpFV5nbA1XWyV6WDeinu7ennZhvx8R8F",
+    "4dj7Nu6j5sb9dzL1NRk4RRFJFXxSdt6bQzfboqZsXMNY"
+   ],
+   "categories": [
+    "DeFi",
+    "DAO/Governance"
+   ],
+   "license": null,
+   "last_commit": "2026-10-11T18:12:35Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 906,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-11T18:12:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/keymint",
+   "fork_url": "https://github.com/Blockchains/keymint",
+   "source": "wienerlabs/keymint",
+   "description": "an x402 reverse proxy that monetizes any API with Solana USDC micropayments.",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML",
+    "Rust",
+    "CSS",
+    "TypeScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "EJeBowVHBopARqR3qCNXN7a2iJeM2Zf5c6gd2ZH8Lrs9"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-06-21T10:48:50Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 86,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-21T10:48:51Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/keypair.exe",
+   "fork_url": "https://github.com/Blockchains/keypair.exe",
+   "source": "RohanNero/keypair.exe",
+   "description": "Executables (and scripts) for generating keypairs, and both signing and verifying messages.",
+   "language": null,
+   "languages": [
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-09-28T00:35:01Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 215,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-09-28T04:04:35Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/keyshield",
+   "fork_url": "https://github.com/Blockchains/keyshield",
+   "source": "lilaclilac09/keyshield",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "Rust",
+    "JavaScript",
+    "HTML",
+    "Shell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)",
+    "Pinocchio"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "DePIN",
+    "AI agents",
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-29T09:45:46Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 10,
+   "has_package_json": true,
+   "files": 887,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-29T09:45:46Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kickoffstocks",
+   "fork_url": "https://github.com/Blockchains/kickoffstocks",
+   "source": "NECOKIZZ/kickoffstocks",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Solidity",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Python",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Social"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-09T18:12:19Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 353,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-09T18:12:19Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kidstechbase-colosseum-hackathon",
+   "fork_url": "https://github.com/Blockchains/kidstechbase-colosseum-hackathon",
+   "source": "kidstechbase/colosseum-hackathon",
+   "description": null,
+   "language": null,
+   "languages": [
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T14:59:05Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 1,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T14:59:05Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kiki",
+   "fork_url": "https://github.com/Blockchains/kiki",
+   "source": "KlaraBecker/kiki",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Rust",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-03-27T23:18:04Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 29,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-03-27T23:18:04Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/killswitch",
+   "fork_url": "https://github.com/Blockchains/killswitch",
+   "source": "yebology/killswitch",
+   "description": "Real-time exploit detection and on-chain auto-pause system for Solana DeFi protocols.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "Rust",
+    "Makefile",
+    "CSS",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "8uSSf1TnE6Bqz1qGt3uZVAwU5Za9f1Sgp7sxtBQJ5HyJ"
+   ],
+   "categories": [
+    "DeFi",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-10T14:35:03Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 145,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-10T14:37:13Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kimono-registry",
+   "fork_url": "https://github.com/Blockchains/kimono-registry",
+   "source": "Minerva2281/kimono-registry",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-08T07:46:37Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 21,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-08T07:46:44Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kinetic",
+   "fork_url": "https://github.com/Blockchains/kinetic",
+   "source": "kineticplatform/kinetic",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T07:09:22Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 164,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T07:11:35Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kingnet-v1-core",
+   "fork_url": "https://github.com/Blockchains/kingnet-v1-core",
+   "source": "kingnetailabs/kingnet-v1-core",
+   "description": "kingnet v1 core",
+   "language": null,
+   "languages": [
+    "Solidity"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2025-11-14T09:27:42Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 3,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-14T09:27:42Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kinlog",
+   "fork_url": "https://github.com/Blockchains/kinlog",
+   "source": "Jamielimq/kinlog",
+   "description": "AI fitness dApp on Solana. Validates squats with on-device pose detection, rewards on-chain. Built by a Physical Therapist. Live on Solana Mobile dApp Store. MONOLITH Hackathon Honorable Mention.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "Kotlin",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "9vG8Qcwvv5uWbHJsvxT6G2HHCD7punB1tYhRLJW5wcby"
+   ],
+   "categories": [
+    "DeFi",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-12T13:05:58Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 231,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T13:09:22Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kipdeck",
+   "fork_url": "https://github.com/Blockchains/kipdeck",
+   "source": "lukepas/kipdeck",
+   "description": "Kipdeck: the inbox for your AI coding agents",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "Shell",
+    "HTML",
+    "Rust"
+   ],
+   "frameworks": [
+    "Native (solana-program)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "AI agents",
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-22T08:44:04Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 2613,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-22T08:44:30Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kira_forge",
+   "fork_url": "https://github.com/Blockchains/kira_forge",
+   "source": "Zolldyk/kira_forge",
+   "description": "A definitive AI assistant for Solana builders and KIRAPAY integrators. Serves as a monetization primitive through universal cross-chain payments. Powered by KIRAPAY on the Solana ecosystem.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents",
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T12:55:48Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 48,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T12:55:48Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kirapass-kirapay",
+   "fork_url": "https://github.com/Blockchains/kirapass-kirapay",
+   "source": "songpopr2546-rgb/kirapass-kirapay",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments"
+   ],
+   "license": null,
+   "last_commit": "2026-05-08T10:41:06Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 18,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-08T10:41:06Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kit-squared",
+   "fork_url": "https://github.com/Blockchains/kit-squared",
+   "source": "AnAllergyToAnalogy/kit-squared",
+   "description": "Solana Kit library for SvelteKit",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Svelte",
+    "CSS",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-09-01T01:39:41Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 73,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-01T01:40:01Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kitchen",
+   "fork_url": "https://github.com/Blockchains/kitchen",
+   "source": "DiscoSea/kitchen",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2025-05-20T18:38:44Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 9,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-20T18:38:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kite",
+   "fork_url": "https://github.com/Blockchains/kite",
+   "source": "Zyaxxy/kite",
+   "description": "Kite is a self-custody neo-brokerage on Solana for tokenized equities: 1-click thematic stock baskets, automated recurring investing (SIP/DCA) via Solana Subscriptions, and an   in-app research suite-delivering real stocks to your wallet with zero central vault.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "Rust"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "8Fm9HENPAFnyo6L8cHJFx62HHsZ6ez6CPUDuzgKAzrjs"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-15T08:45:47Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 512,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-15T08:45:55Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kite-pay",
+   "fork_url": "https://github.com/Blockchains/kite-pay",
+   "source": "RajnishChoubey11/kite-pay",
+   "description": "stable coin based payroll system .",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-17T06:43:58Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 66,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-17T06:44:09Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kixa",
+   "fork_url": "https://github.com/Blockchains/kixa",
+   "source": "Stelopesz/kixa",
+   "description": "AI Permission Wallet on Solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "Rust",
+    "JavaScript",
+    "Python"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "2dss4aR8pXV9dJP5Y3dL2ZVcL3W4NWNynCMfLojmVPLx"
+   ],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-06-11T00:23:07Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 177,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-11T00:23:08Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/klend-risk-pub",
+   "fork_url": "https://github.com/Blockchains/klend-risk-pub",
+   "source": "dev-korplus/klend-risk-pub",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-05-11T22:48:06Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 5,
+   "has_package_json": true,
+   "files": 43,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T22:48:15Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/klink",
+   "fork_url": "https://github.com/Blockchains/klink",
+   "source": "manjeetsharma0796/klink",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "DPPE8TAuw5qyWbw5MqcXcAtH2d5RYF5XBXTiN2pKzM3L"
+   ],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T10:45:51Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 273,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T10:45:51Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/klyrn",
+   "fork_url": "https://github.com/Blockchains/klyrn",
+   "source": "AlleyNawaz/klyrn",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "Python",
+    "CSS",
+    "Makefile",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "11111111111111111111111111111111"
+   ],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-09T04:03:44Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 104,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-09T04:06:04Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/knot",
+   "fork_url": "https://github.com/Blockchains/knot",
+   "source": "METHEZONE/knot",
+   "description": "A2A platform for creators and brands.",
+   "language": null,
+   "languages": [
+    "Python",
+    "TypeScript",
+    "HTML",
+    "Rust",
+    "Shell",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "Aj63B5hLtvJdNQiAi61rMrgfW3pt8Lak3GQB59B6jysj"
+   ],
+   "categories": [
+    "Payments",
+    "AI agents",
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2026-08-21T05:48:26Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 430,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-08-21T06:14:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/knot-wallet",
+   "fork_url": "https://github.com/Blockchains/knot-wallet",
+   "source": "codewithmide/knot-wallet",
+   "description": "Server-side Solana wallet infrastructure for AI agents.",
+   "language": null,
+   "languages": [
+    "TypeScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-03-03T03:26:13Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 82,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-03-19T10:32:26Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kodrat",
+   "fork_url": "https://github.com/Blockchains/kodrat",
+   "source": "Firdausfarul/kodrat",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML",
+    "Rust",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Native (solana-program)"
+   ],
+   "program_ids": [
+    "H5yv1n2BMwPXgVGYA9Rewz4PQFx7p3RDpbZgBajoiULY"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T05:25:28Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 4,
+   "has_package_json": false,
+   "files": 102,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T05:25:32Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kogatec-torus",
+   "fork_url": "https://github.com/Blockchains/kogatec-torus",
+   "source": "kogatec/torus",
+   "description": "T\u00f6rus \u2014 verifiable return promises for brand tokens on Solana (Token-2022 transfer fee + transfer hook). Hackathon prototype, unaudited. Patent pending.",
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "6n1Nme9H1aUoXY2P2RaHBVWKAHHyEVPjx9n8WdU8oGdR",
+    "9LtyE8m84qUm9qeyLSLzTJUC3cUXNvL2HVp9ctqdi21a"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments"
+   ],
+   "license": "NOASSERTION",
+   "last_commit": "2026-10-20T10:52:14Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 55,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-20T10:52:19Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kolplayorg-sdk",
+   "fork_url": "https://github.com/Blockchains/kolplayorg-sdk",
+   "source": "kolplayorg/sdk",
+   "description": "Kolplay Sdk",
+   "language": null,
+   "languages": [
+    "TypeScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Social"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-02-16T13:59:15Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 10,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-02-16T14:00:15Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kommit",
+   "fork_url": "https://github.com/Blockchains/kommit",
+   "source": "lamentierschweinchen/kommit",
+   "description": "A conviction primitive for early-stage backing on Solana. Park money, send a real signal of conviction, withdraw anytime, earn kommits that compound.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "HTML",
+    "PLpgSQL",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "GxM3sxMp4FyrkHK4g1DaDrmwYLrwd2BJKxqKZqvGgkc3"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-27T17:44:16Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 313,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-27T17:44:19Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/konclave",
+   "fork_url": "https://github.com/Blockchains/konclave",
+   "source": "deegalabs/konclave",
+   "description": "The vault that decides together. A local-first, browser-native collective Zcash treasury using FROST threshold signatures. Private on the outside, transparent on the inside.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript",
+    "HTML",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Social",
+    "DAO/Governance"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2026-10-31T07:02:13Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 9,
+   "has_package_json": true,
+   "files": 537,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-03T14:54:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/konek",
+   "fork_url": "https://github.com/Blockchains/konek",
+   "source": "justhenix/konek",
+   "description": "KonekPay: Solana to QRIS bridge. Converts SOL to IDR instantly for retail transactions in Indonesia. Built for Colosseum Frontier Hackathon.",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-07-18T02:08:45Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 75,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-07-18T02:08:45Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/konnektoren",
+   "fork_url": "https://github.com/Blockchains/konnektoren",
+   "source": "SofiiaVarich/konnektoren",
+   "description": "Konnektoren",
+   "language": null,
+   "languages": [
+    "Rust",
+    "SCSS",
+    "HTML",
+    "JavaScript",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2024-07-20T18:20:01Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 1,
+   "has_package_json": false,
+   "files": 184,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-07-20T18:56:16Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/koopaa-contract",
+   "fork_url": "https://github.com/Blockchains/koopaa-contract",
+   "source": "IbrahimIjai/Koopa-contract-solana",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "2ritrNbhimgFDysvHUgh1Cc5Xr5Z9qWmiumSH76WVzXh",
+    "Ao3XasHpFWzZbu5Xza3wUk7JVV3itNxcGv7XmuiT7ZXQ"
+   ],
+   "categories": [
+    "DeFi",
+    "DAO/Governance"
+   ],
+   "license": null,
+   "last_commit": "2026-01-24T07:50:56Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 21,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-01-24T07:51:06Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/korrin",
+   "fork_url": "https://github.com/Blockchains/korrin",
+   "source": "Svector-anu/korrin",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T05:14:26Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 243,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T05:14:37Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/krafthaus-colosseum-frontier",
+   "fork_url": "https://github.com/Blockchains/krafthaus-colosseum-frontier",
+   "source": "nodeblur/krafthaus-colosseum-frontier",
+   "description": "Krafthaus Solana execution gate demo for Colosseum Frontier",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "AI agents",
+    "DAO/Governance",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T06:36:31Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 157,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T06:36:36Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/krafthaus-solana",
+   "fork_url": "https://github.com/Blockchains/krafthaus-solana",
+   "source": "nodeblur/krafthaus-solana",
+   "description": "Devnet-only accepted-work payout prototype: trusted owner acceptance, exact Solana message binding and obligation-level retries. Powered by Decide.",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T05:33:40Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 24,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T05:33:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kreesol",
+   "fork_url": "https://github.com/Blockchains/kreesol",
+   "source": "swymbnsl/kreesol",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2025-10-27T10:06:08Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 75,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-27T10:06:13Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kryptpay-solana-contract",
+   "fork_url": "https://github.com/Blockchains/kryptpay-solana-contract",
+   "source": "KryptPay/kryptpay-solana-contract",
+   "description": "Smart contract that handles payment and issue reward token to users as they transact. And also facilitate swapping",
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Native (solana-program)"
+   ],
+   "program_ids": [
+    "6k73LWhMtLhJLVyC3qQGa8pvDZ2GUXnLAb9n3juk8u3A"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2024-04-07T20:52:56Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 23,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-07T20:52:56Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/ktulu-programs",
+   "fork_url": "https://github.com/Blockchains/ktulu-programs",
+   "source": "Sam-Jeston/ktulu-programs",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust",
+    "Shell",
+    "TypeScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "7Y1iiXP68seqhZtyQ1fEwxCYJVmJztwvXBBnZvRn3DyC"
+   ],
+   "categories": [
+    "DeFi"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-04-15T09:51:11Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 174,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-15T09:51:11Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kula",
+   "fork_url": "https://github.com/Blockchains/kula",
+   "source": "apneduniya/kula",
+   "description": "Futarchy x AI based world simulator",
+   "language": null,
+   "languages": [
+    "Python",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-05-22T18:40:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 60,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-06-04T17:54:33Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kumo-app",
+   "fork_url": "https://github.com/Blockchains/kumo-app",
+   "source": "KumoPay/kumo-app",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "Rust",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "8ttk7xy5Xyg7FUBeZ5Ztdck6Uwm9RdXoCcxgNoTSR7M6"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Consumer"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2026-05-19T18:17:10Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 183,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-19T18:17:18Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kurtosislabs",
+   "fork_url": "https://github.com/Blockchains/kurtosislabs",
+   "source": "kurtosis-hq/kurtosislabs",
+   "description": null,
+   "language": null,
+   "languages": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-22T17:50:15Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 45,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-27T21:38:29Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kutip",
+   "fork_url": "https://github.com/Blockchains/kutip",
+   "source": "0xJian21/kutip",
+   "description": "AI collections + settlement agent for Malaysian exporters on Solana (Solana Pay, x402, Squads, Solami gRPC)",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "PLpgSQL",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-11T03:08:42Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 1061,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-11T03:18:55Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kv34.sh",
+   "fork_url": "https://github.com/Blockchains/kv34.sh",
+   "source": "bizmindx/kv34.sh",
+   "description": "zero config deployment sandbox for testing , deploying and running smart contracts ",
+   "language": null,
+   "languages": [
+    "Python",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2025-09-15T15:20:59Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 34,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-09-15T15:20:59Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kvali",
+   "fork_url": "https://github.com/Blockchains/kvali",
+   "source": "Khristo19/kvali",
+   "description": "Farmers pay for drone spraying only when the work is proven. Operators get paid on proof. Built on Solana (devnet demo, test money).",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "Rust",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "2TWg6cMa7bxFa8y7HHoDXZecNJxcbYrUAqwfrg5T8FPK"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-13T01:49:05Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 223,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T02:04:35Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kvasir-net",
+   "fork_url": "https://github.com/Blockchains/kvasir-net",
+   "source": "louisevandan/kvasir-net",
+   "description": "Kvasir \u2014 control plane for large GGUF models across GPUs/machines; expert-sharded MoE swarm, non-custodial KVR wallet + mobile nodes, OpenAI/Anthropic gateways.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Swift",
+    "Kotlin",
+    "Makefile",
+    "C++"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "DePIN",
+    "AI agents",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": "NOASSERTION",
+   "last_commit": "2026-10-20T02:16:29Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 4241,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-20T11:54:02Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kyc-sdk",
+   "fork_url": "https://github.com/Blockchains/kyc-sdk",
+   "source": "kodunmi/kyc-sdk",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-08-30T16:36:26Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 61,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-10-09T01:30:27Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/kydo",
+   "fork_url": "https://github.com/Blockchains/kydo",
+   "source": "Kydo-Trade/kydo",
+   "description": "Onchain prop trading platform on Solana",
+   "language": null,
+   "languages": [],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "G4E1BiuovMpeUCgyh2222GqAQt4cW5dXSovZipFd89T1"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": null,
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 235,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-23T06:55:45Z",
    "readme_injection_flag": false
   }
  ]

@@ -3978,3 +3978,130 @@
 | [jaaduwalapay](repos/jaaduwalapay.md) | Payments, Consumer | - | - | no |
 | [jab](repos/jab.md) | DePIN, Consumer | - | - | no |
 | [jacana](repos/jacana.md) | Other | - | - | no |
+| [jaguar](repos/jaguar.md) | DeFi, AI agents, Social | - | - | yes |
+| [jal](repos/jal.md) | Social | Anchor | - | yes |
+| [jankenDegen-contract](repos/jankenDegen-contract.md) | Infra/Tooling, Consumer | Native (solana-program) | - | no |
+| [janus](repos/janus.md) | DeFi, Infra/Tooling, Identity/Privacy | Native (solana-program) | - | yes |
+| [janusapp](repos/janusapp.md) | Payments, Infra/Tooling, Consumer | - | - | yes |
+| [jarfi](repos/jarfi.md) | Other | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [jarsol-web4-automaton](repos/jarsol-web4-automaton.md) | DeFi, AI agents, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | yes |
+| [jarvis_mcp_server](repos/jarvis_mcp_server.md) | DeFi | - | - | yes |
+| [jashan-786-solrent](repos/jashan-786-solrent.md) | Payments, NFTs, Infra/Tooling, Consumer | - | MIT | yes |
+| [javin-ai](repos/javin-ai.md) | Infra/Tooling, Social | - | MIT | no |
+| [jawkjiang-solana](repos/jawkjiang-solana.md) | Consumer | Anchor | - | yes |
+| [jaystokk](repos/jaystokk.md) | Other | - | - | no |
+| [jbl](repos/jbl.md) | DeFi | Anchor, Client-only (web3.js/kit) | - | yes |
+| [jeex](repos/jeex.md) | Other | - | - | no |
+| [jetson](repos/jetson.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [jev-risk-check-provider](repos/jev-risk-check-provider.md) | Payments, AI agents, Identity/Privacy, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [joelvarghese6-sovereign](repos/joelvarghese6-sovereign.md) | Payments, AI agents, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | no |
+| [jointventure-colosseum](repos/jointventure-colosseum.md) | DeFi, DePIN, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [josepha-mayo-sealed](repos/josepha-mayo-sealed.md) | Infra/Tooling, Identity/Privacy | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [jpay](repos/jpay.md) | DeFi, Payments | - | - | no |
+| [js-](repos/js-.md) | Other | - | - | no |
+| [jukebox](repos/jukebox.md) | NFTs, Infra/Tooling, DAO/Governance, Consumer | Client-only (web3.js/kit) | - | no |
+| [julit](repos/julit.md) | DeFi, Payments, NFTs, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [jumpa](repos/jumpa.md) | Payments, AI agents, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [juno](repos/juno.md) | DeFi, AI agents, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [jup-alpha-trigger](repos/jup-alpha-trigger.md) | Other | Client-only (web3.js/kit) | - | no |
+| [jup-lend-rebalancer](repos/jup-lend-rebalancer.md) | DeFi, Infra/Tooling, Consumer | - | - | yes |
+| [jupiter-market-pulse-scout](repos/jupiter-market-pulse-scout.md) | DeFi, Consumer | - | - | no |
+| [jupiter-signal-forge](repos/jupiter-signal-forge.md) | DeFi, AI agents | - | - | no |
+| [jupiter-signal-lab](repos/jupiter-signal-lab.md) | DeFi, AI agents, Consumer | - | - | no |
+| [jupiter-signal-scout](repos/jupiter-signal-scout.md) | DeFi, Infra/Tooling | - | - | no |
+| [jupiter-token-radar](repos/jupiter-token-radar.md) | DeFi, AI agents | - | - | no |
+| [just-api](repos/just-api.md) | Other | - | - | no |
+| [just-gem](repos/just-gem.md) | Other | - | - | no |
+| [justice_4_all](repos/justice_4_all.md) | Other | - | - | yes |
+| [justra-client-v2](repos/justra-client-v2.md) | Other | Anchor, Client-only (web3.js/kit) | - | no |
+| [jxieterminal](repos/jxieterminal.md) | DeFi, Infra/Tooling, Social, Consumer | - | - | no |
+| [k1-protocol](repos/k1-protocol.md) | Other | - | - | no |
+| [kaboom-doc](repos/kaboom-doc.md) | Social | - | - | no |
+| [kadence](repos/kadence.md) | DeFi, NFTs, Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit) | MIT | no |
+| [kadex](repos/kadex.md) | DeFi, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [kagiboy](repos/kagiboy.md) | Gaming, DePIN, Consumer | - | MIT | yes |
+| [kaido](repos/kaido.md) | DeFi, Infra/Tooling | - | - | no |
+| [kairo](repos/kairo.md) | DeFi, AI agents, Identity/Privacy, Consumer | - | - | no |
+| [kaiwu-sol](repos/kaiwu-sol.md) | NFTs, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | no |
+| [kalo-web](repos/kalo-web.md) | Other | Client-only (web3.js/kit) | - | no |
+| [kalo.org](repos/kalo.org.md) | Other | - | MIT | no |
+| [kalyna-wallet-server](repos/kalyna-wallet-server.md) | Other | - | - | no |
+| [kamai](repos/kamai.md) | DeFi, Payments | - | - | no |
+| [kamalbuilds-pulse](repos/kamalbuilds-pulse.md) | Infra/Tooling, Social, DAO/Governance, Identity/Privacy, Consumer | Anchor | - | yes |
+| [kami](repos/kami.md) | DeFi, AI agents, Infra/Tooling, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [kampit](repos/kampit.md) | DeFi, Payments, Gaming, Infra/Tooling, Social, Consumer | Client-only (web3.js/kit) | - | yes |
+| [kampuspay](repos/kampuspay.md) | Payments, Infra/Tooling, Social, Consumer | Client-only (web3.js/kit) | MIT | no |
+| [kamui](repos/kamui.md) | Infra/Tooling | Anchor, Client-only (web3.js/kit), Native (solana-program) | Apache-2.0 | yes |
+| [kana](repos/kana.md) | DeFi | - | - | no |
+| [kani](repos/kani.md) | DeFi, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [kanpai-spot](repos/kanpai-spot.md) | Other | - | - | no |
+| [kapture](repos/kapture.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy, Consumer | Anchor | MIT | yes |
+| [karat67](repos/karat67.md) | AI agents, Infra/Tooling | - | MIT | yes |
+| [karlo292-solana-token-creator](repos/karlo292-solana-token-creator.md) | Social | Client-only (web3.js/kit) | - | no |
+| [karmacall-website](repos/karmacall-website.md) | Infra/Tooling | Client-only (web3.js/kit) | 0BSD | no |
+| [kasa-money](repos/kasa-money.md) | DeFi | - | MIT | yes |
+| [kase-bond-engine](repos/kase-bond-engine.md) | DeFi, Payments, DAO/Governance | Anchor | - | yes |
+| [kase-corporate-actions](repos/kase-corporate-actions.md) | DeFi, Payments, DAO/Governance | Anchor, Client-only (web3.js/kit) | - | yes |
+| [kaspermotion2](repos/kaspermotion2.md) | Other | Client-only (web3.js/kit) | - | no |
+| [kasy-flow-solver](repos/kasy-flow-solver.md) | DeFi, Payments, AI agents | - | - | no |
+| [katha](repos/katha.md) | DeFi, NFTs, Consumer | Anchor | - | yes |
+| [kawi-remesas-public](repos/kawi-remesas-public.md) | Other | - | - | no |
+| [kazisafe](repos/kazisafe.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy, Consumer | Anchor | - | yes |
+| [keepyours](repos/keepyours.md) | DeFi, Payments | - | MIT | yes |
+| [kelayjuice-my-project](repos/kelayjuice-my-project.md) | Other | Anchor, Client-only (web3.js/kit) | - | yes |
+| [kelox-fe](repos/kelox-fe.md) | Consumer | Client-only (web3.js/kit) | - | no |
+| [kelvara-platform](repos/kelvara-platform.md) | DeFi, Infra/Tooling, DAO/Governance, Identity/Privacy, Consumer | - | - | no |
+| [kenotaf-colosseum](repos/kenotaf-colosseum.md) | NFTs, Gaming, Infra/Tooling, Identity/Privacy, Consumer | - | - | no |
+| [kept-seeker](repos/kept-seeker.md) | DeFi, Social, Identity/Privacy, Consumer | - | - | yes |
+| [kerdos-markets](repos/kerdos-markets.md) | Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [kernapp](repos/kernapp.md) | DeFi, Infra/Tooling, Social, Consumer | Anchor | - | no |
+| [ketchup_republic_solana](repos/ketchup_republic_solana.md) | DePIN | Native (solana-program) | Apache-2.0 | no |
+| [kethyr-pay](repos/kethyr-pay.md) | DeFi, Payments | Anchor | MIT | yes |
+| [keyholder](repos/keyholder.md) | DeFi, DAO/Governance | Anchor, Client-only (web3.js/kit) | - | yes |
+| [keymint](repos/keymint.md) | DeFi, Payments, AI agents, Infra/Tooling, Consumer | Anchor | MIT | yes |
+| [keypair.exe](repos/keypair.exe.md) | Other | - | - | no |
+| [keyshield](repos/keyshield.md) | DeFi, Payments, DePIN, AI agents, Infra/Tooling, Identity/Privacy | Client-only (web3.js/kit), Pinocchio | MIT | yes |
+| [kickoffstocks](repos/kickoffstocks.md) | DeFi, AI agents, Infra/Tooling, Social | - | MIT | yes |
+| [kidstechbase-colosseum-hackathon](repos/kidstechbase-colosseum-hackathon.md) | Other | - | - | no |
+| [kiki](repos/kiki.md) | Other | - | - | no |
+| [killswitch](repos/killswitch.md) | DeFi, Consumer | Anchor | - | yes |
+| [kimono-registry](repos/kimono-registry.md) | Infra/Tooling | Client-only (web3.js/kit) | MIT | no |
+| [kinetic](repos/kinetic.md) | Other | Client-only (web3.js/kit) | - | no |
+| [kingnet-v1-core](repos/kingnet-v1-core.md) | DeFi | - | Apache-2.0 | no |
+| [kinlog](repos/kinlog.md) | DeFi, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [kipdeck](repos/kipdeck.md) | AI agents, Infra/Tooling | Native (solana-program) | MIT | yes |
+| [kira_forge](repos/kira_forge.md) | DeFi, Payments, AI agents, Social | - | - | no |
+| [kirapass-kirapay](repos/kirapass-kirapay.md) | Payments | - | - | no |
+| [kit-squared](repos/kit-squared.md) | Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | no |
+| [kitchen](repos/kitchen.md) | DeFi | Client-only (web3.js/kit) | - | yes |
+| [kite](repos/kite.md) | DeFi, Payments, Infra/Tooling, Social, Consumer | Anchor | - | yes |
+| [kite-pay](repos/kite-pay.md) | Other | Client-only (web3.js/kit) | - | no |
+| [kixa](repos/kixa.md) | DeFi, AI agents, Infra/Tooling, Identity/Privacy, Consumer | Anchor | MIT | yes |
+| [klend-risk-pub](repos/klend-risk-pub.md) | DeFi, Infra/Tooling | - | MIT | no |
+| [klink](repos/klink.md) | DeFi, AI agents, Infra/Tooling, Consumer | Anchor | - | yes |
+| [klyrn](repos/klyrn.md) | NFTs, Infra/Tooling, Consumer | Anchor | - | no |
+| [knot](repos/knot.md) | Payments, AI agents, Social | Anchor | - | yes |
+| [knot-wallet](repos/knot-wallet.md) | DeFi, AI agents, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [kodrat](repos/kodrat.md) | DeFi, Payments, Consumer | Anchor, Native (solana-program) | - | yes |
+| [kogatec-torus](repos/kogatec-torus.md) | DeFi, Payments | Anchor, Client-only (web3.js/kit) | NOASSERTION | yes |
+| [kolplayorg-sdk](repos/kolplayorg-sdk.md) | DeFi, Infra/Tooling, Social | - | MIT | yes |
+| [kommit](repos/kommit.md) | DeFi, Infra/Tooling | Anchor | MIT | yes |
+| [konclave](repos/konclave.md) | DeFi, Payments, Social, DAO/Governance | - | Apache-2.0 | yes |
+| [konek](repos/konek.md) | Payments, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | yes |
+| [konnektoren](repos/konnektoren.md) | Infra/Tooling | - | - | yes |
+| [koopaa-contract](repos/koopaa-contract.md) | DeFi, DAO/Governance | Anchor | - | yes |
+| [korrin](repos/korrin.md) | DeFi, Consumer | - | - | yes |
+| [krafthaus-colosseum-frontier](repos/krafthaus-colosseum-frontier.md) | AI agents, DAO/Governance, Consumer | - | - | no |
+| [krafthaus-solana](repos/krafthaus-solana.md) | DeFi, Payments, AI agents, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | yes |
+| [kreesol](repos/kreesol.md) | Social | Client-only (web3.js/kit) | - | no |
+| [kryptpay-solana-contract](repos/kryptpay-solana-contract.md) | DeFi, Payments, Infra/Tooling, Consumer | Anchor, Native (solana-program) | MIT | yes |
+| [ktulu-programs](repos/ktulu-programs.md) | DeFi | Anchor | MIT | yes |
+| [kula](repos/kula.md) | Other | - | - | yes |
+| [kumo-app](repos/kumo-app.md) | DeFi, Payments, Consumer | Anchor | Apache-2.0 | yes |
+| [kurtosislabs](repos/kurtosislabs.md) | Other | - | - | no |
+| [kutip](repos/kutip.md) | DeFi, Payments, AI agents, Infra/Tooling, Consumer | - | - | yes |
+| [kv34.sh](repos/kv34.sh.md) | Infra/Tooling | - | - | yes |
+| [kvali](repos/kvali.md) | DeFi, Payments, Infra/Tooling | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [kvasir-net](repos/kvasir-net.md) | DeFi, Payments, DePIN, AI agents, Infra/Tooling, Social, Consumer | - | NOASSERTION | yes |
+| [kyc-sdk](repos/kyc-sdk.md) | Other | Client-only (web3.js/kit) | - | no |
+| [kydo](repos/kydo.md) | DeFi, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
