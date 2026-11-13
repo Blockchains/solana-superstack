@@ -4105,3 +4105,115 @@
 | [kvasir-net](repos/kvasir-net.md) | DeFi, Payments, DePIN, AI agents, Infra/Tooling, Social, Consumer | - | NOASSERTION | yes |
 | [kyc-sdk](repos/kyc-sdk.md) | Other | Client-only (web3.js/kit) | - | no |
 | [kydo](repos/kydo.md) | DeFi, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [kylrix](repos/kylrix.md) | DeFi, AI agents, Infra/Tooling, Social, Identity/Privacy | - | NOASSERTION | yes |
+| [kyro](repos/kyro.md) | DeFi, Payments, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [kyro-network](repos/kyro-network.md) | Other | Client-only (web3.js/kit) | - | no |
+| [kyvern-atlas](repos/kyvern-atlas.md) | DeFi, Payments, DePIN, AI agents, Infra/Tooling | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [labyrinth_magicblock](repos/labyrinth_magicblock.md) | DeFi, Gaming, Consumer | Pinocchio | - | no |
+| [lacus-solana](repos/lacus-solana.md) | Other | Anchor, Client-only (web3.js/kit) | - | no |
+| [lamina](repos/lamina.md) | Other | - | MIT | yes |
+| [lamport](repos/lamport.md) | DeFi, Payments, Identity/Privacy, Consumer | Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [lanatools](repos/lanatools.md) | Payments, Infra/Tooling, Consumer | - | - | yes |
+| [landedos-submission](repos/landedos-submission.md) | DeFi, Social, Identity/Privacy, Consumer | - | - | yes |
+| [landingpage](repos/landingpage.md) | DeFi, Consumer | - | - | no |
+| [lantern](repos/lantern.md) | DeFi, Payments | - | MIT | yes |
+| [larea](repos/larea.md) | Payments, NFTs, Gaming, Social, Consumer | - | - | yes |
+| [lastcall.fun](repos/lastcall.fun.md) | DeFi, Infra/Tooling, Consumer | Anchor | - | yes |
+| [lastwei](repos/lastwei.md) | Payments, Infra/Tooling, Consumer | - | MIT | yes |
+| [latch](repos/latch.md) | DeFi, Payments, Infra/Tooling, Consumer | Anchor | Apache-2.0 | yes |
+| [lath](repos/lath.md) | Payments, AI agents | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [latinum-colosseum](repos/latinum-colosseum.md) | Payments, AI agents, Consumer | - | - | no |
+| [lattice](repos/lattice.md) | DeFi, Payments, AI agents, Infra/Tooling | Anchor | - | yes |
+| [lattice-equities](repos/lattice-equities.md) | DeFi | Anchor, Client-only (web3.js/kit) | - | yes |
+| [launch-commitments](repos/launch-commitments.md) | DeFi, NFTs, Infra/Tooling, Consumer | Client-only (web3.js/kit), Native (solana-program) | NOASSERTION | yes |
+| [launch-guard](repos/launch-guard.md) | DeFi, Infra/Tooling, Social | Anchor, Client-only (web3.js/kit) | - | yes |
+| [launchbox](repos/launchbox.md) | Other | - | - | no |
+| [launchpad-contracts](repos/launchpad-contracts.md) | DeFi | - | MIT | yes |
+| [launchpad-program](repos/launchpad-program.md) | Other | Anchor, Client-only (web3.js/kit) | - | no |
+| [lawsafe](repos/lawsafe.md) | Other | Anchor | - | yes |
+| [layersong](repos/layersong.md) | NFTs, Consumer | - | - | no |
+| [lazarus-protocol](repos/lazarus-protocol.md) | DeFi, Payments, DAO/Governance, Consumer | - | MIT | no |
+| [lazor-kit](repos/lazor-kit.md) | Infra/Tooling, Consumer | - | MIT | yes |
+| [lazorkit-protocol](repos/lazorkit-protocol.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Pinocchio | MIT | yes |
+| [lazorkit-wallet-app](repos/lazorkit-wallet-app.md) | DeFi, Payments, DePIN, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | no |
+| [lazr](repos/lazr.md) | Payments, Consumer | - | MIT | no |
+| [lbc-hub-core](repos/lbc-hub-core.md) | DeFi, NFTs, Social, Consumer | - | - | yes |
+| [leagueweb3](repos/leagueweb3.md) | NFTs | - | - | no |
+| [learn-bit-hub](repos/learn-bit-hub.md) | Other | Client-only (web3.js/kit) | - | no |
+| [learn-trail-pwa](repos/learn-trail-pwa.md) | Other | - | - | no |
+| [learning-competency-mvp](repos/learning-competency-mvp.md) | Other | Client-only (web3.js/kit) | - | yes |
+| [learnproof](repos/learnproof.md) | NFTs, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [leash](repos/leash.md) | Payments, NFTs, AI agents, Infra/Tooling, Social, Identity/Privacy | Client-only (web3.js/kit) | - | yes |
+| [leashed-agent](repos/leashed-agent.md) | Payments, AI agents, Infra/Tooling, Consumer | - | - | yes |
+| [leasySolanaHackaton](repos/leasySolanaHackaton.md) | Other | Client-only (web3.js/kit) | - | no |
+| [ledgerandpay](repos/ledgerandpay.md) | Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [ledgerhand](repos/ledgerhand.md) | Infra/Tooling, DAO/Governance, Consumer | Anchor, Native (solana-program) | Apache-2.0 | yes |
+| [legacy-protocol](repos/legacy-protocol.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Anchor | MIT | yes |
+| [legacy3-contract](repos/legacy3-contract.md) | Infra/Tooling | Anchor | - | yes |
+| [legal_aid](repos/legal_aid.md) | Payments, Infra/Tooling, Identity/Privacy, Consumer | Anchor | NOASSERTION | yes |
+| [legend-of-arcania](repos/legend-of-arcania.md) | DeFi, Gaming, Infra/Tooling, Social, Consumer | - | - | no |
+| [legion-tx](repos/legion-tx.md) | Other | Client-only (web3.js/kit) | - | no |
+| [legitly](repos/legitly.md) | Other | - | - | yes |
+| [lemonlime](repos/lemonlime.md) | DeFi | Client-only (web3.js/kit) | - | no |
+| [lemony-about](repos/lemony-about.md) | DeFi, Consumer | - | - | no |
+| [lending_protocol](repos/lending_protocol.md) | DeFi | Anchor | - | yes |
+| [lendveil](repos/lendveil.md) | DeFi, DePIN, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit) | MIT | no |
+| [lens](repos/lens.md) | Other | - | - | yes |
+| [lenscopy](repos/lenscopy.md) | Other | Client-only (web3.js/kit) | - | no |
+| [letmestyle.app](repos/letmestyle.app.md) | Other | - | - | no |
+| [levelin](repos/levelin.md) | Other | Anchor | MIT | yes |
+| [lever-protocol](repos/lever-protocol.md) | Other | Anchor | - | yes |
+| [leverbrain](repos/leverbrain.md) | AI agents, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [leviathan-net](repos/leviathan-net.md) | DeFi, Consumer | Anchor | Apache-2.0 | yes |
+| [lewt-landing](repos/lewt-landing.md) | DeFi | - | - | no |
+| [lexari](repos/lexari.md) | DeFi, AI agents, Social, Consumer | Anchor | NOASSERTION | yes |
+| [lexinitent](repos/lexinitent.md) | Other | Client-only (web3.js/kit) | - | no |
+| [lfown](repos/lfown.md) | AI agents, Infra/Tooling, Consumer | Client-only (web3.js/kit) | MIT | no |
+| [life-engine-cryptobot-service](repos/life-engine-cryptobot-service.md) | DeFi, AI agents, Infra/Tooling, Consumer | Native (solana-program) | Apache-2.0 | yes |
+| [lifei](repos/lifei.md) | Other | - | - | no |
+| [lifesim-challenges](repos/lifesim-challenges.md) | Consumer | - | - | no |
+| [lightlytech](repos/lightlytech.md) | DePIN, Consumer | - | - | yes |
+| [likeness.website](repos/likeness.website.md) | DeFi, Payments, AI agents, Infra/Tooling, Social, Identity/Privacy, Consumer | - | MIT | yes |
+| [likwid-contract](repos/likwid-contract.md) | Other | - | - | no |
+| [lili_bit_pay](repos/lili_bit_pay.md) | DeFi, Payments, DePIN, Identity/Privacy | - | - | no |
+| [linchpin](repos/linchpin.md) | DeFi, Infra/Tooling, DAO/Governance, Consumer | Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [lingocaster](repos/lingocaster.md) | Gaming, Social | Anchor | - | yes |
+| [link-detection](repos/link-detection.md) | Other | - | - | no |
+| [linkboy](repos/linkboy.md) | Payments | - | - | no |
+| [linkhub](repos/linkhub.md) | Other | - | - | no |
+| [linkmarines](repos/linkmarines.md) | Other | - | NOASSERTION | no |
+| [linkup](repos/linkup.md) | Other | Anchor, Client-only (web3.js/kit) | - | no |
+| [linkwave](repos/linkwave.md) | Other | - | - | yes |
+| [liquid-staking-token](repos/liquid-staking-token.md) | DeFi | - | - | no |
+| [liquidity-radar](repos/liquidity-radar.md) | DeFi, Infra/Tooling | - | - | yes |
+| [lissen-solana-hackathon](repos/lissen-solana-hackathon.md) | Other | - | - | yes |
+| [littlejohn-mcp](repos/littlejohn-mcp.md) | Payments, Infra/Tooling, Consumer | - | MIT | yes |
+| [livesol](repos/livesol.md) | Payments, Consumer | - | - | no |
+| [llamaCPP-solRadar](repos/llamaCPP-solRadar.md) | AI agents | - | MIT | no |
+| [lms-thegame](repos/lms-thegame.md) | Other | - | - | no |
+| [loar](repos/loar.md) | AI agents, Infra/Tooling, DAO/Governance | Anchor | MIT | yes |
+| [lobby](repos/lobby.md) | DeFi, Payments, Infra/Tooling | - | MIT | yes |
+| [lobster-agent-market](repos/lobster-agent-market.md) | AI agents, Infra/Tooling, Social, Identity/Privacy, Consumer | - | - | no |
+| [lobsterpay](repos/lobsterpay.md) | DeFi, Payments, AI agents, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [local-coins-app](repos/local-coins-app.md) | Other | Anchor, Client-only (web3.js/kit) | - | yes |
+| [localdao](repos/localdao.md) | Social, DAO/Governance | Anchor, Client-only (web3.js/kit) | - | yes |
+| [localised-solana](repos/localised-solana.md) | DeFi, Infra/Tooling | Anchor | - | yes |
+| [localsolana](repos/localsolana.md) | Other | Anchor, Client-only (web3.js/kit) | GPL-3.0 | no |
+| [lock-n-roll](repos/lock-n-roll.md) | Other | Anchor | - | yes |
+| [locked-in](repos/locked-in.md) | DeFi, Social, Consumer | Anchor | - | yes |
+| [lockr](repos/lockr.md) | Payments, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [locus](repos/locus.md) | NFTs, AI agents, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit), Native (solana-program) | MIT | yes |
+| [lokal](repos/lokal.md) | DeFi, NFTs, Infra/Tooling, Social, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [longtail](repos/longtail.md) | DeFi, AI agents | - | - | yes |
+| [loofta-pay](repos/loofta-pay.md) | DeFi, Payments, Infra/Tooling, Consumer | Anchor, Native (solana-program) | - | yes |
+| [loom](repos/loom.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit), Poseidon | MIT | yes |
+| [looplings](repos/looplings.md) | AI agents, Consumer | - | - | no |
+| [lootgo.app](repos/lootgo.app.md) | Other | - | - | no |
+| [lordspot](repos/lordspot.md) | Other | Anchor, Native (solana-program) | - | yes |
+| [lore-solana-neon-contracts](repos/lore-solana-neon-contracts.md) | Infra/Tooling | - | - | yes |
+| [lotion](repos/lotion.md) | DeFi, Identity/Privacy | - | - | no |
+| [lots-server-2](repos/lots-server-2.md) | Other | - | - | yes |
+| [lotwise](repos/lotwise.md) | DeFi, Infra/Tooling, Consumer | - | MIT | yes |
+| [louissarvin-cortex](repos/louissarvin-cortex.md) | DeFi, AI agents, Infra/Tooling | Anchor | - | yes |
+| [lovequay-onchain](repos/lovequay-onchain.md) | DePIN, Infra/Tooling | Client-only (web3.js/kit) | MIT | no |
+| [lowkie-protocol](repos/lowkie-protocol.md) | Other | Anchor | - | yes |
