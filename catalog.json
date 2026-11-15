@@ -1,28 +1,28 @@
 {
- "generated": "2026-11-14T09:36:03Z",
- "count": 4311,
+ "generated": "2026-11-15T10:02:59Z",
+ "count": 4400,
  "by_category": {
-  "Consumer": 1889,
-  "Infra/Tooling": 1736,
-  "DeFi": 1550,
-  "Other": 1135,
-  "Payments": 829,
-  "AI agents": 722,
-  "Social": 619,
-  "Identity/Privacy": 525,
-  "NFTs": 489,
-  "Gaming": 302,
-  "DAO/Governance": 263,
-  "DePIN": 220
+  "Consumer": 1927,
+  "Infra/Tooling": 1779,
+  "DeFi": 1587,
+  "Other": 1152,
+  "Payments": 850,
+  "AI agents": 740,
+  "Social": 632,
+  "Identity/Privacy": 537,
+  "NFTs": 499,
+  "Gaming": 305,
+  "DAO/Governance": 265,
+  "DePIN": 225
  },
  "by_framework": {
-  "none detected": 1946,
-  "Anchor": 1578,
-  "Client-only (web3.js/kit)": 1400,
-  "Native (solana-program)": 274,
-  "Pinocchio": 36,
+  "none detected": 1986,
+  "Anchor": 1600,
+  "Client-only (web3.js/kit)": 1436,
+  "Native (solana-program)": 279,
+  "Pinocchio": 37,
   "Poseidon": 20,
-  "Bolt (MagicBlock)": 5,
+  "Bolt (MagicBlock)": 6,
   "Steel": 1,
   "Seahorse": 1
  },
@@ -139784,6 +139784,2877 @@
    "files": 34,
    "builds": "unverified",
    "fork_pushed_at": "2026-10-11T13:16:27Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/memestream",
+   "fork_url": "https://github.com/Blockchains/memestream",
+   "source": "varunlohade/memestream",
+   "description": "A prediction market for every live stream. Each Twitch or YouTube stream gets its own coin on Meteora's Dynamic Bonding Curve, and viewers bet on what happens next. An AI referee resolves each bet. Built on Solana.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Shell",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Social"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-21T08:42:44Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 355,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-21T09:36:52Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/memomatch-tempo",
+   "fork_url": "https://github.com/Blockchains/memomatch-tempo",
+   "source": "1932919956/memomatch-tempo",
+   "description": "MemoMatch \u5e2e\u52a9\u5c0f\u578b\u5546\u6237\u6838\u5bf9 Tempo \u4e0a\u7684\u7a33\u5b9a\u5e01\u8d26\u5355\u3002\u5546\u6237\u521b\u5efa\u8d26\u5355\u540e\uff0c\u7cfb\u7edf\u751f\u6210\u552f\u4e00\u4ed8\u6b3e\u5f15\u7528\uff1b\u4ed8\u6b3e\u5b8c\u6210\u540e\uff0cMemoMatch \u68c0\u67e5 Tempo Moderato \u4e0a\u7684 AlphaUSD TIP-20 \u4ea4\u6613\u56de\u6267\uff0c\u6838\u5bf9\u4ee3\u5e01\u3001\u6536\u6b3e\u5730\u5740\u3001\u91d1\u989d\u548c TransferWithMemo \u5f15\u7528\uff0c\u5339\u914d\u540e\u624d\u5c06\u8d26\u5355\u6807\u8bb0\u4e3a\u5df2\u652f\u4ed8\u3002\u5ba2\u6237\u4fe1\u606f\u4fdd\u5b58\u5728\u94fe\u4e0b\uff0c\u94fe\u4e0a\u4ec5\u8bb0\u5f55\u4e0d\u542b\u4e2a\u4eba\u4fe1\u606f\u7684\u8d26\u5355\u7f16\u53f7\uff0c\u51cf\u5c11\u4eba\u5de5\u5bf9\u8d26\u548c\u8bef\u8ba4\u4ed8\u6b3e\u3002",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-10-11T02:35:12Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 13,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-11T02:35:15Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mempolygraph",
+   "fork_url": "https://github.com/Blockchains/mempolygraph",
+   "source": "marcot3ssar1/mempolygraph",
+   "description": "MemPolygraph \u2014 verifiable memory-quality passports for AI agents. Black-box eval (recall, abstention, adversarial) producing a signed score + fingerprint. Colosseum Crypto World's Fair, Solana track.",
+   "language": null,
+   "languages": [
+    "Python",
+    "Dockerfile",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "AI agents"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-11T20:48:56Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 45,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-11T20:48:58Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mention.market",
+   "fork_url": "https://github.com/Blockchains/mention.market",
+   "source": "rawmess2057/mention.market",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Rust",
+    "CSS",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "5xA4v2SasSoE8mPnWSpePV3U4piHgag51od6mrNDU8j8"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-15T16:16:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 206,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-15T16:19:25Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mentor-help",
+   "fork_url": "https://github.com/Blockchains/mentor-help",
+   "source": "rohith-om/mentor-help",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "Rust",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2024-04-06T23:44:47Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 56,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-06T23:50:25Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mentorbot",
+   "fork_url": "https://github.com/Blockchains/mentorbot",
+   "source": "MentorMate/mentorbot",
+   "description": "MentorBot is a Google/Hangout Chat bot, that can be teached to perform different tasks. MentorBot uses machine learning to constantly improve responses and undestand more accuratly what is needed or what is asked. MentorBot will constantly improve over time not only by teaching itself, but also as new tasks are programed into it.",
+   "language": null,
+   "languages": [
+    "C#",
+    "TypeScript",
+    "HTML",
+    "JavaScript",
+    "SCSS",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "AI agents",
+    "Social"
+   ],
+   "license": "MIT",
+   "last_commit": "2022-07-13T10:54:26Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 317,
+   "builds": "unverified",
+   "fork_pushed_at": "2023-02-04T05:34:19Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meompt",
+   "fork_url": "https://github.com/Blockchains/meompt",
+   "source": "leandrogavidia/meompt",
+   "description": "Meompt's Platform",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-04-09T03:21:05Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 79,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-09T03:23:08Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/merces",
+   "fork_url": "https://github.com/Blockchains/merces",
+   "source": "kunal-drall/merces",
+   "description": "Human Capital Market layer on Blockchain",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "PLpgSQL",
+    "Python",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T15:10:02Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 1,
+   "has_package_json": true,
+   "files": 587,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T15:10:18Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mercs_and_mines",
+   "fork_url": "https://github.com/Blockchains/mercs_and_mines",
+   "source": "SoloXanderSOL/mercs_and_mines",
+   "description": "Birthplace of the Raccooniverse, all hail the Trash Khan!",
+   "language": null,
+   "languages": [
+    "HTML",
+    "Rust",
+    "CSS",
+    "JavaScript",
+    "Shell",
+    "PLpgSQL"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-25T12:23:11Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 4,
+   "has_package_json": false,
+   "files": 239,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-03T08:23:43Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mercurii",
+   "fork_url": "https://github.com/Blockchains/mercurii",
+   "source": "shumhn/mercurii",
+   "description": "Mecurii is a private financial operation for a Stablecoin business in Solana.Mercurii lets a secure and private company operating account for startups, agencies, and onchain teams to privately receive, hold, approve, pay, and reconcile stablecoins with controlled team and  ai agent access using Magicblock.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "34Ah4S3AWxXDU9GebANCqJC3qJ91ybZrZ6LDC5HJnX4L"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-17T13:51:53Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 260,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-17T13:52:45Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mercury",
+   "fork_url": "https://github.com/Blockchains/mercury",
+   "source": "unitlabs-xyz/mercury",
+   "description": "Your wealth. Onchain. A self-custodial brokerage for tokenized US equities on Solana.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Astro",
+    "CSS",
+    "JavaScript",
+    "Dockerfile",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-27T07:52:03Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 1061,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-27T07:52:07Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/merdanaslan-Radar",
+   "fork_url": "https://github.com/Blockchains/merdanaslan-Radar",
+   "source": "merdanaslan/Radar",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Swift"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DePIN",
+    "AI agents"
+   ],
+   "license": null,
+   "last_commit": "2024-10-08T15:03:39Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 24,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-10-08T15:03:52Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/merdian_pay",
+   "fork_url": "https://github.com/Blockchains/merdian_pay",
+   "source": "Sujayhs07/merdian_pay",
+   "description": "It is the crypto payment app",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-11T12:05:52Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 46,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-11T12:05:57Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mergemint",
+   "fork_url": "https://github.com/Blockchains/mergemint",
+   "source": "dikjain/mergemint",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "Shell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-10-27T15:12:34Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 81,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-27T15:12:39Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meridian",
+   "fork_url": "https://github.com/Blockchains/meridian",
+   "source": "yunus-0x/meridian",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-23T14:28:41Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 43,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-23T14:28:43Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meritocracy",
+   "fork_url": "https://github.com/Blockchains/meritocracy",
+   "source": "vporton/meritocracy",
+   "description": "AI Internet Meritocracy - AI paying salaries to scientists and free software devs",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "Motoko",
+    "PLpgSQL",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DAO/Governance"
+   ],
+   "license": "AGPL-3.0",
+   "last_commit": "2026-10-30T11:29:46Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 243,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-30T11:29:48Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/metapass-main-website",
+   "fork_url": "https://github.com/Blockchains/metapass-main-website",
+   "source": "SlavaMokrynskyi/metapass-main-website",
+   "description": null,
+   "language": null,
+   "languages": [
+    "CSS",
+    "TypeScript",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-05-25T18:47:38Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 73,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-25T18:47:58Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/metaplex-mtf-challenge",
+   "fork_url": "https://github.com/Blockchains/metaplex-mtf-challenge",
+   "source": "josip-volarevic/metaplex-mtf-challenge",
+   "description": "'Mint the Flag' competitive coding wargame by \u24c2\ufe0f Metaplex Foundation",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "NFTs"
+   ],
+   "license": null,
+   "last_commit": "2024-01-30T14:47:53Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 28,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-01-30T14:48:24Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/metaracing",
+   "fork_url": "https://github.com/Blockchains/metaracing",
+   "source": "infometaracing-eng/metaracing",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "SCSS",
+    "JavaScript",
+    "Dockerfile",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "NFTs"
+   ],
+   "license": null,
+   "last_commit": "2025-10-30T13:25:44Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 339,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-30T13:25:50Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meteop-x-jupiter-signal-lab",
+   "fork_url": "https://github.com/Blockchains/meteop-x-jupiter-signal-lab",
+   "source": "meteop-x/jupiter-signal-lab",
+   "description": "Read-only Jupiter API signal board for AI-agent research workflows.",
+   "language": null,
+   "languages": [
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-04-29T08:29:06Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 23,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-29T08:35:05Z",
+   "readme_injection_flag": true
+  },
+  {
+   "fork": "Blockchains/meteora-dbc-dammv2",
+   "fork_url": "https://github.com/Blockchains/meteora-dbc-dammv2",
+   "source": "abilashblnair/meteora-dbc-dammv2",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-02T16:22:35Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 43,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-02T16:22:35Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meteora-dbc-migration-monitor",
+   "fork_url": "https://github.com/Blockchains/meteora-dbc-migration-monitor",
+   "source": "K9-glitch3/meteora-dbc-migration-monitor",
+   "description": "Evidence-first reviewer package for Meteora DBC to DAMM v2 migration tooling",
+   "language": null,
+   "languages": [
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-18T22:43:29Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 137,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-18T22:53:51Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meteora-dbc-stocklana-hackathon",
+   "fork_url": "https://github.com/Blockchains/meteora-dbc-stocklana-hackathon",
+   "source": "alemaxxx/meteora-dbc-stocklana-hackathon",
+   "description": "A Meteora DBC launchpad - curves quoted directly in real tokenized stocks (xStocks, Backpack Securities, Ondo) or SOL/USDC. Built for Colosseum's Crypto World's Fair.",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML",
+    "CSS"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-09T02:29:46Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 50,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-09T02:29:46Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meteora-fastradar",
+   "fork_url": "https://github.com/Blockchains/meteora-fastradar",
+   "source": "chijesusboy2004-crypto/meteora-fastradar",
+   "description": "Real-time streaming radar, dynamic bonding curve visualizer, and swap simulator for Meteora DBC powered by RPC Fast gRPC",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-09-23T05:57:42Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 28,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-23T05:57:44Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meteora-satellite",
+   "fork_url": "https://github.com/Blockchains/meteora-satellite",
+   "source": "Greehoree/meteora-satellite",
+   "description": "Meteora Satellite",
+   "language": null,
+   "languages": [
+    "Vue",
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2025-05-17T00:04:46Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 108,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-17T00:04:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meteora-trading",
+   "fork_url": "https://github.com/Blockchains/meteora-trading",
+   "source": "Laolex/meteora-trading",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "JavaScript",
+    "Rust",
+    "Shell",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "986ARRxoPAkVTAP4YcKyGMyyLm5736s3g2ZXp9aNqxFs"
+   ],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-06-01T07:22:36Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 136,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-01T07:22:39Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meteora_satellite_backend",
+   "fork_url": "https://github.com/Blockchains/meteora_satellite_backend",
+   "source": "Meteora-Satellite/meteora_satellite_backend",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Makefile",
+    "JavaScript",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2025-11-19T21:01:09Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 109,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-19T21:01:09Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/meteorahelper",
+   "fork_url": "https://github.com/Blockchains/meteorahelper",
+   "source": "matrix1440/meteorahelper",
+   "description": "open-source software for auto-farming liquidity pools on meteora.ag ( solana blockchain )",
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript",
+    "Python",
+    "Shell",
+    "JavaScript",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Native (solana-program)"
+   ],
+   "program_ids": [
+    "LbVRzDTvBDEcrthxfZ4RL6yiq3uZw8bS6MwtdY6UhFQ",
+    "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+    "abcSyangMHdGzUGKhBhKoQzSFdJKUdkPGf5cbXVHpEw"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2025-10-29T12:31:17Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 5,
+   "has_package_json": true,
+   "files": 211,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-29T12:32:10Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/metered",
+   "fork_url": "https://github.com/Blockchains/metered",
+   "source": "maby8606-lgtm/metered",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "AI agents",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-09T22:00:40Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 28,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-09T22:00:45Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/metis-engine",
+   "fork_url": "https://github.com/Blockchains/metis-engine",
+   "source": "AlphaR2/metis-engine",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust",
+    "Shell",
+    "TypeScript",
+    "Just",
+    "Python",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Pinocchio"
+   ],
+   "program_ids": [
+    "79uea7X34YHRUQFkLAR5rwupHQf6Z7ASbBGfzxRDu8ws",
+    "BM7jwCCXjBgRy5LPg1UG4iAPueAFK3bRxQRogD4Wzoub"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T06:28:13Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 9,
+   "has_package_json": false,
+   "files": 431,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T06:28:42Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mfc-protocol",
+   "fork_url": "https://github.com/Blockchains/mfc-protocol",
+   "source": "raptorflint/mfc-protocol",
+   "description": "Map to Flint's Card (MFC) transforms Solana's \"digital dust\" into real-world value. Daily, 25k+ tokens launch, leaving users with illiquid remnants. Our Ghost Protocol aggregates this micro-value, allowing users to \"sweep\" wallets and transfer funds onto physical NFC payment cards. We bridge the gap between DeFi and RWA.",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-05-06T17:24:02Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 1,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-06T17:24:03Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mfhonley-colosseum",
+   "fork_url": "https://github.com/Blockchains/mfhonley-colosseum",
+   "source": "mfhonley/colosseum",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "Python",
+    "HTML",
+    "Dockerfile",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "DePIN",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2025-11-07T09:32:24Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 77,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-07T09:32:27Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/micaEur",
+   "fork_url": "https://github.com/Blockchains/micaEur",
+   "source": "BSC-aujl/micaEur",
+   "description": "Mica-Compliant Euro Stablecoin project for Solana Breakout Hackathon 2025",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "Shell",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "9x3tkUkajECAgPvS59YTAdD7VZRMRckrPxFC4MZspup5"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2025-05-21T11:24:24Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 105,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-21T11:24:24Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mickle",
+   "fork_url": "https://github.com/Blockchains/mickle",
+   "source": "0x7JayC/mickle",
+   "description": "Mickle \u2014 \u00a31/day into the S&P on Solana. Every little makes a mickle.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Shell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "NFTs",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-14T23:05:30Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 135,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-14T23:06:12Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mida-context",
+   "fork_url": "https://github.com/Blockchains/mida-context",
+   "source": "damli40/mida-context",
+   "description": "Switch AI coding agents without starting over. Mida Context is a user-owned context layer for AI agents: encrypted under your keys, read only by agents you approve and can revoke on Monad.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Solidity",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "AI agents",
+    "Social"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-13T04:15:27Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 866,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T04:15:27Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/midatopay-solana",
+   "fork_url": "https://github.com/Blockchains/midatopay-solana",
+   "source": "MidatoPay/midatopay-solana",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Rust",
+    "Shell",
+    "CSS",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Native (solana-program)"
+   ],
+   "program_ids": [
+    "BwaGWVKhAQEUNENoXdnPDeciT4ct97s3u5mRjE4iJMkP",
+    "DpVyTLLtthqVWsiGjoz3hWnvF8ugHTqhRsB1SY9Rp5zu",
+    "ESRwzP19W4xsc69xaxpSAnrttFH4K4JxERyBjMS4h68W"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-10T15:35:10Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": true,
+   "cargo_manifests": 5,
+   "has_package_json": false,
+   "files": 169,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-10T15:35:23Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/midnightvote",
+   "fork_url": "https://github.com/Blockchains/midnightvote",
+   "source": "notsedano/midnightvote",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "PLpgSQL",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DAO/Governance"
+   ],
+   "license": null,
+   "last_commit": "2025-05-16T15:24:12Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 93,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-23T11:51:55Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mido-finance",
+   "fork_url": "https://github.com/Blockchains/mido-finance",
+   "source": "midofin/mido-finance",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Native (solana-program)"
+   ],
+   "program_ids": [
+    "EhE7Rwiw94Lq6GPdG9iafbNV8mUzds5XcfZfJ1GG7184"
+   ],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2025-05-13T15:59:00Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 96,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-13T15:59:11Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mieie",
+   "fork_url": "https://github.com/Blockchains/mieie",
+   "source": "yasuo-sato-arch/mieie",
+   "description": "See where architectural drawings go after you share them - with a tamper-proof record.",
+   "language": null,
+   "languages": [
+    "HTML",
+    "Python",
+    "Solidity",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T06:13:37Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 7,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T06:13:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mighty-sol",
+   "fork_url": "https://github.com/Blockchains/mighty-sol",
+   "source": "Art-mighty/mighty-sol",
+   "description": "set of open-source code we made for sol",
+   "language": null,
+   "languages": [
+    "TypeScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-05-29T14:54:12Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 3,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-29T14:54:18Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mihirvirat18-Solflow",
+   "fork_url": "https://github.com/Blockchains/mihirvirat18-Solflow",
+   "source": "mihirvirat18/Solflow",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-12T14:12:35Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 4,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T14:12:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mileston-payment-client",
+   "fork_url": "https://github.com/Blockchains/mileston-payment-client",
+   "source": "Mileston-co/mileston-payment-client",
+   "description": "Mileston Payment Client SDK",
+   "language": null,
+   "languages": [
+    "TypeScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2025-10-14T13:20:54Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 61,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-14T15:01:17Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mimir-markets",
+   "fork_url": "https://github.com/Blockchains/mimir-markets",
+   "source": "enliven17/mimir-markets",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Solidity",
+    "JavaScript",
+    "CSS",
+    "Kotlin",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": "AGPL-3.0",
+   "last_commit": "2026-11-02T15:40:48Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 770,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-02T15:40:53Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mimix",
+   "fork_url": "https://github.com/Blockchains/mimix",
+   "source": "sacha-l/mimix",
+   "description": "Mimix is a marketplace of autonomous onchain agent-personas that test Solana dApps like real users.",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Dockerfile",
+    "HTML",
+    "Shell",
+    "CSS"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-05-20T15:55:43Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 216,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-20T17:01:05Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mimwallet",
+   "fork_url": "https://github.com/Blockchains/mimwallet",
+   "source": "kab3to4ki/mimwallet",
+   "description": "Cold wallet with Fun inside",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "NFTs",
+    "Gaming",
+    "DePIN",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-05-19T11:54:32Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 2,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-19T11:54:32Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/minagi-sh-docs",
+   "fork_url": "https://github.com/Blockchains/minagi-sh-docs",
+   "source": "minagi-sh/docs",
+   "description": null,
+   "language": null,
+   "languages": [
+    "MDX"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-04-09T19:16:58Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 43,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-09T19:17:02Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mindlock",
+   "fork_url": "https://github.com/Blockchains/mindlock",
+   "source": "EragothCrypto/mindlock",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Kotlin",
+    "Rust",
+    "Shell",
+    "JavaScript",
+    "Ruby"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "5capkwaV1E7s3j2ZRaXfLe9xK3pSV1crZwLFx6agvwEC",
+    "A2n66MaKH2KhcJJnnBfh56VrmATAA8kPt7iXq5QEQTAx"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-10T12:47:32Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 192,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-10T12:47:42Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mindmash-submission",
+   "fork_url": "https://github.com/Blockchains/mindmash-submission",
+   "source": "MindMashAI/mindmash-submission",
+   "description": "mindmash-hackathon submission",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-05-16T13:38:55Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 281,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-16T13:49:27Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/miner_war",
+   "fork_url": "https://github.com/Blockchains/miner_war",
+   "source": "Yedotsol/miner_war",
+   "description": "solanahackathon",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Bolt (MagicBlock)",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "36K9kUECFsZrnsDeuD49biyHrtwptL48TfCgDf689h7H",
+    "3zCTSUK85fC8byoqKDPCN7xdcqy3oBSL7HCeDSnxYnxW",
+    "5Na7qMLrgu24ACdb5zeGqpzWw2GgZQ2fVS8XxKv3d7r5",
+    "714kBkMzu7e4ZNcmVKLBUYjJdo3YBfUQvtWwzucipB7b",
+    "71i58jXe7Hv6yBzMH13gvMP2sLuVZ2AMVJKkgTCS2Fzu",
+    "8gWwwXB7re97tRMnh77RXFEFSx5xrRVbgSUADE4r2Z8Y",
+    "9vvBKfn1FCcJg4U3zywMqnUXFvaLo5ZMFVWsVUPp5zz5",
+    "C58xgk3FQsJKnuHwkmzYJWASK1U8NnpBSWA1Bx22rCwD",
+    "EHLkWwAT9oebVv9ht3mtqrvHhRVMKrt54tF3MfHTey2K",
+    "ESGndWFErYWf68ASK75vctW6EvHvWHemHcQSmrjdgCHN",
+    "ETspbWudbuMGNh3d5EGK9oEFi1zrHRjy5d7ic4haYAwA",
+    "FpiJ4hDruR6oj5Eeawk4kYUKzzRP8nRbVZYwfuSgCtKF",
+    "GQCGW6hJZD7Ar8JPZqnGMKrbe98inGLDfcj3roGUimBd",
+    "GQCYq8WK4sRukXoMT7BEmnwmyfB1mpUr2gVAVYFuuH5e",
+    "H55UcuGxCmpH1cE6Tsm8EUYVdQz99AHhwBN551jUW8a1",
+    "WorLD15A7CrDwLcLy4fRqtaTb9fbd8o8iqiEMUDse2n"
+   ],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-05-17T01:47:04Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 17,
+   "has_package_json": true,
+   "files": 84,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-17T01:47:30Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/minionlab-mcp-demo-x",
+   "fork_url": "https://github.com/Blockchains/minionlab-mcp-demo-x",
+   "source": "maorinn/minionlab-mcp-demo-x",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "Rust"
+   ],
+   "frameworks": [
+    "Native (solana-program)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2025-10-29T03:42:40Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 1,
+   "has_package_json": true,
+   "files": 8,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-29T03:42:48Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/minjame",
+   "fork_url": "https://github.com/Blockchains/minjame",
+   "source": "Graziqt6/minjame",
+   "description": "Onchain micro-lending protocol for Indonesian crypto users built on Solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "86p3JFFhFnaP866XbRivhZuagf4SaoMkHG1dFvWnvpJ4",
+    "HRTBy3VHDdcG797EH5m6z4zXm9j9VmuuSPnstNrHGC3B"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-13T07:50:14Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 53,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-13T07:50:19Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mintedlore-gallery",
+   "fork_url": "https://github.com/Blockchains/mintedlore-gallery",
+   "source": "Shaunnaa/mintedlore-gallery",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "PLpgSQL",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-11T15:47:27Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 127,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-11T15:47:40Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/minter_server_hackathon",
+   "fork_url": "https://github.com/Blockchains/minter_server_hackathon",
+   "source": "solydstore/minter_server_hackathon",
+   "description": "Solyd Soulbound NFT Minter - Secure API server to mint soulbound NFTs on Solana using Metaplex UMI SDK (mpl-core) and Oracle Plugin, with dynamic metadata and collection support.",
+   "language": null,
+   "languages": [
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-05-16T10:28:09Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 4,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-16T10:28:09Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mintr-backend",
+   "fork_url": "https://github.com/Blockchains/mintr-backend",
+   "source": "mintr-solana/mintr-backend",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Shell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2024-11-03T07:53:19Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 49,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-11-03T07:53:23Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/minutes",
+   "fork_url": "https://github.com/Blockchains/minutes",
+   "source": "dotsvm/minutes",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-10-08T14:21:35Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 54,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-10-08T14:21:39Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mira",
+   "fork_url": "https://github.com/Blockchains/mira",
+   "source": "nchedochukwugini/mira",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Python"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-12T09:55:31Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 194,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T09:55:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/miraki",
+   "fork_url": "https://github.com/Blockchains/miraki",
+   "source": "JaisPiyush/miraki",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2024-04-30T04:57:57Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 374,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-30T04:58:32Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mitgajera-hush",
+   "fork_url": "https://github.com/Blockchains/mitgajera-hush",
+   "source": "mitgajera/hush",
+   "description": "Private financial operations for Solana - confidential payroll, contractor payments, milestones, and viewing-key audits. Built on the Umbra SDK and Umbra Wallet.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "NFTs",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T11:34:00Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 155,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T11:34:24Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mitra",
+   "fork_url": "https://github.com/Blockchains/mitra",
+   "source": "cybort360/mitra",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Solidity",
+    "Rust",
+    "JavaScript",
+    "CSS",
+    "Python"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)",
+    "Native (solana-program)"
+   ],
+   "program_ids": [
+    "7ZAm4faeREU54yDKWBKqfvRjSucgxBT5zaMWyJvYcU29"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-21T07:43:22Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 563,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-21T07:43:23Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mlox-swarm",
+   "fork_url": "https://github.com/Blockchains/mlox-swarm",
+   "source": "BusySloths/mlox-swarm",
+   "description": "MLOX Swarm Runtime is a decentralized compute layer for agent swarms and MLOps teams.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "Python"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "G15WckDRfGrPrnP7HTdpz2fbPYxLJHsjzr2dbPWxKgvG"
+   ],
+   "categories": [
+    "Payments",
+    "DePIN",
+    "AI agents",
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-04-12T21:12:41Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 18,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-12T21:12:48Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mmoment",
+   "fork_url": "https://github.com/Blockchains/mmoment",
+   "source": "0xmigi/mmoment",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "C++",
+    "Rust",
+    "HTML",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "E67WTa1NpFVoapXwYYQmXzru3pyhaN9Kj3wPdZEyyZsL",
+    "EpczQBF7WmPcyzTtYJfzrPNXSVxM3YJsND7Vx8zpTLAj"
+   ],
+   "categories": [
+    "DeFi",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-08-11T23:04:52Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 486,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-07T14:18:53Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mnemonik-xyz-monorepo",
+   "fork_url": "https://github.com/Blockchains/mnemonik-xyz-monorepo",
+   "source": "mnemonik-xyz/monorepo",
+   "description": "Verifiable onchain memory for trustless AI agents",
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript",
+    "JavaScript",
+    "Shell",
+    "Dockerfile",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2026-10-10T19:34:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 6,
+   "has_package_json": true,
+   "files": 1412,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-19T10:03:12Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mnemosine",
+   "fork_url": "https://github.com/Blockchains/mnemosine",
+   "source": "Ladycripto/mnemosine",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "CSS",
+    "Shell"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "8WHFEQ7BdDhoKhdudmjnGwypsibeJjdRoTPgQg2AFrXH"
+   ],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-10-25T09:56:02Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 47,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-25T09:56:06Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mobazha",
+   "fork_url": "https://github.com/Blockchains/mobazha",
+   "source": "mobazha/mobazha",
+   "description": "Open-source peer-to-peer commerce platform for storefronts, marketplaces, orders, and crypto payments.",
+   "language": null,
+   "languages": [
+    "Go",
+    "Shell",
+    "Python",
+    "HTML",
+    "Go Template",
+    "Makefile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Consumer"
+   ],
+   "license": "MPL-2.0",
+   "last_commit": "2026-09-14T07:59:07Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 1689,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-14T08:05:10Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mobile",
+   "fork_url": "https://github.com/Blockchains/mobile",
+   "source": "officialedulearn/mobile",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T16:08:41Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 397,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-18T14:15:23Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mobile_app",
+   "fork_url": "https://github.com/Blockchains/mobile_app",
+   "source": "anonmesh/mobile_app",
+   "description": "Offline-first Solana wallet and encrypted mesh messenger. over BLE \u00b7 LoRa \u00b7 TCP. No internet. No SIM. Powered by Arcium + Reticulum.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "DePIN",
+    "Infra/Tooling",
+    "Social",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-06-12T12:26:44Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 245,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-13T14:03:50Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/moblie",
+   "fork_url": "https://github.com/Blockchains/moblie",
+   "source": "zhangmask/moblie",
+   "description": "1",
+   "language": null,
+   "languages": [
+    "Python",
+    "TypeScript",
+    "Rust"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "5FrcPFSPgzE78u93i9qMG28G9Rpa6NgpbMcyjeqevTwE"
+   ],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T16:14:10Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 83,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T16:17:42Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mocha",
+   "fork_url": "https://github.com/Blockchains/mocha",
+   "source": "christex-foundation/mocha",
+   "description": "Directory of Mocha repositories",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2024-06-30T21:25:47Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 1,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-06-30T21:25:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mock-dapp-prototype",
+   "fork_url": "https://github.com/Blockchains/mock-dapp-prototype",
+   "source": "thanklet/mock-dapp-prototype",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-12-03T06:54:41Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 151,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-12-13T09:34:06Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/moga-mogate",
+   "fork_url": "https://github.com/Blockchains/moga-mogate",
+   "source": "dellwatson/moga-mogate",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2026-01-30T13:56:47Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 146,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-01T13:40:10Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/moga-mogate-FRONTIER",
+   "fork_url": "https://github.com/Blockchains/moga-mogate-FRONTIER",
+   "source": "dellwatson/moga-mogate-FRONTIER",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript",
+    "Shell"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "2QDeQr36XTQgyNs3e3F2Z1MKdcaat15QddD1axTuWKSv",
+    "7QLZYHojQdUAjfTMMzsa7zDADsJHFDYho1DJqttaL57x",
+    "9k2P9Lii4QJv21G1bmsEYg9h4ZWKZkmLQaephABgyDQy",
+    "FvbdeWoTjTpaS4G24Qwb2mTwWdRPryjWxwKALMB69bdF"
+   ],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-14T18:47:28Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": true,
+   "cargo_manifests": 4,
+   "has_package_json": true,
+   "files": 88,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-21T10:08:12Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mohar",
+   "fork_url": "https://github.com/Blockchains/mohar",
+   "source": "UrbishCodes/mohar",
+   "description": "escrow dApp for Nepali freelancers (Solana)",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "PLpgSQL",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "Ey5QSYnyD4GokFS3H8hiwMyrRVZEbzXnjaRPY6DdAtMQ"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Consumer"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2026-10-13T05:43:03Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 78,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T05:43:06Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/molpha-solana-program",
+   "fork_url": "https://github.com/Blockchains/molpha-solana-program",
+   "source": "molpha/molpha-solana-program",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript",
+    "JavaScript",
+    "Python"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "MoLF3pgVA9MENSuEujxNNSMaTo71aLyewaH5nrWfUZs",
+    "chivcFQgxzwkpLvW41PV431HQ4dYpaW3povQH3AdpQt"
+   ],
+   "categories": [
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2026-10-26T18:30:27Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 179,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-27T12:47:59Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/moltchess-docs",
+   "fork_url": "https://github.com/Blockchains/moltchess-docs",
+   "source": "moltchess/moltchess-docs",
+   "description": "Public documentation, builder guides, and agent examples for the MoltChess platform and hackathon.",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Gaming",
+    "AI agents",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-04-09T17:12:21Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 52,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-10T02:18:26Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/moment-trade",
+   "fork_url": "https://github.com/Blockchains/moment-trade",
+   "source": "MomentTrade/moment-trade",
+   "description": "A new decentralized trade infra",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "FDFpAmt4cxsBHwpWVSSA5bNe2N9fCf9342Z5D4P9ym7Z",
+    "GJXSg9k22Msw7ZQ2mtc3E4LkyvXycFXcoq25wCedBofU"
+   ],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-10-26T18:32:01Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 112,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-26T18:32:41Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/momentify",
+   "fork_url": "https://github.com/Blockchains/momentify",
+   "source": "ShoomanKhatri/momentify",
+   "description": "A modern full-stack application built with Next.js, NestJS, TypeScript, Drizzle ORM, and PostgreSQL.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T06:49:48Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 122,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T06:49:50Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/momentum",
+   "fork_url": "https://github.com/Blockchains/momentum",
+   "source": "maithinhft/momentum",
+   "description": null,
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-10-30T16:09:52Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 1,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-30T16:09:52Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/momimarket",
+   "fork_url": "https://github.com/Blockchains/momimarket",
+   "source": "lili2323art/momimarket",
+   "description": "\ud83c\udfaf Decentralized Prediction Market on Solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "Rust",
+    "CSS",
+    "Shell"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "9P57wDqbVJVYWHpYQq5eYhZvcJHmCWU33np2WZi865KU"
+   ],
+   "categories": [
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-10-29T17:21:43Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 1,
+   "has_package_json": false,
+   "files": 44,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-29T17:21:49Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/monaco",
+   "fork_url": "https://github.com/Blockchains/monaco",
+   "source": "Munyon-Canyon/monaco",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Go",
+    "Swift",
+    "Shell",
+    "Python",
+    "JavaScript",
+    "TypeScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-11-03T07:37:08Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 7551,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-03T08:12:08Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/monash_hackathon",
+   "fork_url": "https://github.com/Blockchains/monash_hackathon",
+   "source": "JustWint3r/monash_hackathon",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-08-25T06:23:15Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 47,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-08-25T06:23:15Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/moneyswitch",
+   "fork_url": "https://github.com/Blockchains/moneyswitch",
+   "source": "dongsheng123132/moneyswitch",
+   "description": "Give your AI an API key for money. MoneyKeys with budgets, host limits and human approval for agent payments over x402; USDC on Base and Monad, Solana devnet. Self-hosted \u2014 the private key never goes to the AI.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Shell",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "AGPL-3.0",
+   "last_commit": "2026-11-01T09:05:17Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 581,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-01T09:05:17Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mono",
+   "fork_url": "https://github.com/Blockchains/mono",
+   "source": "actioncodesorg/mono",
+   "description": "Monorepo for main One-Time Action Codes Service and SDK",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "53UKesYTQGC4Zh7HiooABRrJKNoGf9zkkm8jyh2FA8pP"
+   ],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": "NOASSERTION",
+   "last_commit": "2026-03-25T10:33:52Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 263,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-03-25T10:33:53Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/monocle",
+   "fork_url": "https://github.com/Blockchains/monocle",
+   "source": "i-mighty/monocle",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "PowerShell",
+    "Shell",
+    "CSS",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "AI agents",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-08-26T13:55:13Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 300,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-08-26T13:55:17Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/monorepo",
+   "fork_url": "https://github.com/Blockchains/monorepo",
+   "source": "onriftxyz/monorepo",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "Dockerfile",
+    "Shell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-04-12T06:12:26Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 159,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-09-24T16:10:39Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mons-dot-rehab",
+   "fork_url": "https://github.com/Blockchains/mons-dot-rehab",
+   "source": "supermetalmons/mons-dot-rehab",
+   "description": "play mons on solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "CSS",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "EQwamwRCCAKGTM3sLf4GLTyFjGfmeiCwmb4GFA4rP65B"
+   ],
+   "categories": [
+    "Gaming",
+    "Infra/Tooling"
+   ],
+   "license": "CC0-1.0",
+   "last_commit": "2024-09-17T18:41:32Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 65,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-09-17T18:41:35Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/monsfinance",
+   "fork_url": "https://github.com/Blockchains/monsfinance",
+   "source": "alicantutumlu/monsfinance",
+   "description": "Mons Finance - Colosseum Hackathon",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "SCSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2025-05-16T15:55:17Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 375,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-16T15:55:18Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/monstersaistore",
+   "fork_url": "https://github.com/Blockchains/monstersaistore",
+   "source": "repository23/monstersaistore",
+   "description": null,
+   "language": null,
+   "languages": [
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-10T05:04:17Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 3,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-10T05:04:18Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/monyr",
+   "fork_url": "https://github.com/Blockchains/monyr",
+   "source": "hassnian/monyr",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "NFTs",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T02:51:59Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 162,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T02:52:01Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/mood-chain",
+   "fork_url": "https://github.com/Blockchains/mood-chain",
+   "source": "AndriiMoodChain/mood-chain",
+   "description": null,
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": null,
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 0,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-07-03T15:12:21Z",
    "readme_injection_flag": false
   }
  ]
