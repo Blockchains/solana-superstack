@@ -4402,3 +4402,46 @@
 | [monstersaistore](repos/monstersaistore.md) | Other | - | - | no |
 | [monyr](repos/monyr.md) | DeFi, Payments, NFTs, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | no |
 | [mood-chain](repos/mood-chain.md) | Other | - | - | no |
+| [moodmesh](repos/moodmesh.md) | Other | - | - | yes |
+| [moofi](repos/moofi.md) | Other | - | - | no |
+| [moon-spine](repos/moon-spine.md) | Other | - | - | no |
+| [moonFE](repos/moonFE.md) | Payments, Infra/Tooling, DAO/Governance, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [mooner-family](repos/mooner-family.md) | DeFi, Consumer | Native (solana-program) | - | yes |
+| [moonmap](repos/moonmap.md) | Social | Anchor | - | yes |
+| [moonmax-book](repos/moonmax-book.md) | Payments, Social, Identity/Privacy, Consumer | - | - | no |
+| [moose-swap](repos/moose-swap.md) | Other | Client-only (web3.js/kit) | Apache-2.0 | no |
+| [mortem-protocol](repos/mortem-protocol.md) | AI agents, Infra/Tooling, Identity/Privacy | Client-only (web3.js/kit) | - | yes |
+| [mosaic](repos/mosaic.md) | DeFi, Identity/Privacy | Native (solana-program), Poseidon | NOASSERTION | yes |
+| [mostro-solana](repos/mostro-solana.md) | Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [motionplay](repos/motionplay.md) | Gaming | - | MIT | no |
+| [move-beat](repos/move-beat.md) | Gaming | - | - | no |
+| [mozaikpay-contracts](repos/mozaikpay-contracts.md) | Infra/Tooling, Consumer | - | Apache-2.0 | yes |
+| [mpc-wallet](repos/mpc-wallet.md) | Other | Client-only (web3.js/kit) | - | no |
+| [mpcium](repos/mpcium.md) | Social, Consumer | - | Apache-2.0 | yes |
+| [mpl-candy-machine-peerguard](repos/mpl-candy-machine-peerguard.md) | Payments, NFTs | Anchor, Native (solana-program) | NOASSERTION | yes |
+| [mpptestkit](repos/mpptestkit.md) | Payments, Infra/Tooling, Consumer | - | - | no |
+| [mrmarket-labs-frontend](repos/mrmarket-labs-frontend.md) | DeFi, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | no |
+| [muhamedag2022-agentpay](repos/muhamedag2022-agentpay.md) | NFTs, AI agents, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | no |
+| [multichain-crypto-wallet](repos/multichain-crypto-wallet.md) | Infra/Tooling, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [munera](repos/munera.md) | DeFi, Infra/Tooling, Social, Consumer | Anchor | - | yes |
+| [muninn](repos/muninn.md) | Other | - | - | yes |
+| [munu](repos/munu.md) | Other | - | - | yes |
+| [murphy](repos/murphy.md) | Other | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [muse-agent](repos/muse-agent.md) | Payments, AI agents, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [musicmoneyai](repos/musicmoneyai.md) | Other | - | - | yes |
+| [mustachioquest-web](repos/mustachioquest-web.md) | Other | - | - | no |
+| [mutav-protocol-solana](repos/mutav-protocol-solana.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [mutual](repos/mutual.md) | Other | Anchor, Client-only (web3.js/kit) | - | yes |
+| [mvp-carepanion](repos/mvp-carepanion.md) | Infra/Tooling, Identity/Privacy, Consumer | Native (solana-program) | - | no |
+| [mxm-sol](repos/mxm-sol.md) | DeFi, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [my-idea-1010](repos/my-idea-1010.md) | Other | - | - | no |
+| [my-news](repos/my-news.md) | Other | Client-only (web3.js/kit) | - | no |
+| [mybarpool](repos/mybarpool.md) | DeFi, Gaming, Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [myboon](repos/myboon.md) | DeFi, AI agents, Infra/Tooling, Consumer | - | - | yes |
+| [myfigaro-colosseum-overview](repos/myfigaro-colosseum-overview.md) | Other | - | - | no |
+| [myfye](repos/myfye.md) | Other | - | - | yes |
+| [myrc-contract](repos/myrc-contract.md) | Other | - | - | yes |
+| [myrmex](repos/myrmex.md) | DeFi, Payments, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [mywallet-agents-plugins](repos/mywallet-agents-plugins.md) | Consumer | - | - | no |
+| [n8n-nodes-Tarvos-Triton1](repos/n8n-nodes-Tarvos-Triton1.md) | DeFi, Infra/Tooling, Social, Identity/Privacy, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [nabungfi](repos/nabungfi.md) | DeFi, Consumer | Anchor | - | yes |
