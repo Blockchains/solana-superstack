@@ -1,26 +1,26 @@
 {
- "generated": "2026-11-16T10:38:12Z",
- "count": 4443,
+ "generated": "2026-11-17T11:31:35Z",
+ "count": 4516,
  "by_category": {
-  "Consumer": 1947,
-  "Infra/Tooling": 1795,
-  "DeFi": 1598,
-  "Other": 1168,
-  "Payments": 856,
-  "AI agents": 744,
-  "Social": 638,
-  "Identity/Privacy": 543,
-  "NFTs": 501,
-  "Gaming": 308,
-  "DAO/Governance": 266,
-  "DePIN": 225
+  "Consumer": 1980,
+  "Infra/Tooling": 1831,
+  "DeFi": 1618,
+  "Other": 1185,
+  "Payments": 871,
+  "AI agents": 750,
+  "Social": 651,
+  "Identity/Privacy": 551,
+  "NFTs": 513,
+  "Gaming": 313,
+  "DAO/Governance": 268,
+  "DePIN": 229
  },
  "by_framework": {
-  "none detected": 2005,
-  "Anchor": 1613,
-  "Client-only (web3.js/kit)": 1453,
-  "Native (solana-program)": 283,
-  "Pinocchio": 37,
+  "none detected": 2041,
+  "Anchor": 1634,
+  "Client-only (web3.js/kit)": 1477,
+  "Native (solana-program)": 286,
+  "Pinocchio": 38,
   "Poseidon": 21,
   "Bolt (MagicBlock)": 6,
   "Steel": 1,
@@ -144023,6 +144023,2342 @@
    "files": 1520,
    "builds": "unverified",
    "fork_pushed_at": "2026-10-11T16:33:37Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/naijapulse",
+   "fork_url": "https://github.com/Blockchains/naijapulse",
+   "source": "Wazzydiamond06/naijapulse",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-15T20:08:02Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 32,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-15T20:08:03Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/najime-flutter",
+   "fork_url": "https://github.com/Blockchains/najime-flutter",
+   "source": "harukinaji/najime-flutter",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Dart",
+    "Kotlin",
+    "Swift",
+    "C++",
+    "CMake",
+    "Ruby"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": "Apache-2.0",
+   "last_commit": "2026-10-05T04:55:09Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 525,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-31T08:41:36Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nambininasafidison-paylink",
+   "fork_url": "https://github.com/Blockchains/nambininasafidison-paylink",
+   "source": "nambininasafidison/paylink",
+   "description": "Shareable USDC payment links with QR codes on Arc. Funds go straight to the payee. Arc Microgrants Mainnet Challenge.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Solidity",
+    "CSS",
+    "HTML",
+    "Python"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-14T08:34:01Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 659,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-02T05:46:39Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/namish18-Relic",
+   "fork_url": "https://github.com/Blockchains/namish18-Relic",
+   "source": "namish18/Relic",
+   "description": " a smart-contract-powered dead man's switch on Solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T18:21:20Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 76,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T18:21:22Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nana-wallet",
+   "fork_url": "https://github.com/Blockchains/nana-wallet",
+   "source": "rober8b/aleph-hackathon",
+   "description": "Repository for nana wallet backend and agent ",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "PLpgSQL",
+    "HTML",
+    "CSS",
+    "Shell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-23T03:59:42Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 1222,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-23T10:19:58Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/narrative-os",
+   "fork_url": "https://github.com/Blockchains/narrative-os",
+   "source": "dexarxbt/narrative-os",
+   "description": "Build narrative dominance on X from day zero. An agentic strategy skill for Solana projects and founders. Derived from breakout Colosseum winner patterns.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "Social"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-05-05T17:16:04Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 20,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-05T17:19:57Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/naryx",
+   "fork_url": "https://github.com/Blockchains/naryx",
+   "source": "HoomanBuilds/naryx",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Solidity",
+    "Rust",
+    "JavaScript",
+    "CSS",
+    "Python"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "4kX6XtrVw4i31sAUKNXCgmBMpVSR6afHJGvxJ1XXDiVm",
+    "6PhTV2dQczEcPnFdda6jcftTqdUpR8KaNucaCJB6iRHz",
+    "9FAYFVXcJYqxcpw7bf6eK6iY6SkwYx6T4PT7NF3VjfzQ",
+    "Ao5mbjTPVAoM4SVobYMyaQwPRKruk9Rd7CF1ENL1xjUU",
+    "C6PZeuHDqwBPHGGVRavY8NvGx9tcVHxQsLru46bNm85H",
+    "CDaUbFWSG6rh5mgjAr63157Ha7upZmza5SF47xgSaxqj",
+    "CpAqHqcpegSm8NCedsDVvwg85jozNa46Qz1TGNyVyLTr",
+    "ERGvPwyenaZDcAr9cyni7paeXPQ72NKC75ozz1fjCY7y",
+    "EbY7MezVnmueWnyUb5QXe6jr4Cxe95Znh1FhZiPf633c",
+    "H6YQpuLPKTWq7gVcqTa7c5sax7WubnpgG5cdohgZvxT1"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-10-22T04:58:08Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 11,
+   "has_package_json": false,
+   "files": 2074,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-22T04:58:19Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/natural-language-all-in-one-solana-bot-agent-colosseum",
+   "fork_url": "https://github.com/Blockchains/natural-language-all-in-one-solana-bot-agent-colosseum",
+   "source": "ghildiyalsatwik/natural-language-all-in-one-solana-bot-agent-colosseum",
+   "description": "This is a MVP and proof of concept for a Solana agent which lets users interact in natural language and performs various tasks on Solana such as create wallets, mint tokens, transfer tokens, swap tokens, migrate tokens to DLMM pools, open/close positions, add liquidity into positions and manage positions automatically.",
+   "language": null,
+   "languages": [
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi"
+   ],
+   "license": null,
+   "last_commit": "2025-11-02T14:21:29Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 49,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-02T14:21:30Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/navify",
+   "fork_url": "https://github.com/Blockchains/navify",
+   "source": "goran9999/navify",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust",
+    "CSS",
+    "HTML",
+    "Shell",
+    "PLpgSQL",
+    "Python"
+   ],
+   "frameworks": [
+    "Native (solana-program)",
+    "Pinocchio"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-07-24T09:28:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 12,
+   "has_package_json": false,
+   "files": 512,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-08-11T13:48:50Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nearfield",
+   "fork_url": "https://github.com/Blockchains/nearfield",
+   "source": "NurettinSelim/nearfield",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Dart",
+    "C++",
+    "CMake",
+    "Java",
+    "TypeScript",
+    "Ruby"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-10-20T13:00:26Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 177,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-10-20T13:00:32Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nect.sol",
+   "fork_url": "https://github.com/Blockchains/nect.sol",
+   "source": "HeySkidee/nect.sol",
+   "description": "Experience the future of digital commerce on Solana",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-05-17T13:53:33Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 64,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-17T13:53:58Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nector-cwf",
+   "fork_url": "https://github.com/Blockchains/nector-cwf",
+   "source": "p33mTheRealOne/nector-cwf",
+   "description": "Nector is a chat-native, non-custodial escrow on Solana. Buyer and seller agree in a chat, funds lock in a smart contract, and disputes are settled by deadlines and deposits instead of an admin. Digital, physical and NFT deals. Includes the web app, Anchor program, keeper bot and Supabase schema.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "PLpgSQL",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "WytegETAnkDtkeo5H63QvnRPKgK39ez5MSqSBqwydPb"
+   ],
+   "categories": [
+    "Payments",
+    "NFTs",
+    "Infra/Tooling",
+    "Social",
+    "Identity/Privacy"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-09T10:32:24Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 208,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-09T10:32:25Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nector-repo",
+   "fork_url": "https://github.com/Blockchains/nector-repo",
+   "source": "p33mTheRealOne/nector-repo",
+   "description": "Nector is a chat-based non-custodial escrow platform built on Solana that enables safe transactions between strangers without requiring admins, KYC, or centralized intermediaries.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "9buv2Wao6udvrauoot3JuGGJ8cB3ULfX2r1BzVNw1h64"
+   ],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Social",
+    "Identity/Privacy"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-05-06T04:15:33Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 167,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-06T04:15:34Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/neekofun",
+   "fork_url": "https://github.com/Blockchains/neekofun",
+   "source": "Neeko-fun/neekofun",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "Rust",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "8UeF7ZYVLyBjhcpUJLcbynSps9xrxMiojd6fCKADDKPn"
+   ],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-05-24T04:10:59Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 94,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-24T04:11:07Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nef-app",
+   "fork_url": "https://github.com/Blockchains/nef-app",
+   "source": "project-nef/nef-app",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "AI agents",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T13:46:26Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 38,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T13:57:52Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nemai",
+   "fork_url": "https://github.com/Blockchains/nemai",
+   "source": "ceonemai/nemai",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "TypeScript",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-29T10:46:55Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 135,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-29T10:46:55Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/neonpulse",
+   "fork_url": "https://github.com/Blockchains/neonpulse",
+   "source": "linnbenton/neonpulse",
+   "description": "NeonPulse: Futuristic AI-Powered Security Terminal for Solana. Advanced wallet indexing, risk scoring, and permission monitoring built with GoldRush V3.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-05-08T06:09:30Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 24,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-08T06:09:34Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nerdwork_plus",
+   "fork_url": "https://github.com/Blockchains/nerdwork_plus",
+   "source": "Nerdwork-ng/nerdwork_plus",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Shell",
+    "HTML",
+    "CSS",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "NFTs",
+    "Social",
+    "DAO/Governance",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-09-29T13:22:23Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 883,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-09-29T13:22:23Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nerox-open-sdk",
+   "fork_url": "https://github.com/Blockchains/nerox-open-sdk",
+   "source": "NippyLabs/nerox-open-sdk",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-10-24T05:36:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 66,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-24T05:36:44Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/network-monorepo",
+   "fork_url": "https://github.com/Blockchains/network-monorepo",
+   "source": "shovelers/network-monorepo",
+   "description": "Creole Network Monorepo",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "EJS",
+    "CSS",
+    "TypeScript",
+    "Dockerfile",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "AI agents",
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2024-12-02T02:28:35Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 1,
+   "has_package_json": true,
+   "files": 184,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-12-02T02:28:41Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/neural-entropy",
+   "fork_url": "https://github.com/Blockchains/neural-entropy",
+   "source": "shiv-chandhock/neural-entropy",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "CSS",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DePIN"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T15:37:20Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 48,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T15:46:54Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/neural-hive-v2",
+   "fork_url": "https://github.com/Blockchains/neural-hive-v2",
+   "source": "neural-hive/neural-hive-v2",
+   "description": "v2-neural-hive",
+   "language": null,
+   "languages": [
+    "Go",
+    "JavaScript",
+    "HTML",
+    "Solidity",
+    "PowerShell",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents"
+   ],
+   "license": null,
+   "last_commit": "2026-10-12T16:54:22Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 238,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T16:54:22Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/neux",
+   "fork_url": "https://github.com/Blockchains/neux",
+   "source": "xinnxz/neux",
+   "description": null,
+   "language": null,
+   "languages": [
+    "HTML",
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "Shell",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+   ],
+   "categories": [
+    "Consumer"
+   ],
+   "license": "NOASSERTION",
+   "last_commit": "2026-05-12T08:08:48Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 9,
+   "has_package_json": false,
+   "files": 280,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T08:09:20Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/new-branq",
+   "fork_url": "https://github.com/Blockchains/new-branq",
+   "source": "ogbemeder12/new-branq",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-05-15T23:33:48Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 124,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-15T23:34:04Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/newhigh.fun",
+   "fork_url": "https://github.com/Blockchains/newhigh.fun",
+   "source": "Nerd3Lab/newhigh.fun",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-10-30T08:41:17Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 112,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-30T08:41:20Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/news-hash-verifier",
+   "fork_url": "https://github.com/Blockchains/news-hash-verifier",
+   "source": "kryptokessler/news-hash-verifier",
+   "description": "Beautiful iframe React component for hashing news articles to Solana blockchain",
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Shell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-11-01T12:38:40Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 41,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-01T12:39:24Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/newscheckerai",
+   "fork_url": "https://github.com/Blockchains/newscheckerai",
+   "source": "emrecanuzum/newscheckerai",
+   "description": "Web3 Disinformation Detector",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-05-15T18:50:50Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 1,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-15T18:50:50Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nexa-backend",
+   "fork_url": "https://github.com/Blockchains/nexa-backend",
+   "source": "NEXA-NETWORK/nexa-backend",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Solidity",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2024-01-29T07:16:57Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 148,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-01-29T07:24:59Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nexaura",
+   "fork_url": "https://github.com/Blockchains/nexaura",
+   "source": "shekhawatvishvajeet045-code/nexaura",
+   "description": "Proof of Environment Network (PoEN) is a decentralized AI-powered platform that collects and verifies real-time environmental data like air quality, pollution, and temperature using IoT sensors and blockchain. PoEN creates transparent, trusted environmental intelligence for smart cities, ESG platforms, climate startups, and governments.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "PLpgSQL",
+    "CSS",
+    "HTML",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DePIN"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T19:41:54Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 73,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T19:46:10Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nexguard-sentinel",
+   "fork_url": "https://github.com/Blockchains/nexguard-sentinel",
+   "source": "Seranov67/nexguard-sentinel",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Python",
+    "Solidity",
+    "TypeScript",
+    "Shell",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DePIN"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-09-05T17:39:14Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 118,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-02T16:55:33Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nexrahub-core",
+   "fork_url": "https://github.com/Blockchains/nexrahub-core",
+   "source": "Nexra-Labs/nexrahub-core",
+   "description": "Nexra makes it easy for game developers to create, manage, and monetize game tournaments, while letting gamers and fans earn from skill, insight, and community participation.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Gaming",
+    "Infra/Tooling",
+    "Social"
+   ],
+   "license": "MIT",
+   "last_commit": "2025-10-30T16:02:26Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 117,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-30T16:43:39Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/next",
+   "fork_url": "https://github.com/Blockchains/next",
+   "source": "sasphy/next",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-05-17T07:08:25Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 186,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-17T07:08:30Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nextcryptojob",
+   "fork_url": "https://github.com/Blockchains/nextcryptojob",
+   "source": "hypnogaba/nextcryptojob",
+   "description": "Crypto hiring on proof of work: role scores from X, GitHub and wallets, a daily job digest, a company CRM paid in USDC on Solana, and REST/MCP for AI agents",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-12T08:32:28Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 943,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T08:32:30Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nextrare-marketplace",
+   "fork_url": "https://github.com/Blockchains/nextrare-marketplace",
+   "source": "ChasmNetwork/nextrare-marketplace",
+   "description": "A trading card marketplace where listed cards earn while they wait to sell. Solana devnet, Startup Village Borneo 2026.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-09-09T01:59:44Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 163,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-09T01:59:50Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nexus-mobile",
+   "fork_url": "https://github.com/Blockchains/nexus-mobile",
+   "source": "nexus-seeker/nexus-mobile",
+   "description": "Nexus mobile app for Solana Seeker MONOLITH 2026",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Kotlin",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "DePIN",
+    "AI agents",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-03-05T19:04:15Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 180,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-03-05T19:04:18Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nexus_pl",
+   "fork_url": "https://github.com/Blockchains/nexus_pl",
+   "source": "fadli25/nexus_pl",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": "AGPL-3.0",
+   "last_commit": "2024-05-02T12:18:39Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 211,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-05-02T12:18:41Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nft-evo-tickets",
+   "fork_url": "https://github.com/Blockchains/nft-evo-tickets",
+   "source": "DianaV2002/nft-evo-tickets",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "6mz15gSnFGTWzjHsveE8aFpVTKjdiLkVfQKtvFf1CGdc",
+    "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+   ],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-10-30T15:02:42Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 223,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-30T15:02:44Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nft-marketplace-ai",
+   "fork_url": "https://github.com/Blockchains/nft-marketplace-ai",
+   "source": "giantfoe/nft-marketplace-ai",
+   "description": "NFT Marketplace with AI Image Generation - Solana blockchain integration with Freepik API for seamless NFT creation and minting",
+   "language": null,
+   "languages": [
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "Shell",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "FYMA8ipmYc41tXx7MmoCZtyPE2JxTrpp1vLFb4DDwad2"
+   ],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-10-31T05:27:11Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": true,
+   "cargo_manifests": 8,
+   "has_package_json": false,
+   "files": 47,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-31T05:28:01Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nft-music-dapp",
+   "fork_url": "https://github.com/Blockchains/nft-music-dapp",
+   "source": "nikhilxhub/nft-music-dapp",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-10-31T12:18:41Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 107,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-31T12:18:44Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nft-tokenization-program",
+   "fork_url": "https://github.com/Blockchains/nft-tokenization-program",
+   "source": "caglarGokce/nft-tokenization-program",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust"
+   ],
+   "frameworks": [
+    "Native (solana-program)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-05-22T12:11:57Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 1,
+   "has_package_json": false,
+   "files": 17,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-05-22T12:12:00Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nft_backend",
+   "fork_url": "https://github.com/Blockchains/nft_backend",
+   "source": "galoreclub/nft_backend",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "Procfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-04-08T22:25:42Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 653,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-08T22:25:51Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nfteamify-radar",
+   "fork_url": "https://github.com/Blockchains/nfteamify-radar",
+   "source": "dalosnetwork/nfteamify-radar",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "Python",
+    "SCSS",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-10-15T12:13:38Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 153,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-10-15T12:13:39Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nftlab-sim",
+   "fork_url": "https://github.com/Blockchains/nftlab-sim",
+   "source": "haruharuoharu/nftlab-sim",
+   "description": "A hands-on sandbox simulating real NFT use-cases, unlocked through quiz progress",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Shell",
+    "Rust",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "BUdXZQwEUkSkQve9wmdzGG4kkz8ViGmvnJ1b2EDAviwR"
+   ],
+   "categories": [
+    "NFTs",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-22T09:31:13Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 86,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-22T09:31:13Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nftmassacre.github.io",
+   "fork_url": "https://github.com/Blockchains/nftmassacre.github.io",
+   "source": "nftmassacre/nftmassacre.github.io",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "Python",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Gaming",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-04T02:33:36Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 38,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-04T02:33:41Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/night_agent",
+   "fork_url": "https://github.com/Blockchains/night_agent",
+   "source": "aryanpachori/night_agent",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "TypeScript",
+    "CSS",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-05-09T19:58:36Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 154,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-09T19:58:36Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nightfall-contracts",
+   "fork_url": "https://github.com/Blockchains/nightfall-contracts",
+   "source": "cap0thed0n/nightfall-contracts",
+   "description": "Smart contracts for Nightfall City, an on-chain pixel-art crime game on Robinhood Chain",
+   "language": null,
+   "languages": [
+    "Solidity",
+    "JavaScript",
+    "Shell"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Gaming",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-07T13:11:53Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 83,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-07T13:11:55Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nihilium-recovery-example-integration",
+   "fork_url": "https://github.com/Blockchains/nihilium-recovery-example-integration",
+   "source": "nihilium/nihilium-recovery-example-integration",
+   "description": "Implements the Nihilium recovery SDK for inspiration",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "Dockerfile",
+    "HTML"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-15T14:19:57Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 167,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-15T14:19:59Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nivyr",
+   "fork_url": "https://github.com/Blockchains/nivyr",
+   "source": "Webghost01-NG/nivyr",
+   "description": "TypeScript lifecycle testing for real shielded Zcash payments",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "Vue",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T19:54:47Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 153,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T19:54:47Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nixarcade",
+   "fork_url": "https://github.com/Blockchains/nixarcade",
+   "source": "NIXBLACK11/nixarcade",
+   "description": "Official nixarcade repository(Next js)",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-08-09T18:20:11Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 78,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-08-09T18:20:17Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nocaps",
+   "fork_url": "https://github.com/Blockchains/nocaps",
+   "source": "S1r1u511/nocaps",
+   "description": null,
+   "language": null,
+   "languages": [
+    "GDScript",
+    "Shell",
+    "JavaScript",
+    "HTML",
+    "Kotlin",
+    "GAP"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "NFTs",
+    "Gaming",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-12T14:23:18Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 341,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-12T14:23:20Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/noctex",
+   "fork_url": "https://github.com/Blockchains/noctex",
+   "source": "Hijanhv/noctex",
+   "description": "FHE-encrypted dark pool DEX on Solana devnet \u00b7 Encrypt SDK + Ika dWallet 2PC-MPC + LI.FI \u00b7 Colosseum Frontier 2026",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "833YAgrbapXnLiYkUq6tG6hWfZ7whX34Xs7CtBN8Nrvx"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "DAO/Governance",
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2026-05-11T21:47:51Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 67,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T21:47:51Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nocturnal-hackathon",
+   "fork_url": "https://github.com/Blockchains/nocturnal-hackathon",
+   "source": "SL8-Pte-Ltd/nocturnal-hackathon",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-04-03T05:01:38Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 76,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-03T05:02:05Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nodara",
+   "fork_url": "https://github.com/Blockchains/nodara",
+   "source": "musa108/nodara",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Solidity",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-09-23T15:34:17Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 196,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-23T15:34:27Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/node-health-sol",
+   "fork_url": "https://github.com/Blockchains/node-health-sol",
+   "source": "devvang24/node-health-sol",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "TypeScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2025-05-13T05:31:46Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 13,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-13T05:31:46Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/noderails-colloseum",
+   "fork_url": "https://github.com/Blockchains/noderails-colloseum",
+   "source": "mbcse/noderails-colloseum",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Solidity",
+    "JavaScript",
+    "Move",
+    "HTML",
+    "Shell"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "ErG2kE3uhKxkBympZytSjvxGik7aSigvpeDAxC9gcT6Y",
+    "GKiurKP2ELeBXxjvXncvLzHpUyHVzBvWzuzm1f2i4KUz"
+   ],
+   "categories": [
+    "Payments",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T09:00:00Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": false,
+   "files": 3209,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-22T16:32:44Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nodes",
+   "fork_url": "https://github.com/Blockchains/nodes",
+   "source": "jstnw10/nodes",
+   "description": "Raycast extension with Menubar to browse and monitor validators",
+   "language": null,
+   "languages": [
+    "TypeScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-04-09T12:54:28Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 15,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-09T12:54:30Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nodus",
+   "fork_url": "https://github.com/Blockchains/nodus",
+   "source": "samuelcampozano/nodus",
+   "description": "Nodus \u2014 Programmable Sovereign Cloud Vault powered by Walrus & Sui",
+   "language": null,
+   "languages": [
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Rust",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "EWDPQ97rnYJyjbB7rpFwCnnYse5KwA8fLRTsv8piuqCE"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-10-09T00:14:31Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 135,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-09T00:14:36Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nofold-solana",
+   "fork_url": "https://github.com/Blockchains/nofold-solana",
+   "source": "CreateWithTimi/nofold-solana",
+   "description": "Turn tables into game rooms.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "PLpgSQL",
+    "JavaScript",
+    "HTML"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Gaming",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-01T21:59:22Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 161,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-01T21:59:34Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/noirwire",
+   "fork_url": "https://github.com/Blockchains/noirwire",
+   "source": "f1l1ph/noirwire",
+   "description": "NoirWire: privacy-preserving payments on Solana with Noir ZK proofs (hackathon build, no longer live)",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "PLpgSQL",
+    "JavaScript",
+    "Makefile",
+    "Dockerfile"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2025-11-15T12:02:01Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 199,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-15T12:02:07Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/noisy-student-training-asr",
+   "fork_url": "https://github.com/Blockchains/noisy-student-training-asr",
+   "source": "tuanio/noisy-student-training-asr",
+   "description": "Pytorch implementation of Noisy Student Training for Automatic Speech Recognition and Automatic Pronunciation Error Detection problem",
+   "language": null,
+   "languages": [
+    "Python"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Social"
+   ],
+   "license": null,
+   "last_commit": "2025-05-30T03:23:36Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 23,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-05-30T03:23:37Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/noizlabs-io",
+   "fork_url": "https://github.com/Blockchains/noizlabs-io",
+   "source": "emprezito/noizlabs-io",
+   "description": "This is the Official repo of Noizlabs, the Web3 Launchpad for Audio clips tokenization",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "PLpgSQL",
+    "CSS",
+    "HTML",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-11-28T10:32:42Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 113,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-28T10:35:30Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nomad-finance-io-amm",
+   "fork_url": "https://github.com/Blockchains/nomad-finance-io-amm",
+   "source": "nomad-finance-io/amm",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Rust",
+    "TypeScript",
+    "Python",
+    "JavaScript",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "D4FPEruKEHrG5TenZ2mpDGEfu1iUvTiqBxvpU8HLBvC2",
+    "DNXgeM9EiiaAbaWvwjHj9fQQLAX5ZsfHyvmYUNRAdNC8",
+    "noMF5Do36aKFUUnDNMQRTMjc39DNczuEtESvUfZa84t"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling"
+   ],
+   "license": null,
+   "last_commit": "2026-05-27T16:56:11Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 4,
+   "has_package_json": true,
+   "files": 107,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-27T16:56:15Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nomadz_core",
+   "fork_url": "https://github.com/Blockchains/nomadz_core",
+   "source": "NOMADZdev/nomadz_core",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "Shell"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)",
+    "Native (solana-program)"
+   ],
+   "program_ids": [
+    "CoREENxT6tW1HoK8ypY1SxRMZTcVPm7R94rH4PZNhX7d",
+    "GfyUP9mziko4u381SeLBb4D2ijTH4a9ruzBiA2hQAmwr",
+    "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+   ],
+   "categories": [
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-19T12:17:49Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 93,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-19T12:17:49Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nomos-v2",
+   "fork_url": "https://github.com/Blockchains/nomos-v2",
+   "source": "eMMsteiin/nomos-v2",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T23:39:01Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 157,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T23:39:03Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nomylax-solana",
+   "fork_url": "https://github.com/Blockchains/nomylax-solana",
+   "source": "RequlaBig13/nomylax-solana",
+   "description": "Financial firewall for autonomous AI agents on Solana. Built for Superteam Germany and Colosseum.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "FaSSQbpxHB8Ytzqv4nXR5ZocLkiM6RZH8xJ5sqfsNSx6",
+    "ijTdf4Q6pqaitjN1ZpnW9ZJNGNEeWTfBgydcWpkBJA8"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "AI agents",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-10-04T15:55:06Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 126,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-04T15:55:39Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nonstoporder-solana-pay",
+   "fork_url": "https://github.com/Blockchains/nonstoporder-solana-pay",
+   "source": "emredemirnet/nonstoporder-solana-pay",
+   "description": "Solana Pay (USDC) checkout integration for NonstopOrder self-ordering kiosks \u2014 built for Colosseum Crypto World's Fair 2026",
+   "language": null,
+   "languages": [
+    "Python",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-09-28T06:03:36Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 8,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-28T06:03:40Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nori",
+   "fork_url": "https://github.com/Blockchains/nori",
+   "source": "priyanshpatel18/nori",
+   "description": "Private payroll for onchain companies, settled on Solana through a ZK shielded pool.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-05-13T10:30:40Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 186,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-13T10:30:44Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/nori-worldsfair",
+   "fork_url": "https://github.com/Blockchains/nori-worldsfair",
+   "source": "Nori-zk/nori-worldsfair",
+   "description": "Hub repo for Nori's Crypto World's Fair (Colosseum) entry",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2026-10-14T18:08:31Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 10,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-14T18:08:38Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/norug-fun",
+   "fork_url": "https://github.com/Blockchains/norug-fun",
+   "source": "pylejeune/norug-fun",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "3HBzNutk8DrRfffCS74S55adJAjgY8NHrWXgRtABaSbF"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2025-07-06T11:27:36Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 216,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-01-29T12:14:16Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/norvexai",
+   "fork_url": "https://github.com/Blockchains/norvexai",
+   "source": "Shur1ken4/norvexai",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T04:00:21Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 82,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T04:02:46Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/noshen-business",
+   "fork_url": "https://github.com/Blockchains/noshen-business",
+   "source": "thisisbigmike/noshen-business",
+   "description": "NosHen business seller profiles (dealers and shops)",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "PLpgSQL",
+    "JavaScript",
+    "HTML",
+    "Solidity"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-11-02T14:52:20Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 309,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-02T14:52:23Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/noshot",
+   "fork_url": "https://github.com/Blockchains/noshot",
+   "source": "D3TRU04/noshot",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "HKFogYYiQvaebd3vAjt2W7Qf595daXtza5YiHtXrszap"
+   ],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-03-22T03:07:29Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 49,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-03-22T03:07:29Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/notabot",
+   "fork_url": "https://github.com/Blockchains/notabot",
+   "source": "ArturInspector/notabot",
+   "description": "NotABot - web3 proof-of-persoonhod provider.",
+   "language": null,
+   "languages": [],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "B2SGdLXWxVssPDBHB8WwKwhwdP9CLWDvBfXr1EtYZtye"
+   ],
+   "categories": [
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": "MIT",
+   "last_commit": null,
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 305,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-04-22T11:41:04Z",
    "readme_injection_flag": false
   }
  ]
