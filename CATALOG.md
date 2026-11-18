@@ -4518,3 +4518,428 @@
 | [noshen-business](repos/noshen-business.md) | DeFi, Payments, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | yes |
 | [noshot](repos/noshot.md) | Other | Anchor, Client-only (web3.js/kit) | - | yes |
 | [notabot](repos/notabot.md) | Infra/Tooling, Identity/Privacy | Anchor | MIT | yes |
+| [notary-chain](repos/notary-chain.md) | Infra/Tooling, Consumer | Anchor | - | yes |
+| [notary-solana](repos/notary-solana.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [notaxyz-sdk](repos/notaxyz-sdk.md) | Payments, AI agents, Infra/Tooling, Consumer | - | Apache-2.0 | yes |
+| [notdotmarket-solana](repos/notdotmarket-solana.md) | DeFi, Social | Anchor, Client-only (web3.js/kit) | - | yes |
+| [nova-algo](repos/nova-algo.md) | DeFi | - | - | yes |
+| [nova-insurance](repos/nova-insurance.md) | DeFi, Payments, Infra/Tooling, Social, DAO/Governance | Anchor | - | yes |
+| [nova-oracle](repos/nova-oracle.md) | Payments, Infra/Tooling, Identity/Privacy | Client-only (web3.js/kit) | - | no |
+| [novaball](repos/novaball.md) | NFTs, Gaming, Infra/Tooling, Consumer | - | - | yes |
+| [novak](repos/novak.md) | DeFi, Infra/Tooling | - | - | yes |
+| [novara-hackathon](repos/novara-hackathon.md) | DeFi, Payments, NFTs, AI agents, Infra/Tooling, Identity/Privacy | Anchor, Client-only (web3.js/kit) | - | yes |
+| [nowa-demo](repos/nowa-demo.md) | DeFi, Consumer | Client-only (web3.js/kit) | - | no |
+| [noyeah-contract](repos/noyeah-contract.md) | DeFi, Infra/Tooling | Anchor | - | yes |
+| [noytrix-platform](repos/noytrix-platform.md) | Consumer | - | - | yes |
+| [nubi-ai](repos/nubi-ai.md) | NFTs, Gaming, AI agents, Consumer | - | - | no |
+| [nuble-vaeriq](repos/nuble-vaeriq.md) | DeFi, Payments | Client-only (web3.js/kit) | MIT | yes |
+| [nudge](repos/nudge.md) | DeFi, Infra/Tooling, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [nuke-it](repos/nuke-it.md) | Other | - | - | no |
+| [nullfill-worldsfair](repos/nullfill-worldsfair.md) | Infra/Tooling | - | MIT | yes |
+| [numera-cover](repos/numera-cover.md) | DeFi, Payments, Infra/Tooling | - | NOASSERTION | yes |
+| [nundina](repos/nundina.md) | DeFi | Anchor | MIT | yes |
+| [nuntius](repos/nuntius.md) | DeFi, Payments, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [nuvex-fair-launch](repos/nuvex-fair-launch.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [nuwa-web](repos/nuwa-web.md) | Other | - | - | yes |
+| [nvim](repos/nvim.md) | Other | - | - | no |
+| [nvshu](repos/nvshu.md) | Other | Anchor | MIT | no |
+| [nymbus](repos/nymbus.md) | Other | Anchor | - | yes |
+| [nyxanic](repos/nyxanic.md) | DeFi, DePIN, Infra/Tooling | Anchor | - | yes |
+| [oasis-harmony-zone](repos/oasis-harmony-zone.md) | NFTs, AI agents, Social, Consumer | Client-only (web3.js/kit) | - | no |
+| [oath](repos/oath.md) | Infra/Tooling, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [oath-markets](repos/oath-markets.md) | DeFi, Social, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [oauth-data](repos/oauth-data.md) | Other | - | - | no |
+| [oazyse-os](repos/oazyse-os.md) | AI agents, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | no |
+| [oblio-lst-program](repos/oblio-lst-program.md) | Other | Anchor, Client-only (web3.js/kit) | - | no |
+| [oblivia-protocol](repos/oblivia-protocol.md) | Infra/Tooling, DAO/Governance, Identity/Privacy | Anchor, Client-only (web3.js/kit), Native (solana-program) | MIT | yes |
+| [obscura](repos/obscura.md) | Payments, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | no |
+| [obsidian-debug](repos/obsidian-debug.md) | DeFi, NFTs, Infra/Tooling | - | MIT | yes |
+| [obsidian-desk](repos/obsidian-desk.md) | DeFi, Infra/Tooling, Identity/Privacy | Anchor, Client-only (web3.js/kit) | NOASSERTION | yes |
+| [obsidian-protocol](repos/obsidian-protocol.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Anchor | - | no |
+| [obverse-server](repos/obverse-server.md) | DeFi, Payments, AI agents, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | yes |
+| [obxialabs](repos/obxialabs.md) | Other | - | - | yes |
+| [occult](repos/occult.md) | DeFi, Identity/Privacy | - | - | yes |
+| [ocean-8848-SolGuard](repos/ocean-8848-SolGuard.md) | DeFi, Payments, AI agents, Infra/Tooling, Consumer | - | MIT | yes |
+| [ocean-of-hunts-contracts](repos/ocean-of-hunts-contracts.md) | Other | - | - | yes |
+| [ochre-storefront](repos/ochre-storefront.md) | Payments | Client-only (web3.js/kit) | - | yes |
+| [octasol](repos/octasol.md) | Consumer | - | GPL-3.0 | no |
+| [octora](repos/octora.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit), Poseidon | - | yes |
+| [oculi](repos/oculi.md) | DeFi | Anchor | MIT | yes |
+| [oddie-hook](repos/oddie-hook.md) | DeFi, Infra/Tooling, Social, DAO/Governance, Consumer | Anchor | - | yes |
+| [oddsmind](repos/oddsmind.md) | DeFi, AI agents, Infra/Tooling, Consumer | - | MIT | yes |
+| [odingaval-trustlayer](repos/odingaval-trustlayer.md) | DeFi, Infra/Tooling | Anchor | - | yes |
+| [odlet](repos/odlet.md) | Payments, NFTs, Gaming | - | MIT | yes |
+| [offhrs](repos/offhrs.md) | DeFi, AI agents, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [offline-cat](repos/offline-cat.md) | DePIN, Infra/Tooling | - | - | no |
+| [offpay](repos/offpay.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | yes |
+| [ofibox](repos/ofibox.md) | Other | - | - | no |
+| [ofibox-frontend](repos/ofibox-frontend.md) | Other | - | - | yes |
+| [ogacraft](repos/ogacraft.md) | Other | - | - | no |
+| [ogazboiz-sage](repos/ogazboiz-sage.md) | DeFi, AI agents, Consumer | Anchor | - | no |
+| [ogimgio-trace](repos/ogimgio-trace.md) | Infra/Tooling, Consumer | - | - | yes |
+| [oinkonomics](repos/oinkonomics.md) | NFTs, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | yes |
+| [oira](repos/oira.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy, Consumer | Anchor | NOASSERTION | yes |
+| [okam](repos/okam.md) | Other | - | AGPL-3.0 | yes |
+| [okane-budget-tracker](repos/okane-budget-tracker.md) | Consumer | - | - | no |
+| [okolipraiz-colosseum](repos/okolipraiz-colosseum.md) | Other | - | - | no |
+| [olimagine](repos/olimagine.md) | NFTs, Social, Consumer | Client-only (web3.js/kit) | - | no |
+| [oliwierels-Frontier](repos/oliwierels-Frontier.md) | DeFi, Payments, Infra/Tooling, Social, Consumer | - | - | no |
+| [olosho-ayomide-lendsqr-fe-test](repos/olosho-ayomide-lendsqr-fe-test.md) | Infra/Tooling, Consumer | - | - | yes |
+| [ombrelle_client](repos/ombrelle_client.md) | DeFi, DePIN | Client-only (web3.js/kit) | MIT | no |
+| [omerkhanlhr-blockchain-project](repos/omerkhanlhr-blockchain-project.md) | Other | Anchor | - | no |
+| [omni-core](repos/omni-core.md) | DeFi | Anchor | MIT | no |
+| [omni-pass](repos/omni-pass.md) | Identity/Privacy, Consumer | - | - | yes |
+| [omnicare-web3](repos/omnicare-web3.md) | Other | - | - | no |
+| [on-chain-certificate-verification](repos/on-chain-certificate-verification.md) | Other | - | - | no |
+| [on-chain-cv](repos/on-chain-cv.md) | NFTs, Consumer | Client-only (web3.js/kit) | - | no |
+| [on-chain-resume](repos/on-chain-resume.md) | Social | Client-only (web3.js/kit) | - | no |
+| [onchain-backtest-engine](repos/onchain-backtest-engine.md) | Infra/Tooling, Identity/Privacy | - | MIT | yes |
+| [onchain-gaming-hub](repos/onchain-gaming-hub.md) | Gaming, AI agents, Infra/Tooling | - | MIT | no |
+| [onchain-me](repos/onchain-me.md) | NFTs, Consumer | Client-only (web3.js/kit) | - | no |
+| [onchain-suite](repos/onchain-suite.md) | DeFi, NFTs, Identity/Privacy | - | - | yes |
+| [onchain1-copilot](repos/onchain1-copilot.md) | DeFi, Social | - | - | no |
+| [onchain_int](repos/onchain_int.md) | Other | - | - | no |
+| [onchainbet](repos/onchainbet.md) | DeFi, Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [onchainbridge](repos/onchainbridge.md) | Other | Client-only (web3.js/kit) | - | yes |
+| [onchainclaw](repos/onchainclaw.md) | AI agents, Infra/Tooling, Social, DAO/Governance, Consumer | - | MIT | no |
+| [onchainiq](repos/onchainiq.md) | Other | - | - | no |
+| [ondcSuperteam](repos/ondcSuperteam.md) | Payments | - | - | no |
+| [one-card-home](repos/one-card-home.md) | Identity/Privacy | - | - | no |
+| [onecenter-ui](repos/onecenter-ui.md) | Other | - | - | no |
+| [onedrop_plugin](repos/onedrop_plugin.md) | Other | - | - | no |
+| [oneplan-web3](repos/oneplan-web3.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy, Consumer | Anchor | NOASSERTION | yes |
+| [oneraise](repos/oneraise.md) | DeFi, Infra/Tooling, Social, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | no |
+| [oni](repos/oni.md) | Gaming | Anchor | - | yes |
+| [onix-vault](repos/onix-vault.md) | DeFi, Gaming, Social, Identity/Privacy, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [onleash](repos/onleash.md) | AI agents, Infra/Tooling, Consumer | Anchor | - | yes |
+| [onyebuchidaniel60-PASS](repos/onyebuchidaniel60-PASS.md) | Identity/Privacy, Consumer | - | - | yes |
+| [onyx](repos/onyx.md) | DeFi, Payments, Infra/Tooling, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [oops-busters](repos/oops-busters.md) | Other | - | - | no |
+| [opago-wallet](repos/opago-wallet.md) | Payments, Identity/Privacy, Consumer | - | - | yes |
+| [opal](repos/opal.md) | DeFi, AI agents, Infra/Tooling, DAO/Governance, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [opaq-pay](repos/opaq-pay.md) | Payments | Anchor | - | yes |
+| [opaque-solana](repos/opaque-solana.md) | Identity/Privacy, Consumer | Anchor | MIT | no |
+| [open-bounty](repos/open-bounty.md) | Payments, Infra/Tooling, Consumer | Anchor | MIT | yes |
+| [open-cash](repos/open-cash.md) | DeFi, AI agents, Consumer | - | - | yes |
+| [open-second-brain](repos/open-second-brain.md) | DeFi, AI agents, Infra/Tooling | - | MIT | yes |
+| [open-solana-hub](repos/open-solana-hub.md) | DeFi, Infra/Tooling, DAO/Governance, Consumer | - | - | yes |
+| [open-treasury](repos/open-treasury.md) | Consumer | - | - | yes |
+| [openQuanta-Frontend](repos/openQuanta-Frontend.md) | Other | Anchor, Client-only (web3.js/kit) | - | no |
+| [open_sesame](repos/open_sesame.md) | Other | Anchor | Apache-2.0 | yes |
+| [openbudget-id](repos/openbudget-id.md) | NFTs, Infra/Tooling, DAO/Governance, Consumer | Anchor | MIT | yes |
+| [openfunds](repos/openfunds.md) | DeFi, Infra/Tooling, Social, Consumer | Anchor | - | yes |
+| [opening-cross](repos/opening-cross.md) | DeFi, NFTs, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [openjobs](repos/openjobs.md) | AI agents, Infra/Tooling | - | Apache-2.0 | yes |
+| [openkms](repos/openkms.md) | DePIN, AI agents | - | NOASSERTION | yes |
+| [openrampkit](repos/openrampkit.md) | DeFi, Payments, Consumer | - | MIT | yes |
+| [opensol](repos/opensol.md) | Other | - | MIT | no |
+| [opentaskai-web3-solana](repos/opentaskai-web3-solana.md) | Other | Anchor, Client-only (web3.js/kit), Native (solana-program) | - | yes |
+| [openvouch-originate](repos/openvouch-originate.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Native (solana-program) | - | yes |
+| [opindex](repos/opindex.md) | DeFi, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | no |
+| [opinion](repos/opinion.md) | DeFi, DePIN, Social | - | - | yes |
+| [opta](repos/opta.md) | DeFi, Infra/Tooling | Anchor, Native (solana-program) | - | yes |
+| [opti-freight](repos/opti-freight.md) | DeFi, NFTs, Infra/Tooling, DAO/Governance, Identity/Privacy, Consumer | Anchor | - | yes |
+| [optimai-search-mcp](repos/optimai-search-mcp.md) | AI agents, Infra/Tooling | - | - | no |
+| [optimizer](repos/optimizer.md) | DeFi, Infra/Tooling | - | MIT | no |
+| [optmachine](repos/optmachine.md) | DeFi | Anchor | - | yes |
+| [oraclecanary](repos/oraclecanary.md) | DeFi, Infra/Tooling, Consumer | Anchor | NOASSERTION | yes |
+| [oraclemarkets](repos/oraclemarkets.md) | DeFi, Infra/Tooling | Anchor | MIT | yes |
+| [orakt](repos/orakt.md) | Payments, Infra/Tooling, DAO/Governance, Consumer | Anchor | - | yes |
+| [orbit-deal-cosmos](repos/orbit-deal-cosmos.md) | Other | Client-only (web3.js/kit) | - | no |
+| [orbit-x402](repos/orbit-x402.md) | Payments, AI agents | - | - | no |
+| [orbital-markets](repos/orbital-markets.md) | DeFi | - | - | yes |
+| [orbix-declare](repos/orbix-declare.md) | Infra/Tooling, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [orca-sol-bot](repos/orca-sol-bot.md) | Consumer | - | GPL-3.0 | no |
+| [orch8-solana](repos/orch8-solana.md) | DeFi | Client-only (web3.js/kit) | - | no |
+| [orderbook-noirwire](repos/orderbook-noirwire.md) | DeFi, Infra/Tooling | Anchor, Client-only (web3.js/kit) | NOASSERTION | yes |
+| [ordersoundsw](repos/ordersoundsw.md) | Payments | Anchor, Client-only (web3.js/kit) | MIT | no |
+| [ore](repos/ore.md) | DeFi, Gaming | Native (solana-program), Steel | - | no |
+| [ore-scooper](repos/ore-scooper.md) | DeFi | Anchor, Client-only (web3.js/kit) | - | no |
+| [orion-dex-v2](repos/orion-dex-v2.md) | DeFi, Infra/Tooling, Consumer | - | - | yes |
+| [orivon-mvp](repos/orivon-mvp.md) | DeFi | - | AGPL-3.0 | yes |
+| [ornate](repos/ornate.md) | Infra/Tooling | Anchor | - | yes |
+| [oro-webapp](repos/oro-webapp.md) | Other | Anchor, Client-only (web3.js/kit) | - | no |
+| [orquestra](repos/orquestra.md) | AI agents, Infra/Tooling | - | MIT | yes |
+| [oryon-smart-contract](repos/oryon-smart-contract.md) | Payments, Consumer | Anchor | - | yes |
+| [oscillon-backtest](repos/oscillon-backtest.md) | DeFi, Infra/Tooling | - | - | yes |
+| [oshipool](repos/oshipool.md) | NFTs | Client-only (web3.js/kit) | MIT | no |
+| [othello](repos/othello.md) | DeFi, Payments, Infra/Tooling, Consumer | Anchor | MIT | yes |
+| [oto](repos/oto.md) | DePIN | Anchor | - | yes |
+| [otpay](repos/otpay.md) | Other | Client-only (web3.js/kit) | - | no |
+| [our-web3-application](repos/our-web3-application.md) | DeFi, Consumer | - | MIT | no |
+| [outcome-markets](repos/outcome-markets.md) | DeFi, Payments, Infra/Tooling, Social | Anchor | - | yes |
+| [outfox](repos/outfox.md) | Gaming, Consumer | Anchor | NOASSERTION | yes |
+| [overlord](repos/overlord.md) | DeFi, AI agents, Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [overview](repos/overview.md) | DeFi, Payments, NFTs, Social, DAO/Governance, Identity/Privacy, Consumer | - | - | no |
+| [owego](repos/owego.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | NOASSERTION | yes |
+| [owlenbrowser](repos/owlenbrowser.md) | Other | Client-only (web3.js/kit) | - | no |
+| [owncurve](repos/owncurve.md) | DeFi, Payments, AI agents, Social, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [ownership.fm](repos/ownership.fm.md) | AI agents, Infra/Tooling, Social | - | - | no |
+| [oxar-market](repos/oxar-market.md) | Other | Anchor | NOASSERTION | yes |
+| [oxide](repos/oxide.md) | DePIN, Infra/Tooling | - | NOASSERTION | no |
+| [oxidefier](repos/oxidefier.md) | Other | - | - | no |
+| [oxygen-ui-solana](repos/oxygen-ui-solana.md) | DeFi, Identity/Privacy, Consumer | - | - | no |
+| [ozon-protocol](repos/ozon-protocol.md) | Other | Anchor, Native (solana-program) | - | yes |
+| [p-token-migrator](repos/p-token-migrator.md) | DeFi, Infra/Tooling | - | MIT | yes |
+| [p2a](repos/p2a.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [p2p-optimizer-app](repos/p2p-optimizer-app.md) | Social | Client-only (web3.js/kit) | - | no |
+| [p2pchess](repos/p2pchess.md) | Other | - | MIT | no |
+| [pachinko](repos/pachinko.md) | DeFi, Gaming, Infra/Tooling, Identity/Privacy, Consumer | - | - | no |
+| [packet](repos/packet.md) | Payments, Infra/Tooling, Social, Consumer | - | Apache-2.0 | no |
+| [pact](repos/pact.md) | Payments, AI agents, Infra/Tooling | - | MIT | yes |
+| [pact-monitor](repos/pact-monitor.md) | DeFi, AI agents, Infra/Tooling | Anchor, Pinocchio | MIT | yes |
+| [pacta-ai](repos/pacta-ai.md) | Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | no |
+| [pactum](repos/pactum.md) | Payments, AI agents, Infra/Tooling, Consumer | - | - | no |
+| [pactyra](repos/pactyra.md) | AI agents, Infra/Tooling, DAO/Governance, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [padala](repos/padala.md) | Consumer | Client-only (web3.js/kit) | - | no |
+| [padam-nocturne](repos/padam-nocturne.md) | AI agents, Infra/Tooling | - | AGPL-3.0 | yes |
+| [padt-ai-hackathon](repos/padt-ai-hackathon.md) | DeFi, Identity/Privacy, Consumer | - | - | no |
+| [paif-fun](repos/paif-fun.md) | Infra/Tooling, Consumer | - | NOASSERTION | yes |
+| [pairkey](repos/pairkey.md) | Infra/Tooling, Identity/Privacy, Consumer | Native (solana-program) | - | yes |
+| [pairwork-exchange](repos/pairwork-exchange.md) | DeFi, Payments | - | - | no |
+| [palmos](repos/palmos.md) | DeFi, NFTs, AI agents, DAO/Governance, Identity/Privacy, Consumer | Client-only (web3.js/kit) | MIT | yes |
+| [palmsafe](repos/palmsafe.md) | Other | - | - | no |
+| [palusos](repos/palusos.md) | AI agents, Infra/Tooling, Consumer | - | - | yes |
+| [panda](repos/panda.md) | Social, Consumer | - | MIT | no |
+| [panon](repos/panon.md) | Consumer | - | - | yes |
+| [panoramapace-io](repos/panoramapace-io.md) | Infra/Tooling | - | - | no |
+| [panta-hackaton](repos/panta-hackaton.md) | Social, Consumer | - | - | yes |
+| [panta-integrity-lens](repos/panta-integrity-lens.md) | AI agents, Consumer | - | MIT | yes |
+| [panta-market-radar](repos/panta-market-radar.md) | Other | - | - | yes |
+| [panta-pulse](repos/panta-pulse.md) | AI agents, Consumer | - | MIT | no |
+| [panta-rooms](repos/panta-rooms.md) | Social, Consumer | Client-only (web3.js/kit) | - | yes |
+| [panta-signal](repos/panta-signal.md) | DeFi, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | yes |
+| [panta-signal-radar](repos/panta-signal-radar.md) | DeFi, Consumer | - | MIT | yes |
+| [pantachat](repos/pantachat.md) | DeFi, Infra/Tooling, Social, Consumer | Client-only (web3.js/kit) | - | no |
+| [pantadesk](repos/pantadesk.md) | DeFi, Infra/Tooling | Client-only (web3.js/kit) | - | yes |
+| [pantapilot](repos/pantapilot.md) | AI agents, Infra/Tooling, Consumer | - | - | no |
+| [pantawire](repos/pantawire.md) | Gaming, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | no |
+| [paper-devnet](repos/paper-devnet.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [papercoin](repos/papercoin.md) | Identity/Privacy, Consumer | - | - | no |
+| [papermind](repos/papermind.md) | DeFi, AI agents, Infra/Tooling | Client-only (web3.js/kit) | - | no |
+| [paradise_markets_Oracle](repos/paradise_markets_Oracle.md) | Infra/Tooling | - | - | yes |
+| [paralend-protocol](repos/paralend-protocol.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [parallelsketch](repos/parallelsketch.md) | DeFi, Infra/Tooling | Client-only (web3.js/kit) | MIT | yes |
+| [paralock](repos/paralock.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy | - | MIT | yes |
+| [paralyx-solana](repos/paralyx-solana.md) | DeFi, Payments, Infra/Tooling, Consumer | - | - | yes |
+| [parano1d](repos/parano1d.md) | DeFi, NFTs, Infra/Tooling, Consumer | Poseidon | Apache-2.0 | yes |
+| [parapet](repos/parapet.md) | Infra/Tooling, Social, Consumer | - | MIT | yes |
+| [parity](repos/parity.md) | DeFi | Anchor, Client-only (web3.js/kit) | MIT | no |
+| [parity-fi](repos/parity-fi.md) | DeFi, Infra/Tooling, Consumer | - | - | no |
+| [parity-solana](repos/parity-solana.md) | Other | Anchor | MIT | yes |
+| [parkpal](repos/parkpal.md) | Other | - | - | no |
+| [parkstaypass](repos/parkstaypass.md) | DeFi, NFTs, Infra/Tooling, DAO/Governance, Consumer | Anchor, Client-only (web3.js/kit), Native (solana-program) | - | no |
+| [parleySwap](repos/parleySwap.md) | DeFi, Infra/Tooling, Identity/Privacy | Anchor | - | yes |
+| [partforge](repos/partforge.md) | NFTs, Gaming, Consumer | - | - | no |
+| [parto_ner_sekaii](repos/parto_ner_sekaii.md) | Other | Anchor | - | yes |
+| [passdari](repos/passdari.md) | Payments, NFTs, Infra/Tooling, Consumer | Anchor | - | yes |
+| [passin-app-fullstack](repos/passin-app-fullstack.md) | Other | Client-only (web3.js/kit) | - | no |
+| [passionate-dev7-leash](repos/passionate-dev7-leash.md) | Payments, AI agents, Infra/Tooling, Identity/Privacy | - | - | yes |
+| [passkey-sdk](repos/passkey-sdk.md) | DePIN, Infra/Tooling, Identity/Privacy, Consumer | - | Apache-2.0 | yes |
+| [passportsol](repos/passportsol.md) | Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | no |
+| [pattpay](repos/pattpay.md) | Payments, Infra/Tooling, Consumer | Anchor | - | yes |
+| [pawket](repos/pawket.md) | Gaming, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [pawzzle-1](repos/pawzzle-1.md) | Payments, Gaming, Consumer | Client-only (web3.js/kit) | - | no |
+| [pay-fature](repos/pay-fature.md) | Payments, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | yes |
+| [pay-skills](repos/pay-skills.md) | DeFi, Payments, Infra/Tooling, Social | - | MIT | no |
+| [pay-thru-sol](repos/pay-thru-sol.md) | DeFi, Payments, Social, Consumer | - | Apache-2.0 | no |
+| [payable](repos/payable.md) | DeFi, Payments, Social | Anchor, Client-only (web3.js/kit) | - | yes |
+| [payagent-hackathon](repos/payagent-hackathon.md) | Payments, Infra/Tooling | Client-only (web3.js/kit) | - | no |
+| [paybot](repos/paybot.md) | DeFi, Payments, Infra/Tooling, Social, DAO/Governance, Consumer | - | NOASSERTION | no |
+| [payce-standard](repos/payce-standard.md) | DeFi, Payments, Infra/Tooling | - | MIT | yes |
+| [paycheck](repos/paycheck.md) | DeFi, NFTs, DePIN, Infra/Tooling, Consumer | Native (solana-program) | Apache-2.0 | yes |
+| [paydar](repos/paydar.md) | Other | Client-only (web3.js/kit) | - | no |
+| [payfix](repos/payfix.md) | DeFi, Payments, Consumer | Client-only (web3.js/kit) | - | yes |
+| [payfreight-escrow](repos/payfreight-escrow.md) | DeFi, Payments, Infra/Tooling | Anchor | NOASSERTION | yes |
+| [payhumans-website](repos/payhumans-website.md) | Payments, Infra/Tooling, Consumer | - | - | yes |
+| [payjent](repos/payjent.md) | Payments, AI agents | - | - | yes |
+| [paykit](repos/paykit.md) | Payments, AI agents, Infra/Tooling, Identity/Privacy, Consumer | Anchor | MIT | yes |
+| [paylock](repos/paylock.md) | Payments, Infra/Tooling, Consumer | - | - | yes |
+| [payment-widget](repos/payment-widget.md) | Payments | - | - | no |
+| [payments-sdk](repos/payments-sdk.md) | DeFi, Payments, Infra/Tooling | - | - | yes |
+| [payminto-io-app](repos/payminto-io-app.md) | DeFi, Payments | Anchor | MIT | yes |
+| [paymints-frontend](repos/paymints-frontend.md) | DeFi, Payments, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [paymoney-old](repos/paymoney-old.md) | Infra/Tooling, Identity/Privacy, Consumer | - | - | no |
+| [payo](repos/payo.md) | Payments, Infra/Tooling, Consumer | - | MIT | yes |
+| [payobv.io](repos/payobv.io.md) | Consumer | Anchor, Client-only (web3.js/kit) | MIT | no |
+| [payoo](repos/payoo.md) | DeFi, Payments, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [payperlessgo-client-app](repos/payperlessgo-client-app.md) | Payments, Consumer | - | - | yes |
+| [paypicnic](repos/paypicnic.md) | Payments, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | yes |
+| [payproof-mvp](repos/payproof-mvp.md) | Payments, Infra/Tooling | Anchor | MIT | yes |
+| [payrogen_sdk](repos/payrogen_sdk.md) | DeFi, Payments, Infra/Tooling, Consumer | - | MIT | yes |
+| [payshield](repos/payshield.md) | Payments, AI agents, Infra/Tooling, Consumer | - | - | no |
+| [payslip](repos/payslip.md) | Payments, Infra/Tooling, Consumer | - | MIT | yes |
+| [paystream_dev](repos/paystream_dev.md) | Other | - | - | no |
+| [paytag](repos/paytag.md) | DeFi, Payments, Infra/Tooling, Social, Consumer | - | - | no |
+| [paytochat](repos/paytochat.md) | Payments, Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [paytrace](repos/paytrace.md) | Payments, NFTs, AI agents, Infra/Tooling | - | - | no |
+| [pce_protocol_clean](repos/pce_protocol_clean.md) | Other | Anchor | - | yes |
+| [peachz-public](repos/peachz-public.md) | DeFi, Gaming, Social, DAO/Governance, Consumer | - | - | no |
+| [peaje](repos/peaje.md) | DeFi, Payments, AI agents, Infra/Tooling, Consumer | - | NOASSERTION | yes |
+| [peer-pay](repos/peer-pay.md) | Payments | Anchor, Native (solana-program) | Apache-2.0 | yes |
+| [peerprotocol](repos/peerprotocol.md) | DeFi | Anchor, Client-only (web3.js/kit), Native (solana-program) | - | yes |
+| [peerza-ai](repos/peerza-ai.md) | Other | Client-only (web3.js/kit) | - | no |
+| [pencil-finance-contract-solana](repos/pencil-finance-contract-solana.md) | DeFi, NFTs, Infra/Tooling, Consumer | Anchor | - | yes |
+| [penny-post](repos/penny-post.md) | DeFi, Consumer | Anchor, Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [penumbra](repos/penumbra.md) | Payments, Infra/Tooling, DAO/Governance, Identity/Privacy | Anchor | - | yes |
+| [people3-app](repos/people3-app.md) | Other | - | Apache-2.0 | yes |
+| [people3-web](repos/people3-web.md) | Other | - | - | no |
+| [perc5ive](repos/perc5ive.md) | DeFi, DAO/Governance | Pinocchio | MIT | yes |
+| [percolator-launch](repos/percolator-launch.md) | DeFi, Infra/Tooling, Consumer | Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [perfx](repos/perfx.md) | DeFi | Anchor, Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [permadata-protocol](repos/permadata-protocol.md) | NFTs, DePIN, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | no |
+| [permanence-protocol](repos/permanence-protocol.md) | Infra/Tooling, Consumer | - | MIT | no |
+| [perp](repos/perp.md) | DeFi | - | - | no |
+| [perpetuity](repos/perpetuity.md) | Social | Anchor, Client-only (web3.js/kit) | - | yes |
+| [persona](repos/persona.md) | Other | - | - | no |
+| [personal-ai-assistant](repos/personal-ai-assistant.md) | AI agents | - | - | no |
+| [perun-l2trade-dex](repos/perun-l2trade-dex.md) | DeFi, Payments, Infra/Tooling, Consumer | - | Apache-2.0 | no |
+| [petak_idle_property](repos/petak_idle_property.md) | Other | - | - | no |
+| [petyield](repos/petyield.md) | DeFi, Payments, NFTs, Gaming, Consumer | - | - | no |
+| [pg-frontend](repos/pg-frontend.md) | Gaming, Infra/Tooling, Consumer | - | - | no |
+| [phantom-grid-solana-dvp](repos/phantom-grid-solana-dvp.md) | DeFi, AI agents | Client-only (web3.js/kit) | - | no |
+| [pharmatrace](repos/pharmatrace.md) | Infra/Tooling, Consumer | Anchor | - | yes |
+| [phishguard-ai](repos/phishguard-ai.md) | Other | - | - | no |
+| [phreakin-fun-solana](repos/phreakin-fun-solana.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | no |
+| [physioloop](repos/physioloop.md) | DeFi, Infra/Tooling | Anchor | - | yes |
+| [pichifi-yieldy](repos/pichifi-yieldy.md) | DeFi, AI agents, Infra/Tooling | - | MIT | yes |
+| [pickler](repos/pickler.md) | AI agents | - | - | yes |
+| [pico](repos/pico.md) | DeFi, Infra/Tooling, Consumer | Anchor | - | yes |
+| [picomart](repos/picomart.md) | DeFi, Payments, AI agents, Consumer | - | - | yes |
+| [pigeon](repos/pigeon.md) | DeFi, Infra/Tooling, Social, Identity/Privacy, Consumer | Anchor | - | yes |
+| [pigxel-web](repos/pigxel-web.md) | Consumer | Client-only (web3.js/kit) | - | no |
+| [pillar](repos/pillar.md) | DeFi, Identity/Privacy, Consumer | Client-only (web3.js/kit), Native (solana-program) | - | yes |
+| [pinata](repos/pinata.md) | DeFi, Payments, Social, Consumer | Anchor | NOASSERTION | yes |
+| [pinkpanta](repos/pinkpanta.md) | Infra/Tooling, Social, Consumer | Client-only (web3.js/kit) | - | no |
+| [pinky](repos/pinky.md) | DeFi, Payments, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [pinpet-sdk](repos/pinpet-sdk.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [pip-bot](repos/pip-bot.md) | DeFi, AI agents | - | - | yes |
+| [pipeline](repos/pipeline.md) | AI agents, Infra/Tooling, Social | - | MIT | yes |
+| [pipon](repos/pipon.md) | NFTs, Infra/Tooling, Identity/Privacy, Consumer | Anchor | GPL-3.0 | yes |
+| [pirate-academy](repos/pirate-academy.md) | NFTs, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [pisang-biru-buildstation](repos/pisang-biru-buildstation.md) | Other | Anchor, Client-only (web3.js/kit) | - | no |
+| [pistis-pay-saas](repos/pistis-pay-saas.md) | Payments, Infra/Tooling | Client-only (web3.js/kit) | MIT | no |
+| [pixactions](repos/pixactions.md) | DeFi, Payments, Infra/Tooling, Consumer | Anchor | MIT | yes |
+| [pixel-kingdom-wars](repos/pixel-kingdom-wars.md) | NFTs, Gaming, Infra/Tooling, Identity/Privacy, Consumer | Anchor | NOASSERTION | yes |
+| [pixel-market](repos/pixel-market.md) | Other | - | - | yes |
+| [pixelclimb.xyz](repos/pixelclimb.xyz.md) | Gaming | - | - | no |
+| [pixsettle](repos/pixsettle.md) | Payments, Infra/Tooling, Consumer | - | MIT | yes |
+| [placebo](repos/placebo.md) | DeFi, Infra/Tooling, Identity/Privacy | - | MIT | yes |
+| [pladge-smartcontract](repos/pladge-smartcontract.md) | DeFi, Infra/Tooling | - | MIT | yes |
+| [plain](repos/plain.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [plainsign](repos/plainsign.md) | NFTs, Infra/Tooling, Consumer | - | NOASSERTION | yes |
+| [plaipin-app](repos/plaipin-app.md) | NFTs, Infra/Tooling, Consumer | Anchor, Native (solana-program) | - | yes |
+| [planbok-v2-api-tester](repos/planbok-v2-api-tester.md) | Consumer | - | - | no |
+| [plankton-s-cyber-ocean](repos/plankton-s-cyber-ocean.md) | DeFi, AI agents, Infra/Tooling, Consumer | Client-only (web3.js/kit) | NOASSERTION | yes |
+| [platform](repos/platform.md) | Other | Anchor | - | yes |
+| [playchess](repos/playchess.md) | Gaming, Infra/Tooling, Consumer | - | - | no |
+| [playfair](repos/playfair.md) | Other | - | - | no |
+| [playkaboom](repos/playkaboom.md) | DeFi, Gaming, Infra/Tooling, Social | Anchor | - | yes |
+| [playrush](repos/playrush.md) | Other | Client-only (web3.js/kit) | - | no |
+| [pledgebond](repos/pledgebond.md) | DeFi, Payments, Infra/Tooling, Social | - | - | yes |
+| [pledgeguard](repos/pledgeguard.md) | Other | - | - | no |
+| [pledger](repos/pledger.md) | Payments, Infra/Tooling, Consumer | - | MIT | yes |
+| [plemu](repos/plemu.md) | NFTs, Gaming | - | - | yes |
+| [plinto](repos/plinto.md) | DeFi, Social | Anchor | NOASSERTION | yes |
+| [plntd](repos/plntd.md) | Other | Client-only (web3.js/kit) | - | no |
+| [plonk-backend](repos/plonk-backend.md) | Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | no |
+| [plotly](repos/plotly.md) | DeFi, NFTs, Gaming, Infra/Tooling | Anchor, Client-only (web3.js/kit), Native (solana-program) | - | yes |
+| [ploymarketX402](repos/ploymarketX402.md) | DeFi, Payments, Gaming, AI agents, Consumer | Anchor | - | no |
+| [plugin-sendo-worker](repos/plugin-sendo-worker.md) | AI agents | - | - | yes |
+| [plumbline](repos/plumbline.md) | DeFi, Payments, DePIN, Infra/Tooling, Identity/Privacy, Consumer | Anchor | MIT | yes |
+| [plut0x](repos/plut0x.md) | Other | Anchor | MIT | yes |
+| [pnl](repos/pnl.md) | DeFi, NFTs, Infra/Tooling, Social, DAO/Governance, Consumer | Anchor, Native (solana-program) | MIT | yes |
+| [poc](repos/poc.md) | DeFi, Payments, DePIN, AI agents, Infra/Tooling, Identity/Privacy, Consumer | - | - | yes |
+| [poc-program](repos/poc-program.md) | Other | Anchor, Client-only (web3.js/kit), Native (solana-program) | - | yes |
+| [pocket-solana-agent](repos/pocket-solana-agent.md) | DeFi, AI agents, Consumer | Client-only (web3.js/kit) | - | no |
+| [poe-solana](repos/poe-solana.md) | DeFi, Social, DAO/Governance | Anchor | MIT | yes |
+| [poh_network](repos/poh_network.md) | DeFi, Infra/Tooling, Social, Consumer | Client-only (web3.js/kit) | - | yes |
+| [poker_solana](repos/poker_solana.md) | Gaming, Infra/Tooling | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [pokestonksss](repos/pokestonksss.md) | Gaming, Infra/Tooling, Consumer | Anchor | - | yes |
+| [policyrail](repos/policyrail.md) | Payments, AI agents, Consumer | Client-only (web3.js/kit) | - | no |
+| [pollar](repos/pollar.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | - | Apache-2.0 | yes |
+| [pollinet](repos/pollinet.md) | Infra/Tooling | Native (solana-program) | Apache-2.0 | yes |
+| [polyct](repos/polyct.md) | Consumer | - | - | no |
+| [polynance-ts-client](repos/polynance-ts-client.md) | Infra/Tooling | - | - | no |
+| [polyverse](repos/polyverse.md) | DeFi, AI agents | Client-only (web3.js/kit) | - | yes |
+| [pomerene-api](repos/pomerene-api.md) | Other | Client-only (web3.js/kit) | - | no |
+| [pompey](repos/pompey.md) | DeFi, Gaming, Consumer | - | - | yes |
+| [pont-network](repos/pont-network.md) | Other | - | - | no |
+| [poolkeeper](repos/poolkeeper.md) | DeFi | Anchor, Client-only (web3.js/kit) | - | yes |
+| [pootown](repos/pootown.md) | Gaming, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [popdom](repos/popdom.md) | Other | - | - | yes |
+| [poppin](repos/poppin.md) | Social | - | MIT | yes |
+| [port](repos/port.md) | DeFi, NFTs, AI agents, Consumer | Client-only (web3.js/kit) | - | yes |
+| [portal-hackathon-kit-web](repos/portal-hackathon-kit-web.md) | Other | Client-only (web3.js/kit) | - | no |
+| [portfolio](repos/portfolio.md) | Other | - | MIT | no |
+| [portfolio-ai-solana](repos/portfolio-ai-solana.md) | Other | - | - | yes |
+| [posmain](repos/posmain.md) | Other | Client-only (web3.js/kit) | GPL-3.0 | no |
+| [postgrechain](repos/postgrechain.md) | Infra/Tooling, Consumer | - | MIT | no |
+| [pot](repos/pot.md) | DeFi, Payments, Social, Consumer | - | - | yes |
+| [pot-contract](repos/pot-contract.md) | DeFi, Infra/Tooling, Social, DAO/Governance, Consumer | Anchor | - | yes |
+| [potash](repos/potash.md) | Identity/Privacy | Anchor | NOASSERTION | yes |
+| [potbot](repos/potbot.md) | DeFi, Social, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [potbot-v2](repos/potbot-v2.md) | DeFi, Infra/Tooling, Social, Consumer | Anchor, Native (solana-program) | MIT | yes |
+| [poupig](repos/poupig.md) | DeFi | Client-only (web3.js/kit) | - | no |
+| [ppsc_v2_reforged](repos/ppsc_v2_reforged.md) | DeFi, NFTs | Anchor, Client-only (web3.js/kit) | - | yes |
+| [pq-attest](repos/pq-attest.md) | Payments, Infra/Tooling | - | - | yes |
+| [pqc-receipts-colosseum](repos/pqc-receipts-colosseum.md) | DeFi, Payments, AI agents, Infra/Tooling, DAO/Governance | - | Apache-2.0 | yes |
+| [praetor](repos/praetor.md) | Infra/Tooling, DAO/Governance, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [prax](repos/prax.md) | DeFi, AI agents, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [pre-ipo-detective](repos/pre-ipo-detective.md) | AI agents, Consumer | - | - | no |
+| [pred-perps-percolator](repos/pred-perps-percolator.md) | DeFi | Native (solana-program) | - | yes |
+| [preda](repos/preda.md) | Other | Client-only (web3.js/kit) | - | no |
+| [predatapool](repos/predatapool.md) | Payments, DePIN, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [predge-solana-guard](repos/predge-solana-guard.md) | DeFi, Infra/Tooling, DAO/Governance, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [predictedwtf](repos/predictedwtf.md) | Other | Anchor, Client-only (web3.js/kit) | - | yes |
+| [prediction-market-solana](repos/prediction-market-solana.md) | Consumer | - | - | yes |
+| [prediction-marketplace](repos/prediction-marketplace.md) | AI agents | - | NOASSERTION | yes |
+| [predictiontool](repos/predictiontool.md) | Social, DAO/Governance, Consumer | - | Apache-2.0 | no |
+| [predictlaunch](repos/predictlaunch.md) | Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit) | - | no |
+| [prediksi-app](repos/prediksi-app.md) | DeFi, Infra/Tooling, Consumer | - | - | no |
+| [premiflow](repos/premiflow.md) | Payments, Infra/Tooling, Consumer | Anchor | - | yes |
+| [preschian-solx](repos/preschian-solx.md) | NFTs, Infra/Tooling, Consumer | - | - | no |
+| [presence-colosseum](repos/presence-colosseum.md) | Social | Anchor | - | yes |
+| [presentation001](repos/presentation001.md) | Payments, DePIN, Consumer | - | - | no |
+| [presign](repos/presign.md) | DeFi, DePIN, DAO/Governance, Consumer | Anchor, Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [prestocks-dca-noir](repos/prestocks-dca-noir.md) | DeFi, Infra/Tooling | Anchor, Client-only (web3.js/kit) | - | yes |
+| [primeskillwagering](repos/primeskillwagering.md) | Gaming | Anchor | - | yes |
+| [printkub-hackathon-submission-2026-10-12](repos/printkub-hackathon-submission-2026-10-12.md) | Payments, AI agents, Infra/Tooling, Identity/Privacy, Consumer | - | - | no |
+| [prismon-server](repos/prismon-server.md) | DeFi, Payments, NFTs, Gaming, Infra/Tooling, Consumer | - | - | no |
+| [pritok](repos/pritok.md) | DeFi, Payments, AI agents, Infra/Tooling, Consumer | Anchor | - | yes |
+| [privacy-program](repos/privacy-program.md) | DeFi, Identity/Privacy | Anchor, Client-only (web3.js/kit) | - | yes |
+| [privacy-x-perps](repos/privacy-x-perps.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Anchor | - | yes |
+| [privacysafe-payments](repos/privacysafe-payments.md) | Payments, NFTs, AI agents, Social, Consumer | Client-only (web3.js/kit) | AGPL-3.0 | yes |
+| [privagent](repos/privagent.md) | AI agents, Infra/Tooling, Identity/Privacy, Consumer | - | - | no |
+| [private-payment-tiers-solana](repos/private-payment-tiers-solana.md) | Payments, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | yes |
+| [private-payroll](repos/private-payroll.md) | Payments, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | no |
+| [privatevote](repos/privatevote.md) | Other | Anchor | - | yes |
+| [privax](repos/privax.md) | Identity/Privacy | Anchor, Native (solana-program) | - | yes |
+| [privment](repos/privment.md) | Payments, NFTs, Identity/Privacy | Anchor, Client-only (web3.js/kit) | - | yes |
+| [probabl-solana](repos/probabl-solana.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [probasight](repos/probasight.md) | Infra/Tooling, Social, Consumer | Client-only (web3.js/kit) | - | yes |
+| [probe](repos/probe.md) | DeFi, Infra/Tooling, Social | Anchor | - | no |
+| [probe402-check](repos/probe402-check.md) | Payments, AI agents, Infra/Tooling | - | Apache-2.0 | yes |
+| [product](repos/product.md) | DeFi, DePIN | - | - | no |
+| [proekt](repos/proekt.md) | Infra/Tooling, Consumer | - | - | yes |
+| [program-roulette](repos/program-roulette.md) | DeFi, Gaming, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [programs](repos/programs.md) | DeFi, NFTs, Infra/Tooling, Social, DAO/Governance, Consumer | Anchor, Client-only (web3.js/kit) | Apache-2.0 | yes |
+| [programs-v1](repos/programs-v1.md) | DeFi, Infra/Tooling, Identity/Privacy | Anchor | - | no |
+| [project](repos/project.md) | Other | - | - | yes |
+| [project-1](repos/project-1.md) | NFTs, Identity/Privacy, Consumer | - | - | no |
+| [project-23-apr-21-47](repos/project-23-apr-21-47.md) | DeFi | Client-only (web3.js/kit) | - | no |
+| [project-aegis](repos/project-aegis.md) | AI agents, Infra/Tooling | - | - | yes |
+| [project-scout](repos/project-scout.md) | Other | Client-only (web3.js/kit) | - | no |
+| [projectKAIKA](repos/projectKAIKA.md) | Other | - | - | no |
+| [project_axs](repos/project_axs.md) | DePIN | - | - | yes |
+| [projectedenapp.github.io](repos/projectedenapp.github.io.md) | Other | - | - | no |
+| [proleaguegg-solana-contract](repos/proleaguegg-solana-contract.md) | Payments, Gaming, Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit), Native (solana-program) | NOASSERTION | yes |
+| [promopay](repos/promopay.md) | Infra/Tooling | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [promptSOL](repos/promptSOL.md) | Payments, Social, Consumer | Client-only (web3.js/kit) | - | no |
+| [prompto](repos/prompto.md) | Other | Client-only (web3.js/kit) | - | no |
+| [promptquest](repos/promptquest.md) | NFTs, Gaming, AI agents, Infra/Tooling, Consumer | - | - | no |
+| [proof-of-alpha](repos/proof-of-alpha.md) | DeFi, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit), Pinocchio | - | yes |
+| [proof-of-anchor](repos/proof-of-anchor.md) | Social, DAO/Governance, Identity/Privacy, Consumer | Anchor, Native (solana-program) | - | yes |
+| [proof-of-build](repos/proof-of-build.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
+| [proof-of-engagement](repos/proof-of-engagement.md) | Infra/Tooling, Consumer | Anchor | MIT | yes |
+| [proof-of-focus](repos/proof-of-focus.md) | Other | - | - | no |
