@@ -4943,3 +4943,9 @@
 | [proof-of-build](repos/proof-of-build.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
 | [proof-of-engagement](repos/proof-of-engagement.md) | Infra/Tooling, Consumer | Anchor | MIT | yes |
 | [proof-of-focus](repos/proof-of-focus.md) | Other | - | - | no |
+| [proof-of-gameplay](repos/proof-of-gameplay.md) | Gaming | Anchor | - | yes |
+| [proof-of-good](repos/proof-of-good.md) | Infra/Tooling, Social, Identity/Privacy, Consumer | - | - | yes |
+| [proof-of-inference](repos/proof-of-inference.md) | DeFi, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [proof-of-learn](repos/proof-of-learn.md) | DeFi, Payments, NFTs, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [proof-of-skill](repos/proof-of-skill.md) | DAO/Governance, Identity/Privacy, Consumer | - | - | yes |
+| [proof-of-vibe-chengdu](repos/proof-of-vibe-chengdu.md) | Infra/Tooling | Client-only (web3.js/kit) | MIT | yes |

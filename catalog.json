@@ -1,24 +1,24 @@
 {
- "generated": "2026-11-18T11:32:17Z",
- "count": 4941,
+ "generated": "2026-11-19T11:06:27Z",
+ "count": 4947,
  "by_category": {
-  "Consumer": 2190,
-  "Infra/Tooling": 2043,
-  "DeFi": 1797,
+  "Consumer": 2194,
+  "Infra/Tooling": 2046,
+  "DeFi": 1799,
   "Other": 1260,
-  "Payments": 973,
+  "Payments": 974,
   "AI agents": 817,
-  "Social": 711,
-  "Identity/Privacy": 612,
-  "NFTs": 556,
-  "Gaming": 345,
-  "DAO/Governance": 295,
+  "Social": 712,
+  "Identity/Privacy": 615,
+  "NFTs": 557,
+  "Gaming": 346,
+  "DAO/Governance": 296,
   "DePIN": 246
  },
  "by_framework": {
-  "none detected": 2228,
-  "Anchor": 1788,
-  "Client-only (web3.js/kit)": 1623,
+  "none detected": 2230,
+  "Anchor": 1791,
+  "Client-only (web3.js/kit)": 1626,
   "Native (solana-program)": 308,
   "Pinocchio": 41,
   "Poseidon": 23,
@@ -160366,6 +160366,214 @@
    "files": 1,
    "builds": "unverified",
    "fork_pushed_at": "2026-05-10T08:07:30Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proof-of-gameplay",
+   "fork_url": "https://github.com/Blockchains/proof-of-gameplay",
+   "source": "TUM-Blockchain-Club/proof-of-gameplay",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Jupyter Notebook",
+    "Python",
+    "TypeScript",
+    "Swift",
+    "HTML",
+    "Dart"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "31g5N1BzKGdSJZvHAERYVHLvHFcM7SKU5tsgeTgpTECp",
+    "58aRQ8LWqsrnxgWY77b6DZmT4pxWF17cazq9eG1eU7br"
+   ],
+   "categories": [
+    "Gaming"
+   ],
+   "license": null,
+   "last_commit": "2025-01-04T20:43:01Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 333,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-01-04T20:43:15Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proof-of-good",
+   "fork_url": "https://github.com/Blockchains/proof-of-good",
+   "source": "madihasiddiqzafar/proof-of-good",
+   "description": null,
+   "language": null,
+   "languages": [
+    "HTML",
+    "JavaScript",
+    "CSS"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling",
+    "Social",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-10T02:29:02Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 17,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-10T02:29:03Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proof-of-inference",
+   "fork_url": "https://github.com/Blockchains/proof-of-inference",
+   "source": "nyakiomaina/proof-of-inference",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Dockerfile"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "5s7exNede5PNdwQYH6vguTGNV6K2iT5nQWo1SLrMGWgh",
+    "EFZ1VFf9ws338N9YktYuVQXB8ascEhQ3agtRvVE2rzKF",
+    "EqDLfkt6ZVyTo1ga3KtkFpV93qZFZZqQfpkZgMoDFcaj"
+   ],
+   "categories": [
+    "DeFi",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-09-15T12:42:36Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 6,
+   "has_package_json": true,
+   "files": 76,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-15T12:43:19Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proof-of-learn",
+   "fork_url": "https://github.com/Blockchains/proof-of-learn",
+   "source": "Mintmark-cc/proof-of-learn",
+   "description": "Proof of Learn is an on-chain credentialing protocol on Solana that lets education providers mint soulbound NFT certificates to verified graduates.",
+   "language": null,
+   "languages": [
+    "Rust",
+    "HTML",
+    "TypeScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "2QHZW6hvTD8FrxtJF9gakY4uP9zY94UrJZE29aq6MgbP",
+    "CoREENxT6tW1HoK8ypY1SxRMZTcVPm7R94rH4PZNhX7d"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "NFTs",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-10T14:06:30Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 32,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-10T14:06:37Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proof-of-skill",
+   "fork_url": "https://github.com/Blockchains/proof-of-skill",
+   "source": "singhrishikesh1/proof-of-skill",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Solidity",
+    "CSS",
+    "HTML",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DAO/Governance",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-06-01T18:49:59Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 94,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-01T18:49:59Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proof-of-vibe-chengdu",
+   "fork_url": "https://github.com/Blockchains/proof-of-vibe-chengdu",
+   "source": "CxyT-coder/proof-of-vibe-chengdu",
+   "description": "Solana Devnet \u6210\u90fd\u94fe\u4e0a\u7b7e\u5230 Demo\uff1aPhantom \u94b1\u5305\u3001Memo \u7559\u8a00\u548c\u53ef\u9a8c\u8bc1\u7b7e\u5230\u5899",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "PowerShell",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-07T08:20:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 53,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-07T08:20:28Z",
    "readme_injection_flag": false
   }
  ]
