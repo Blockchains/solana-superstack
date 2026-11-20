@@ -4949,3 +4949,9 @@
 | [proof-of-learn](repos/proof-of-learn.md) | DeFi, Payments, NFTs, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
 | [proof-of-skill](repos/proof-of-skill.md) | DAO/Governance, Identity/Privacy, Consumer | - | - | yes |
 | [proof-of-vibe-chengdu](repos/proof-of-vibe-chengdu.md) | Infra/Tooling | Client-only (web3.js/kit) | MIT | yes |
+| [proof-pay](repos/proof-pay.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Native (solana-program) | - | yes |
+| [proof-please](repos/proof-please.md) | AI agents, Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
+| [proof_of_mind_next](repos/proof_of_mind_next.md) | Other | - | - | no |
+| [proofapi](repos/proofapi.md) | Infra/Tooling | Client-only (web3.js/kit) | MIT | yes |
+| [proofcert](repos/proofcert.md) | Infra/Tooling, Identity/Privacy | Anchor | MIT | yes |
+| [proofchain](repos/proofchain.md) | Other | - | - | no |

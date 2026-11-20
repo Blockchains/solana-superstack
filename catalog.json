@@ -1,25 +1,25 @@
 {
- "generated": "2026-11-19T11:06:27Z",
- "count": 4947,
+ "generated": "2026-11-20T10:45:34Z",
+ "count": 4953,
  "by_category": {
-  "Consumer": 2194,
-  "Infra/Tooling": 2046,
-  "DeFi": 1799,
-  "Other": 1260,
-  "Payments": 974,
-  "AI agents": 817,
-  "Social": 712,
-  "Identity/Privacy": 615,
+  "Consumer": 2196,
+  "Infra/Tooling": 2050,
+  "DeFi": 1800,
+  "Other": 1262,
+  "Payments": 975,
+  "AI agents": 818,
+  "Social": 713,
+  "Identity/Privacy": 617,
   "NFTs": 557,
   "Gaming": 346,
   "DAO/Governance": 296,
   "DePIN": 246
  },
  "by_framework": {
-  "none detected": 2230,
-  "Anchor": 1791,
-  "Client-only (web3.js/kit)": 1626,
-  "Native (solana-program)": 308,
+  "none detected": 2232,
+  "Anchor": 1794,
+  "Client-only (web3.js/kit)": 1628,
+  "Native (solana-program)": 309,
   "Pinocchio": 41,
   "Poseidon": 23,
   "Bolt (MagicBlock)": 6,
@@ -160574,6 +160574,203 @@
    "files": 53,
    "builds": "unverified",
    "fork_pushed_at": "2026-10-07T08:20:28Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proof-pay",
+   "fork_url": "https://github.com/Blockchains/proof-pay",
+   "source": "Vivek23456/proof-pay",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Native (solana-program)"
+   ],
+   "program_ids": [
+    "ABSmAN3fhCdnEnAdRiKUWjpBwrZb2FZ41EYD3hnFN5xT",
+    "PayBhrjWjw4sCnu9Xuu8jWpj5G6Tuu1KEGkq8Z8Kye8"
+   ],
+   "categories": [
+    "DeFi",
+    "Payments",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-13T04:42:29Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": false,
+   "files": 78,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-13T04:42:35Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proof-please",
+   "fork_url": "https://github.com/Blockchains/proof-please",
+   "source": "alirabbani97/proof-please",
+   "description": "AI-verified, soulbound reputation infrastructure for creators on Solana.  A contributor submits creative work \u2014 code, art, music, 3D, writing, testing. An AI agent scores against a calibrated rubric. ",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "11111111111111111111111111111111",
+    "EvgHfdx5xyTNoPnaHwDtySdAtMUYGcMz9nwCiwMLi9sn"
+   ],
+   "categories": [
+    "AI agents",
+    "Infra/Tooling",
+    "Social",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T07:11:21Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 68,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T07:11:21Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proof_of_mind_next",
+   "fork_url": "https://github.com/Blockchains/proof_of_mind_next",
+   "source": "Proof-Of-Mind/proof_of_mind_next",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2024-04-09T02:00:46Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 111,
+   "builds": "unverified",
+   "fork_pushed_at": "2024-04-09T05:13:58Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofapi",
+   "fork_url": "https://github.com/Blockchains/proofapi",
+   "source": "Kriazer078/proofapi",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Rust",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "5ffvduJkfxLgFiJEoZ9Pjq7oPVW1aKCgfqzmEto1FqjU"
+   ],
+   "categories": [
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-10-11T11:43:15Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 207,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-11T11:43:24Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofcert",
+   "fork_url": "https://github.com/Blockchains/proofcert",
+   "source": "proofcertsol/proofcert",
+   "description": "A decentralized, privacy-preserving credential registry that allows educational institutions to issue and verify tamper-proof certificates on Solana.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "6Adp72HQ38UEmqbvyDT5xxMFumcbkMaacRsS2aiAML2N"
+   ],
+   "categories": [
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-05-10T05:46:44Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 58,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-10T05:46:46Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofchain",
+   "fork_url": "https://github.com/Blockchains/proofchain",
+   "source": "monkeypries/proofchain",
+   "description": "Certificate verification app for the Solana hackathon",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": null,
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 22,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-11T17:49:51Z",
    "readme_injection_flag": false
   }
  ]
