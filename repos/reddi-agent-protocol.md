@@ -1,6 +1,6 @@
 # reddi-agent-protocol
 
-- Fork: [Blockchains/reddi-agent-protocol](https://github.com/Blockchains/reddi-agent-protocol)
+- Fork: [Blockchains/reddi-agent-protocol](https://github.com/Blockchains/reddi-escrow-solana)
 - Original: [nissan/reddi-agent-protocol](https://github.com/nissan/reddi-agent-protocol)
 - Description: Permissionless AI agent marketplace on Solana — x402 escrow, commit-reveal reputation, Ollama-powered specialists
 - Language: None (TypeScript, JavaScript, Rust, MDX, Shell, HTML)
