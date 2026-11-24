@@ -4960,3 +4960,7 @@
 | [proofhaus](repos/proofhaus.md) | DeFi, Infra/Tooling | - | - | yes |
 | [prooflink](repos/prooflink.md) | DeFi, Payments, AI agents, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | MIT | no |
 | [proofmarket](repos/proofmarket.md) | AI agents, Infra/Tooling | Anchor | MIT | yes |
+| [proofmesh](repos/proofmesh.md) | Identity/Privacy | Anchor, Client-only (web3.js/kit) | - | yes |
+| [proofmesh-solana-guard](repos/proofmesh-solana-guard.md) | DeFi, AI agents, Infra/Tooling, DAO/Governance, Identity/Privacy, Consumer | Anchor | MIT | yes |
+| [proofofagent](repos/proofofagent.md) | AI agents, Infra/Tooling, Identity/Privacy | Native (solana-program) | - | no |
+| [proofpay](repos/proofpay.md) | Other | Anchor, Client-only (web3.js/kit) | - | yes |

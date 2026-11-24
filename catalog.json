@@ -1,25 +1,25 @@
 {
- "generated": "2026-11-23T11:29:32Z",
- "count": 4958,
+ "generated": "2026-11-24T13:18:13Z",
+ "count": 4962,
  "by_category": {
-  "Consumer": 2198,
-  "Infra/Tooling": 2055,
-  "DeFi": 1802,
-  "Other": 1262,
+  "Consumer": 2199,
+  "Infra/Tooling": 2057,
+  "DeFi": 1803,
+  "Other": 1263,
   "Payments": 978,
-  "AI agents": 821,
+  "AI agents": 823,
   "Social": 713,
-  "Identity/Privacy": 618,
+  "Identity/Privacy": 621,
   "NFTs": 557,
   "Gaming": 346,
-  "DAO/Governance": 296,
+  "DAO/Governance": 297,
   "DePIN": 246
  },
  "by_framework": {
   "none detected": 2233,
-  "Anchor": 1795,
-  "Client-only (web3.js/kit)": 1631,
-  "Native (solana-program)": 310,
+  "Anchor": 1798,
+  "Client-only (web3.js/kit)": 1633,
+  "Native (solana-program)": 311,
   "Pinocchio": 41,
   "Poseidon": 23,
   "Bolt (MagicBlock)": 6,
@@ -160938,6 +160938,146 @@
    "files": 658,
    "builds": "unverified",
    "fork_pushed_at": "2026-11-02T15:59:30Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofmesh",
+   "fork_url": "https://github.com/Blockchains/proofmesh",
+   "source": "Vijayalakshmi2608/proofmesh",
+   "description": "Outcome-bound work verification and settlement platform for Solana/Web3 teams. \u00b7 Built with Manus",
+   "language": null,
+   "languages": [
+    "Makefile",
+    "TypeScript",
+    "JavaScript",
+    "Rust",
+    "DTrace",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "4wBqpZM9xaSheZzJSMawUKKwhdpChKbZ5eu5ky4Vigw"
+   ],
+   "categories": [
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2026-10-14T16:58:58Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 1,
+   "has_package_json": true,
+   "files": 2054,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-14T16:58:59Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofmesh-solana-guard",
+   "fork_url": "https://github.com/Blockchains/proofmesh-solana-guard",
+   "source": "Vetassikc/proofmesh-solana-guard",
+   "description": "Open-source Solana trust permits for guarded agent and DAO treasury payouts.",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "Rust",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "5LUyS5ZN4F4qK8xQy2RnABcoKAFFo4VuApLGKzyF4xjk"
+   ],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling",
+    "DAO/Governance",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-08-17T17:52:13Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 76,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-23T03:58:07Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofofagent",
+   "fork_url": "https://github.com/Blockchains/proofofagent",
+   "source": "GoldenFishe/proofofagent",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Python",
+    "Rust",
+    "Shell"
+   ],
+   "frameworks": [
+    "Native (solana-program)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "AI agents",
+    "Infra/Tooling",
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2026-09-22T15:34:39Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 31,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-22T15:34:43Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofpay",
+   "fork_url": "https://github.com/Blockchains/proofpay",
+   "source": "Waleed-Ilyas/proofpay",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Rust",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [
+    "DGXKWH8owsS4QcnbB8jY4Lzw69gHLpHnX3NuRLCwHe3k"
+   ],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-09T07:20:49Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 84,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-09T07:20:50Z",
    "readme_injection_flag": false
   }
  ]
