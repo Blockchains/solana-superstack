@@ -4964,3 +4964,9 @@
 | [proofmesh-solana-guard](repos/proofmesh-solana-guard.md) | DeFi, AI agents, Infra/Tooling, DAO/Governance, Identity/Privacy, Consumer | Anchor | MIT | yes |
 | [proofofagent](repos/proofofagent.md) | AI agents, Infra/Tooling, Identity/Privacy | Native (solana-program) | - | no |
 | [proofpay](repos/proofpay.md) | Other | Anchor, Client-only (web3.js/kit) | - | yes |
+| [proofpay-site](repos/proofpay-site.md) | Other | - | - | no |
+| [proofrail](repos/proofrail.md) | DeFi, AI agents, Infra/Tooling | Client-only (web3.js/kit) | MIT | yes |
+| [prooftrade](repos/prooftrade.md) | Other | Client-only (web3.js/kit) | - | no |
+| [proofwork](repos/proofwork.md) | Payments, NFTs, Consumer | Anchor | - | yes |
+| [propchange](repos/propchange.md) | Other | - | - | no |
+| [property_collesium](repos/property_collesium.md) | Other | - | - | no |

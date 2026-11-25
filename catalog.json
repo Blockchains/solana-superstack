@@ -1,24 +1,24 @@
 {
- "generated": "2026-11-24T13:18:13Z",
- "count": 4962,
+ "generated": "2026-11-25T12:09:07Z",
+ "count": 4968,
  "by_category": {
-  "Consumer": 2199,
-  "Infra/Tooling": 2057,
-  "DeFi": 1803,
-  "Other": 1263,
-  "Payments": 978,
-  "AI agents": 823,
+  "Consumer": 2200,
+  "Infra/Tooling": 2058,
+  "DeFi": 1804,
+  "Other": 1267,
+  "Payments": 979,
+  "AI agents": 824,
   "Social": 713,
   "Identity/Privacy": 621,
-  "NFTs": 557,
+  "NFTs": 558,
   "Gaming": 346,
   "DAO/Governance": 297,
   "DePIN": 246
  },
  "by_framework": {
-  "none detected": 2233,
-  "Anchor": 1798,
-  "Client-only (web3.js/kit)": 1633,
+  "none detected": 2236,
+  "Anchor": 1799,
+  "Client-only (web3.js/kit)": 1635,
   "Native (solana-program)": 311,
   "Pinocchio": 41,
   "Poseidon": 23,
@@ -161078,6 +161078,184 @@
    "files": 84,
    "builds": "unverified",
    "fork_pushed_at": "2026-10-09T07:20:50Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofpay-site",
+   "fork_url": "https://github.com/Blockchains/proofpay-site",
+   "source": "biandersonargentino134-maker/proofpay-site",
+   "description": null,
+   "language": null,
+   "languages": [
+    "HTML",
+    "JavaScript",
+    "TypeScript",
+    "CSS",
+    "PLpgSQL"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-13T11:28:42Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 57,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-13T11:28:43Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofrail",
+   "fork_url": "https://github.com/Blockchains/proofrail",
+   "source": "kaulastudies/proofrail",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "Python",
+    "JavaScript",
+    "PowerShell"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "AI agents",
+    "Infra/Tooling"
+   ],
+   "license": "MIT",
+   "last_commit": "2026-09-27T15:28:42Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 77,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-09-27T15:28:42Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/prooftrade",
+   "fork_url": "https://github.com/Blockchains/prooftrade",
+   "source": "creativedev47/prooftrade",
+   "description": null,
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "JavaScript"
+   ],
+   "frameworks": [
+    "Client-only (web3.js/kit)"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2025-11-01T06:58:38Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 98,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-11-01T06:58:45Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proofwork",
+   "fork_url": "https://github.com/Blockchains/proofwork",
+   "source": "ItsKrampus/proofwork",
+   "description": null,
+   "language": null,
+   "languages": [
+    "JavaScript",
+    "CSS",
+    "Rust",
+    "TypeScript",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [
+    "E9jCj4PbqrAjgJozagmhuXBaLWyzXmwVqTZxpkEGJu4p"
+   ],
+   "categories": [
+    "Payments",
+    "NFTs",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-09T16:05:06Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": true,
+   "files": 69,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-09T16:05:15Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/propchange",
+   "fork_url": "https://github.com/Blockchains/propchange",
+   "source": "dimitrijnemesh/propchange",
+   "description": null,
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-10-05T21:25:07Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 1,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-05T21:25:07Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/property_collesium",
+   "fork_url": "https://github.com/Blockchains/property_collesium",
+   "source": "adityajha77/property_collesium",
+   "description": "TokenEstate is a decentralized Web3 real estate platform that enables users to buy property-backed tokens, list properties seamlessly, and connect multiple wallets for secure transactions.",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": null,
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 0,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-29T19:46:37Z",
    "readme_injection_flag": false
   }
  ]
