@@ -1,26 +1,26 @@
 {
- "generated": "2026-11-25T12:09:07Z",
- "count": 4968,
+ "generated": "2026-11-26T11:46:11Z",
+ "count": 4972,
  "by_category": {
-  "Consumer": 2200,
+  "Consumer": 2202,
   "Infra/Tooling": 2058,
-  "DeFi": 1804,
-  "Other": 1267,
+  "DeFi": 1806,
+  "Other": 1268,
   "Payments": 979,
   "AI agents": 824,
-  "Social": 713,
-  "Identity/Privacy": 621,
-  "NFTs": 558,
+  "Social": 714,
+  "Identity/Privacy": 622,
+  "NFTs": 559,
   "Gaming": 346,
-  "DAO/Governance": 297,
+  "DAO/Governance": 298,
   "DePIN": 246
  },
  "by_framework": {
-  "none detected": 2236,
-  "Anchor": 1799,
+  "none detected": 2238,
+  "Anchor": 1801,
   "Client-only (web3.js/kit)": 1635,
   "Native (solana-program)": 311,
-  "Pinocchio": 41,
+  "Pinocchio": 42,
   "Poseidon": 23,
   "Bolt (MagicBlock)": 6,
   "Steel": 2,
@@ -161256,6 +161256,122 @@
    "files": 0,
    "builds": "unverified",
    "fork_pushed_at": "2025-10-29T19:46:37Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proply",
+   "fork_url": "https://github.com/Blockchains/proply",
+   "source": "solweller/proply",
+   "description": "PROPLY \u2014 Australian property marketplace with Solana wallet integration. Built for Colosseum Hackathon 2026.",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T06:06:44Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 3,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T06:06:44Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/propstrade",
+   "fork_url": "https://github.com/Blockchains/propstrade",
+   "source": "penguinpecker/propstrade",
+   "description": "Onchain prop firm on Solana: simulated evaluations, real funded perps traded from a program-owned USDC vault, 80/20 payouts by program",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Rust",
+    "CSS",
+    "Shell",
+    "HTML"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Pinocchio"
+   ],
+   "program_ids": [
+    "7qYRWwpmj3j3exVoBUJHzigcWmMN8ruPEdZdZrGzTJ7",
+    "CnFTSE4a4fVdu8DoR7tEBmkdQfJR4uQikx331B6KJrcN"
+   ],
+   "categories": [
+    "DeFi",
+    "Identity/Privacy"
+   ],
+   "license": null,
+   "last_commit": "2026-10-07T16:49:55Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 6,
+   "has_package_json": true,
+   "files": 476,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-02T21:33:09Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/protean",
+   "fork_url": "https://github.com/Blockchains/protean",
+   "source": "replico-labs/protean",
+   "description": "Protean is a social messenger-based governance tool allowing users in group chats to contribute, vote, and execute any transaction In-chat ",
+   "language": null,
+   "languages": [],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "DeFi",
+    "NFTs",
+    "Social",
+    "DAO/Governance",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-11-03T03:07:20Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": false,
+   "files": 2,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-11-03T03:07:22Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/protocol-sol",
+   "fork_url": "https://github.com/Blockchains/protocol-sol",
+   "source": "lababidi/protocol-sol",
+   "description": null,
+   "language": null,
+   "languages": [],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": null,
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 3,
+   "has_package_json": true,
+   "files": 80,
+   "builds": "unverified",
+   "fork_pushed_at": "2025-10-31T02:54:31Z",
    "readme_injection_flag": false
   }
  ]

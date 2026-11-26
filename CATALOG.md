@@ -4970,3 +4970,7 @@
 | [proofwork](repos/proofwork.md) | Payments, NFTs, Consumer | Anchor | - | yes |
 | [propchange](repos/propchange.md) | Other | - | - | no |
 | [property_collesium](repos/property_collesium.md) | Other | - | - | no |
+| [proply](repos/proply.md) | Consumer | - | - | no |
+| [propstrade](repos/propstrade.md) | DeFi, Identity/Privacy | Anchor, Pinocchio | - | yes |
+| [protean](repos/protean.md) | DeFi, NFTs, Social, DAO/Governance, Consumer | - | - | no |
+| [protocol-sol](repos/protocol-sol.md) | Other | Anchor | - | yes |
