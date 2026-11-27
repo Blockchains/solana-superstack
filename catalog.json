@@ -1,27 +1,27 @@
 {
- "generated": "2026-11-26T11:46:11Z",
- "count": 4972,
+ "generated": "2026-11-27T11:50:31Z",
+ "count": 4975,
  "by_category": {
-  "Consumer": 2202,
-  "Infra/Tooling": 2058,
-  "DeFi": 1806,
-  "Other": 1268,
+  "Consumer": 2203,
+  "Infra/Tooling": 2059,
+  "DeFi": 1807,
+  "Other": 1270,
   "Payments": 979,
   "AI agents": 824,
   "Social": 714,
-  "Identity/Privacy": 622,
+  "Identity/Privacy": 623,
   "NFTs": 559,
   "Gaming": 346,
   "DAO/Governance": 298,
   "DePIN": 246
  },
  "by_framework": {
-  "none detected": 2238,
-  "Anchor": 1801,
+  "none detected": 2239,
+  "Anchor": 1803,
   "Client-only (web3.js/kit)": 1635,
   "Native (solana-program)": 311,
   "Pinocchio": 42,
-  "Poseidon": 23,
+  "Poseidon": 24,
   "Bolt (MagicBlock)": 6,
   "Steel": 2,
   "Seahorse": 1
@@ -161372,6 +161372,100 @@
    "files": 80,
    "builds": "unverified",
    "fork_pushed_at": "2025-10-31T02:54:31Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/prova-v1",
+   "fork_url": "https://github.com/Blockchains/prova-v1",
+   "source": "Imdavyking/prova-v1",
+   "description": null,
+   "language": null,
+   "languages": [
+    "Go",
+    "TypeScript",
+    "Rust",
+    "JavaScript",
+    "Noir",
+    "CSS"
+   ],
+   "frameworks": [
+    "Anchor",
+    "Poseidon"
+   ],
+   "program_ids": [
+    "3KNFsYY4FC5PVxCq9dGV8v7izGKs6zRyEaUqq17C8fdA",
+    "7bFAYfTAJEAvjc4PaAxfVgyEu2o4Tda4hqzFX2vMHVeL"
+   ],
+   "categories": [
+    "DeFi",
+    "Infra/Tooling",
+    "Identity/Privacy",
+    "Consumer"
+   ],
+   "license": null,
+   "last_commit": "2026-05-12T02:27:40Z",
+   "stars_source": null,
+   "has_tests": true,
+   "has_anchor_toml": true,
+   "cargo_manifests": 5,
+   "has_package_json": false,
+   "files": 296,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-05-12T02:27:43Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/proven",
+   "fork_url": "https://github.com/Blockchains/proven",
+   "source": "notcodesid/proven",
+   "description": "landing page of the lockin app",
+   "language": null,
+   "languages": [
+    "TypeScript",
+    "CSS",
+    "JavaScript"
+   ],
+   "frameworks": [],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": "2026-06-22T15:01:48Z",
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": false,
+   "cargo_manifests": 0,
+   "has_package_json": true,
+   "files": 42,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-06-26T17:30:13Z",
+   "readme_injection_flag": false
+  },
+  {
+   "fork": "Blockchains/provenance-machine",
+   "fork_url": "https://github.com/Blockchains/provenance-machine",
+   "source": "axaxayacatl/provenance-machine",
+   "description": "Cryptographic provenance infrastructure for the Crypto World\u2019s Fair by Colosseum. Provenance Machine lets researchers, developers, and organizations create verifiable records for digital artifacts without putting the underlying files on-chain. Solo-engineered for 2026 submission.",
+   "language": null,
+   "languages": [],
+   "frameworks": [
+    "Anchor"
+   ],
+   "program_ids": [],
+   "categories": [
+    "Other"
+   ],
+   "license": null,
+   "last_commit": null,
+   "stars_source": null,
+   "has_tests": false,
+   "has_anchor_toml": true,
+   "cargo_manifests": 2,
+   "has_package_json": false,
+   "files": 15,
+   "builds": "unverified",
+   "fork_pushed_at": "2026-10-06T20:44:15Z",
    "readme_injection_flag": false
   }
  ]

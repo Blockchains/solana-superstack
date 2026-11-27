@@ -4974,3 +4974,6 @@
 | [propstrade](repos/propstrade.md) | DeFi, Identity/Privacy | Anchor, Pinocchio | - | yes |
 | [protean](repos/protean.md) | DeFi, NFTs, Social, DAO/Governance, Consumer | - | - | no |
 | [protocol-sol](repos/protocol-sol.md) | Other | Anchor | - | yes |
+| [prova-v1](repos/prova-v1.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Poseidon | - | yes |
+| [proven](repos/proven.md) | Other | - | - | no |
+| [provenance-machine](repos/provenance-machine.md) | Other | Anchor | - | no |
