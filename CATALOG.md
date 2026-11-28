@@ -1407,7 +1407,6 @@
 | [PayPerk_v0](repos/PayPerk_v0.md) | Payments, Consumer | - | - | no |
 | [PayPulser](repos/PayPulser.md) | Payments, Infra/Tooling, Consumer | Native (solana-program) | - | no |
 | [PaySim](repos/PaySim.md) | Payments, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
-| [PaySphere](repos/PaySphere.md) | DeFi, Payments, AI agents, Infra/Tooling, Consumer | - | Apache-2.0 | no |
 | [PayTask](repos/PayTask.md) | DeFi, Payments, Infra/Tooling, Consumer | Client-only (web3.js/kit) | - | no |
 | [PayTrail](repos/PayTrail.md) | Payments | - | - | yes |
 | [Paybitrum](repos/Paybitrum.md) | Payments, Infra/Tooling, Consumer | - | MIT | yes |
@@ -4909,71 +4908,3 @@
 | [pritok](repos/pritok.md) | DeFi, Payments, AI agents, Infra/Tooling, Consumer | Anchor | - | yes |
 | [privacy-program](repos/privacy-program.md) | DeFi, Identity/Privacy | Anchor, Client-only (web3.js/kit) | - | yes |
 | [privacy-x-perps](repos/privacy-x-perps.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Anchor | - | yes |
-| [privacysafe-payments](repos/privacysafe-payments.md) | Payments, NFTs, AI agents, Social, Consumer | Client-only (web3.js/kit) | AGPL-3.0 | yes |
-| [privagent](repos/privagent.md) | AI agents, Infra/Tooling, Identity/Privacy, Consumer | - | - | no |
-| [private-payment-tiers-solana](repos/private-payment-tiers-solana.md) | Payments, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | yes |
-| [private-payroll](repos/private-payroll.md) | Payments, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | - | no |
-| [privatevote](repos/privatevote.md) | Other | Anchor | - | yes |
-| [privax](repos/privax.md) | Identity/Privacy | Anchor, Native (solana-program) | - | yes |
-| [privment](repos/privment.md) | Payments, NFTs, Identity/Privacy | Anchor, Client-only (web3.js/kit) | - | yes |
-| [probabl-solana](repos/probabl-solana.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
-| [probasight](repos/probasight.md) | Infra/Tooling, Social, Consumer | Client-only (web3.js/kit) | - | yes |
-| [probe](repos/probe.md) | DeFi, Infra/Tooling, Social | Anchor | - | no |
-| [probe402-check](repos/probe402-check.md) | Payments, AI agents, Infra/Tooling | - | Apache-2.0 | yes |
-| [product](repos/product.md) | DeFi, DePIN | - | - | no |
-| [proekt](repos/proekt.md) | Infra/Tooling, Consumer | - | - | yes |
-| [program-roulette](repos/program-roulette.md) | DeFi, Gaming, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
-| [programs](repos/programs.md) | DeFi, NFTs, Infra/Tooling, Social, DAO/Governance, Consumer | Anchor, Client-only (web3.js/kit) | Apache-2.0 | yes |
-| [programs-v1](repos/programs-v1.md) | DeFi, Infra/Tooling, Identity/Privacy | Anchor | - | no |
-| [project](repos/project.md) | Other | - | - | yes |
-| [project-1](repos/project-1.md) | NFTs, Identity/Privacy, Consumer | - | - | no |
-| [project-23-apr-21-47](repos/project-23-apr-21-47.md) | DeFi | Client-only (web3.js/kit) | - | no |
-| [project-aegis](repos/project-aegis.md) | AI agents, Infra/Tooling | - | - | yes |
-| [project-scout](repos/project-scout.md) | Other | Client-only (web3.js/kit) | - | no |
-| [projectKAIKA](repos/projectKAIKA.md) | Other | - | - | no |
-| [project_axs](repos/project_axs.md) | DePIN | - | - | yes |
-| [projectedenapp.github.io](repos/projectedenapp.github.io.md) | Other | - | - | no |
-| [proleaguegg-solana-contract](repos/proleaguegg-solana-contract.md) | Payments, Gaming, Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit), Native (solana-program) | NOASSERTION | yes |
-| [promopay](repos/promopay.md) | Infra/Tooling | Anchor, Client-only (web3.js/kit) | MIT | yes |
-| [promptSOL](repos/promptSOL.md) | Payments, Social, Consumer | Client-only (web3.js/kit) | - | no |
-| [prompto](repos/prompto.md) | Other | Client-only (web3.js/kit) | - | no |
-| [promptquest](repos/promptquest.md) | NFTs, Gaming, AI agents, Infra/Tooling, Consumer | - | - | no |
-| [proof-of-alpha](repos/proof-of-alpha.md) | DeFi, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit), Pinocchio | - | yes |
-| [proof-of-anchor](repos/proof-of-anchor.md) | Social, DAO/Governance, Identity/Privacy, Consumer | Anchor, Native (solana-program) | - | yes |
-| [proof-of-build](repos/proof-of-build.md) | DeFi, Infra/Tooling, Consumer | Anchor, Client-only (web3.js/kit) | MIT | yes |
-| [proof-of-engagement](repos/proof-of-engagement.md) | Infra/Tooling, Consumer | Anchor | MIT | yes |
-| [proof-of-focus](repos/proof-of-focus.md) | Other | - | - | no |
-| [proof-of-gameplay](repos/proof-of-gameplay.md) | Gaming | Anchor | - | yes |
-| [proof-of-good](repos/proof-of-good.md) | Infra/Tooling, Social, Identity/Privacy, Consumer | - | - | yes |
-| [proof-of-inference](repos/proof-of-inference.md) | DeFi, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
-| [proof-of-learn](repos/proof-of-learn.md) | DeFi, Payments, NFTs, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
-| [proof-of-skill](repos/proof-of-skill.md) | DAO/Governance, Identity/Privacy, Consumer | - | - | yes |
-| [proof-of-vibe-chengdu](repos/proof-of-vibe-chengdu.md) | Infra/Tooling | Client-only (web3.js/kit) | MIT | yes |
-| [proof-pay](repos/proof-pay.md) | DeFi, Payments, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Native (solana-program) | - | yes |
-| [proof-please](repos/proof-please.md) | AI agents, Infra/Tooling, Social, Consumer | Anchor, Client-only (web3.js/kit) | - | yes |
-| [proof_of_mind_next](repos/proof_of_mind_next.md) | Other | - | - | no |
-| [proofapi](repos/proofapi.md) | Infra/Tooling | Client-only (web3.js/kit) | MIT | yes |
-| [proofcert](repos/proofcert.md) | Infra/Tooling, Identity/Privacy | Anchor | MIT | yes |
-| [proofchain](repos/proofchain.md) | Other | - | - | no |
-| [proofdrop](repos/proofdrop.md) | Payments, Infra/Tooling, Consumer | Client-only (web3.js/kit), Native (solana-program) | MIT | yes |
-| [proofforge](repos/proofforge.md) | Payments, AI agents, Infra/Tooling | Client-only (web3.js/kit) | MIT | no |
-| [proofhaus](repos/proofhaus.md) | DeFi, Infra/Tooling | - | - | yes |
-| [prooflink](repos/prooflink.md) | DeFi, Payments, AI agents, Infra/Tooling, Identity/Privacy, Consumer | Client-only (web3.js/kit) | MIT | no |
-| [proofmarket](repos/proofmarket.md) | AI agents, Infra/Tooling | Anchor | MIT | yes |
-| [proofmesh](repos/proofmesh.md) | Identity/Privacy | Anchor, Client-only (web3.js/kit) | - | yes |
-| [proofmesh-solana-guard](repos/proofmesh-solana-guard.md) | DeFi, AI agents, Infra/Tooling, DAO/Governance, Identity/Privacy, Consumer | Anchor | MIT | yes |
-| [proofofagent](repos/proofofagent.md) | AI agents, Infra/Tooling, Identity/Privacy | Native (solana-program) | - | no |
-| [proofpay](repos/proofpay.md) | Other | Anchor, Client-only (web3.js/kit) | - | yes |
-| [proofpay-site](repos/proofpay-site.md) | Other | - | - | no |
-| [proofrail](repos/proofrail.md) | DeFi, AI agents, Infra/Tooling | Client-only (web3.js/kit) | MIT | yes |
-| [prooftrade](repos/prooftrade.md) | Other | Client-only (web3.js/kit) | - | no |
-| [proofwork](repos/proofwork.md) | Payments, NFTs, Consumer | Anchor | - | yes |
-| [propchange](repos/propchange.md) | Other | - | - | no |
-| [property_collesium](repos/property_collesium.md) | Other | - | - | no |
-| [proply](repos/proply.md) | Consumer | - | - | no |
-| [propstrade](repos/propstrade.md) | DeFi, Identity/Privacy | Anchor, Pinocchio | - | yes |
-| [protean](repos/protean.md) | DeFi, NFTs, Social, DAO/Governance, Consumer | - | - | no |
-| [protocol-sol](repos/protocol-sol.md) | Other | Anchor | - | yes |
-| [prova-v1](repos/prova-v1.md) | DeFi, Infra/Tooling, Identity/Privacy, Consumer | Anchor, Poseidon | - | yes |
-| [proven](repos/proven.md) | Other | - | - | no |
-| [provenance-machine](repos/provenance-machine.md) | Other | Anchor | - | no |
